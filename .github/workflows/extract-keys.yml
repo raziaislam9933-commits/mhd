@@ -1,0 +1,79 @@
+name: Extract Stream Keys
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      sites:
+        description: 'Sites to scrape (all / durbintv / mhdtvp)'
+        required: false
+        default: 'all'
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run extractor
+        run: node scripts/extract.js
+
+      - name: Show summary
+        run: |
+          echo "## Stream Extraction Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f data/streams.json ]; then
+            TOTAL=$(node -e "console.log(require('./data/streams.json').total)")
+            OK=$(node -e "console.log(require('./data/streams.json').successful)")
+            FAIL=$(node -e "console.log(require('./data/streams.json').failed)")
+            echo "**Total channels:** $TOTAL" >> $GITHUB_STEP_SUMMARY
+            echo "**Extracted:** $OK" >> $GITHUB_STEP_SUMMARY
+            echo "**Failed/Needs login:** $FAIL" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### Successful Streams" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            node -e "
+              const d = require('./data/streams.json');
+              d.streams.forEach(s => {
+                const url = s.mpd || s.m3u8 || '';
+                console.log(\`✓ [\${s.site}] \${s.name} → \${url.substring(0,80)}\`);
+              });
+            " >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            if [ "$FAIL" -gt 0 ]; then
+              echo "" >> $GITHUB_STEP_SUMMARY
+              echo "### Failed (login-required or offline)" >> $GITHUB_STEP_SUMMARY
+              echo '```' >> $GITHUB_STEP_SUMMARY
+              node -e "
+                const d = require('./data/streams.json');
+                d.errors.forEach(s => console.log(\`✗ [\${s.site}] \${s.name} — \${s.status}\`));
+              " >> $GITHUB_STEP_SUMMARY
+              echo '```' >> $GITHUB_STEP_SUMMARY
+            fi
+          fi
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "stream-keys-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
+            TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+            git commit -m "🔑 Update stream keys — $TIMESTAMP"
+            git push
+          fi
