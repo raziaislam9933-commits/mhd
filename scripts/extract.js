@@ -196,22 +196,59 @@ async function main() {
   fs.writeFileSync(jsonPath, JSON.stringify(output, null, 2));
   console.log(`\nWrote ${jsonPath}`);
 
-  // ── Write M3U playlist ──
+  // ── Write M3U playlist (Kodi/NS Player compatible) ──
   const m3uLines = ['#EXTM3U', ''];
   for (const s of successful) {
     const url = s.m3u8 || s.mpd;
     if (!url) continue;
     const tvgName = s.name.replace(/[^a-zA-Z0-9 ]/g, '');
     m3uLines.push(`#EXTINF:-1 tvg-name="${tvgName}" group-title="${s.site}",${s.name}`);
-    if (s.kid && s.key) {
-      m3uLines.push(`#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,${Buffer.from(JSON.stringify({keys:[{kid:s.kid,key:s.key}]})).toString('base64')}",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"`);
+
+    if (s.mpd && s.kid && s.key) {
+      // ClearKey DASH — Kodi/NS Player format
+      m3uLines.push(`#KODIPROP:inputstream.adaptive.manifest_type=dash`);
+      m3uLines.push(`#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed`);
+      m3uLines.push(`#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"${s.kid}","key":"${s.key}"}]}`);
+    } else if (s.mpd) {
+      // MPD without keys (unencrypted)
+      m3uLines.push(`#KODIPROP:inputstream.adaptive.manifest_type=dash`);
     }
+
     m3uLines.push(url);
     m3uLines.push('');
   }
   const m3uPath = path.join(outDir, 'playlist.m3u');
   fs.writeFileSync(m3uPath, m3uLines.join('\n'));
   console.log(`Wrote ${m3uPath}`);
+
+  // ── Write simple M3U (just key_id:key per line, no DRM headers) ──
+  const simpleLines = ['#EXTM3U x-tvg-url=""', ''];
+  for (const s of successful) {
+    const url = s.m3u8 || s.mpd;
+    if (!url) continue;
+    const tvgName = s.name.replace(/[^a-zA-Z0-9 ]/g, '');
+    simpleLines.push(`#EXTINF:-1 tvg-name="${tvgName}" group-title="${s.site}",${s.name}`);
+    if (s.kid && s.key) {
+      simpleLines.push(`#EXTVLCOPT:http-user-agent=Mozilla/5.0`);
+      simpleLines.push(`#EXTGRP:${s.site}`);
+    }
+    simpleLines.push(url);
+    simpleLines.push('');
+  }
+  const simplePath = path.join(outDir, 'playlist-simple.m3u');
+  fs.writeFileSync(simplePath, simpleLines.join('\n'));
+  console.log(`Wrote ${simplePath}`);
+
+  // ── Write keys-only reference (KID:KEY pairs) ──
+  const keysLines = ['# Stream Keys Reference', `# Generated: ${timestamp}`, '# Format: Channel | KID | KEY', ''];
+  for (const s of successful) {
+    if (s.kid && s.key) {
+      keysLines.push(`${s.name} | ${s.kid} | ${s.key}`);
+    }
+  }
+  const keysPath = path.join(outDir, 'keys.txt');
+  fs.writeFileSync(keysPath, keysLines.join('\n'));
+  console.log(`Wrote ${keysPath}`);
 
   // ── Write Markdown report ──
   const mdLines = [
