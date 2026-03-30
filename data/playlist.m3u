@@ -1,168 +1,250 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIyOTBlMDljODM3ZGE3OGQ1Y2Q5NjE5NzhkMzkwNTE1YyIsImtleSI6ImI3NDg4MzZjNzFlNmE0Y2E2OGVmNWI1NjUyZGI2MjQ3In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"290e09c837da78d5cd961978d390515c","key":"b748836c71e6a4ca68ef5b5652db6247"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 https://001.fclplayer.net/live/csstream2/chunklist.m3u8?vidictid=205421770799&id=yosintv
 
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJkY2Y0NzlkY2U4MDQ0ODNiMzVjMDA2NThkMTM1YmFjMCIsImtleSI6IjA3ZDUyNjY3Y2Q5ZDdhODI5NGFlYjY1ZjAyMTFmNTg2In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"dcf479dce804483b35c00658d135bac0","key":"07d52667cd9d7a8294aeb65f0211f586"}]}
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/xuhexd0axc/out/v1/f448c404f8df4b7e981df6d539a3a0c1/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJkY2Y0NzlkY2U4MDQ0ODNiMzVjMDA2NThkMTM1YmFjMCIsImtleSI6IjA3ZDUyNjY3Y2Q5ZDdhODI5NGFlYjY1ZjAyMTFmNTg2In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"dcf479dce804483b35c00658d135bac0","key":"07d52667cd9d7a8294aeb65f0211f586"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xuhexd0axc/out/v1/f448c404f8df4b7e981df6d539a3a0c1/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIwIiwia2V5IjoiMCJ9XX0=",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"0","key":"0"}]}
 https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIwIiwia2V5IjoiMCJ9XX0=",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"0","key":"0"}]}
 https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI3OTk1YzcyNGExMzc0OGVkOTcwODQwYThhYjViYjliMyIsImtleSI6IjY3YmRhZjFlMjE3NWI5ZmY2ODJmY2RmMGUyMzU0YjFlIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7995c724a13748ed970840a8ab5bb9b3","key":"67bdaf1e2175b9ff682fcdf0e2354b1e"}]}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI3OTk1YzcyNGExMzc0OGVkOTcwODQwYThhYjViYjliMyIsImtleSI6IjY3YmRhZjFlMjE3NWI5ZmY2ODJmY2RmMGUyMzU0YjFlIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7995c724a13748ed970840a8ab5bb9b3","key":"67bdaf1e2175b9ff682fcdf0e2354b1e"}]}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI3OTk1YzcyNGExMzc0OGVkOTcwODQwYThhYjViYjliMyIsImtleSI6IjY3YmRhZjFlMjE3NWI5ZmY2ODJmY2RmMGUyMzU0YjFlIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7995c724a13748ed970840a8ab5bb9b3","key":"67bdaf1e2175b9ff682fcdf0e2354b1e"}]}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI3OTk1YzcyNGExMzc0OGVkOTcwODQwYThhYjViYjliMyIsImtleSI6IjY3YmRhZjFlMjE3NWI5ZmY2ODJmY2RmMGUyMzU0YjFlIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7995c724a13748ed970840a8ab5bb9b3","key":"67bdaf1e2175b9ff682fcdf0e2354b1e"}]}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-name="Watch India 3" group-title="durbintv",Watch India 3
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI3OTk1YzcyNGExMzc0OGVkOTcwODQwYThhYjViYjliMyIsImtleSI6IjY3YmRhZjFlMjE3NWI5ZmY2ODJmY2RmMGUyMzU0YjFlIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7995c724a13748ed970840a8ab5bb9b3","key":"67bdaf1e2175b9ff682fcdf0e2354b1e"}]}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-name="Watch India 4" group-title="durbintv",Watch India 4
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIzNzU3NjYzZjBkZGRlOGZhZjM0ZTczY2Y2MzY0MTdiMSIsImtleSI6IjdlOGZjYjczYzYxODM3OTNiY2MzMDI4MTA4ZjY4NjBkIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3757663f0ddde8faf34e73cf636417b1","key":"7e8fcb73c6183793bcc3028108f6860d"}]}
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dw8fn5dqni/out/v1/9970dcba9eac4243a9dac04e0dba4359/cenc.mpd
 
 #EXTINF:-1 tvg-name="Germany" group-title="durbintv",Germany
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIwYWQ0MDgwY2RmZjhjNjBiMTIzM2IyMjA4N2YwYjM0MCIsImtleSI6IjI4NWYxMjljNWVjYTAxZGQwOGE1ZDVhMTRhZDgwMWM4In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"0ad4080cdff8c60b1233b22087f0b340","key":"285f129c5eca01dd08a5d5a14ad801c8"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
 #EXTINF:-1 tvg-name="Germany 2" group-title="durbintv",Germany 2
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI5NmI2N2ZhMDkxNDAzMjlhODliN2ExZWFkMTM0ZWRhMyIsImtleSI6ImM2MThkMzJjNTZjZGM2Y2FkODMzMGViOTg1MDdjYTNmIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"96b67fa09140329a89b7a1ead134eda3","key":"c618d32c56cdc6cad8330eb98507ca3f"}]}
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI0YmJjZmYzMjg5ZDQ1N2I0ZGQ1ZGJkZDIxMjIxZGU5YSIsImtleSI6ImM0OTA2YjlhOWY4ZGRhM2MwNzI1YmRkYjhjNDk3NzMzIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"4bbcff3289d457b4dd5dbdd21221de9a","key":"c4906b9a9f8dda3c0725bddb8c497733"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJkMWExNjM5MTRkYjhmZmFkMmMzZTk0Zjk3OTg5NmEwZCIsImtleSI6Ijk3Mjg4MDBhMzk1OWFhZmRkNWIwYmNmYmYzNzY4ODExIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"d1a163914db8ffad2c3e94f979896a0d","key":"9728800a3959aafdd5b0bcfbf3768811"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 tvg-name="LaLiga" group-title="durbintv",LaLiga
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIwNjUwNTFiOTliZjVjZjhkOWEzYmRlNWNiZGU2YWFmOSIsImtleSI6IjIxNGJkMTc2ODMyODcyMzM5Y2UxODQzMzgzMjBmOWEyIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"065051b99bf5cf8d9a3bde5cbde6aaf9","key":"214bd176832872339ce184338320f9a2"}]}
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI3OTk1YzcyNGExMzc0OGVkOTcwODQwYThhYjViYjliMyIsImtleSI6IjY3YmRhZjFlMjE3NWI5ZmY2ODJmY2RmMGUyMzU0YjFlIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7995c724a13748ed970840a8ab5bb9b3","key":"67bdaf1e2175b9ff682fcdf0e2354b1e"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-name="Serie A 68" group-title="durbintv",Serie A (68)
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJkMWExNjM5MTRkYjhmZmFkMmMzZTk0Zjk3OTg5NmEwZCIsImtleSI6Ijk3Mjg4MDBhMzk1OWFhZmRkNWIwYmNmYmYzNzY4ODExIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"d1a163914db8ffad2c3e94f979896a0d","key":"9728800a3959aafdd5b0bcfbf3768811"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 tvg-name="Bundesliga" group-title="durbintv",Bundesliga
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIwYjQyYmUyNjY0ZDdlODExZDA0ZjNlNTA0ZTA5MjRjNSIsImtleSI6ImFlMjQwOTAxMjNiOGM3MmFjNTQwNGRjMTUyODQ3Y2I4In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"0b42be2664d7e811d04f3e504e0924c5","key":"ae24090123b8c72ac5404dc152847cb8"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-name="Bundesliga 2" group-title="durbintv",Bundesliga 2
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIwIiwia2V5IjoiMCJ9XX0=",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"0","key":"0"}]}
 https://bbb.exoadash.com/TVD2709/index.mpd
 
 #EXTINF:-1 tvg-name="TSN 1" group-title="durbintv",TSN 1
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJlNTFhYTIxZjJhMGZlZjlhYWJjMTIwZGZiNjU1YjUyZiIsImtleSI6ImExMmE5ODdmZTcyNWE0MGI2YmU5NWNkODRiMTVmNjg5In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"e51aa21f2a0fef9aabc120dfb655b52f","key":"a12a987fe725a40b6be95cd84b15f689"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-name="TSN 2" group-title="durbintv",TSN 2
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJkYWE4ZWE5MjU1M2ZkMTZjZDZiZmFlMmI4YzU4MjcxNSIsImtleSI6IjQwNDJlMDQxYjU2MzliNzliNjlhZTA3YTg3MmVlZjliIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"daa8ea92553fd16cd6bfae2b8c582715","key":"4042e041b5639b79b69ae07a872eef9b"}]}
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 tvg-name="TSN 3" group-title="durbintv",TSN 3
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJmNWMyYjMwZWFjMTFiZTFlOGNkZmM5NTg1ZjVmZTZhZiIsImtleSI6ImE4MTk4ZDE3YmY5YjBkYTc3NDUwZmJiOTE5YTM4YjJkIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"f5c2b30eac11be1e8cdfc9585f5fe6af","key":"a8198d17bf9b0da77450fbb919a38b2d"}]}
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 
 #EXTINF:-1 tvg-name="TSN 4" group-title="durbintv",TSN 4
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJjNDA4OGY1ZjI2NWY5ZGU1MGNmZmQ4MGJmODkzMDhiNyIsImtleSI6IjJjNGQyMjM5ZDk2ZDUzMmI0ZWMyMDUwNjUzNjExMDAzIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"c4088f5f265f9de50cffd80bf89308b7","key":"2c4d2239d96d532b4ec2050653611003"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-name="TSN 5" group-title="durbintv",TSN 5
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJlODUzMzMzZGEyYzkxOTZlYTExMzc0NjM0MjMxYmM0NSIsImtleSI6ImRlMmUyZGJlODE4ZDc4ZGZhZDA3ZDZjZDlhNGM2M2Q0In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"e853333da2c9196ea11374634231bc45","key":"de2e2dbe818d78dfad07d6cd9a4c63d4"}]}
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL 48" group-title="mhdtvp",PSL (48)
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIyOTBlMDljODM3ZGE3OGQ1Y2Q5NjE5NzhkMzkwNTE1YyIsImtleSI6ImI3NDg4MzZjNzFlNmE0Y2E2OGVmNWI1NjUyZGI2MjQ3In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"290e09c837da78d5cd961978d390515c","key":"b748836c71e6a4ca68ef5b5652db6247"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL 49" group-title="mhdtvp",PSL (49)
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIyNDgzN2MwYjc4ZTgwYjA1NmEwOTQ5NWQwZmQwNTFiMyIsImtleSI6IjViOTBmMzk4Nzc4MWVhNDA5MTkwNzM5NzYyZDIwMDVlIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"24837c0b78e80b056a09495d0fd051b3","key":"5b90f3987781ea409190739762d2005e"}]}
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qlpqns8shq/out/v1/e36da545ab714b6a99b76c2b1fefd32f/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 1 57" group-title="mhdtvp",Live 1 (57)
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJkY2Y0NzlkY2U4MDQ0ODNiMzVjMDA2NThkMTM1YmFjMCIsImtleSI6IjA3ZDUyNjY3Y2Q5ZDdhODI5NGFlYjY1ZjAyMTFmNTg2In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"dcf479dce804483b35c00658d135bac0","key":"07d52667cd9d7a8294aeb65f0211f586"}]}
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/xuhexd0axc/out/v1/f448c404f8df4b7e981df6d539a3a0c1/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 1 58" group-title="mhdtvp",Live 1 (58)
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJkY2Y0NzlkY2U4MDQ0ODNiMzVjMDA2NThkMTM1YmFjMCIsImtleSI6IjA3ZDUyNjY3Y2Q5ZDdhODI5NGFlYjY1ZjAyMTFmNTg2In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"dcf479dce804483b35c00658d135bac0","key":"07d52667cd9d7a8294aeb65f0211f586"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xuhexd0axc/out/v1/f448c404f8df4b7e981df6d539a3a0c1/cenc.mpd
 
 #EXTINF:-1 tvg-name="LaLiga 1" group-title="mhdtvp",LaLiga 1
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI2MjBlNTFiODI1OTY0NzU1MTdhMjdhYTQyNWM1MjI4MCIsImtleSI6IjJiOWJhODExZTljNWFlYWZjOGFlMWI3MWNkY2E0ZDZhIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"620e51b82596475517a27aa425c52280","key":"2b9ba811e9c5aeafc8ae1b71cdca4d6a"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
 #EXTINF:-1 tvg-name="Serie A" group-title="mhdtvp",Serie A
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJkMWExNjM5MTRkYjhmZmFkMmMzZTk0Zjk3OTg5NmEwZCIsImtleSI6Ijk3Mjg4MDBhMzk1OWFhZmRkNWIwYmNmYmYzNzY4ODExIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"d1a163914db8ffad2c3e94f979896a0d","key":"9728800a3959aafdd5b0bcfbf3768811"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 tvg-name="Serie A 2" group-title="mhdtvp",Serie A 2
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI3OTk1YzcyNGExMzc0OGVkOTcwODQwYThhYjViYjliMyIsImtleSI6IjY3YmRhZjFlMjE3NWI5ZmY2ODJmY2RmMGUyMzU0YjFlIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7995c724a13748ed970840a8ab5bb9b3","key":"67bdaf1e2175b9ff682fcdf0e2354b1e"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-name="Bundesliga" group-title="mhdtvp",Bundesliga
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIwIiwia2V5IjoiMCJ9XX0=",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"0","key":"0"}]}
 https://bbb.exoadash.com/TVD6412/index.mpd
 
 #EXTINF:-1 tvg-name="Bundesliga 2" group-title="mhdtvp",Bundesliga 2
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIwYjQyYmUyNjY0ZDdlODExZDA0ZjNlNTA0ZTA5MjRjNSIsImtleSI6ImFlMjQwOTAxMjNiOGM3MmFjNTQwNGRjMTUyODQ3Y2I4In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"0b42be2664d7e811d04f3e504e0924c5","key":"ae24090123b8c72ac5404dc152847cb8"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-name="TSN 1" group-title="mhdtvp",TSN 1
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJlNTFhYTIxZjJhMGZlZjlhYWJjMTIwZGZiNjU1YjUyZiIsImtleSI6ImExMmE5ODdmZTcyNWE0MGI2YmU5NWNkODRiMTVmNjg5In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"e51aa21f2a0fef9aabc120dfb655b52f","key":"a12a987fe725a40b6be95cd84b15f689"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-name="TSN 2" group-title="mhdtvp",TSN 2
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJkYWE4ZWE5MjU1M2ZkMTZjZDZiZmFlMmI4YzU4MjcxNSIsImtleSI6IjQwNDJlMDQxYjU2MzliNzliNjlhZTA3YTg3MmVlZjliIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"daa8ea92553fd16cd6bfae2b8c582715","key":"4042e041b5639b79b69ae07a872eef9b"}]}
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 tvg-name="TSN 3" group-title="mhdtvp",TSN 3
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJmNWMyYjMwZWFjMTFiZTFlOGNkZmM5NTg1ZjVmZTZhZiIsImtleSI6ImE4MTk4ZDE3YmY5YjBkYTc3NDUwZmJiOTE5YTM4YjJkIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"f5c2b30eac11be1e8cdfc9585f5fe6af","key":"a8198d17bf9b0da77450fbb919a38b2d"}]}
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 
 #EXTINF:-1 tvg-name="TSN 4" group-title="mhdtvp",TSN 4
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJjNDA4OGY1ZjI2NWY5ZGU1MGNmZmQ4MGJmODkzMDhiNyIsImtleSI6IjJjNGQyMjM5ZDk2ZDUzMmI0ZWMyMDUwNjUzNjExMDAzIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"c4088f5f265f9de50cffd80bf89308b7","key":"2c4d2239d96d532b4ec2050653611003"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-name="TSN 5" group-title="mhdtvp",TSN 5
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiJlODUzMzMzZGEyYzkxOTZlYTExMzc0NjM0MjMxYmM0NSIsImtleSI6ImRlMmUyZGJlODE4ZDc4ZGZhZDA3ZDZjZDlhNGM2M2Q0In1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"e853333da2c9196ea11374634231bc45","key":"de2e2dbe818d78dfad07d6cd9a4c63d4"}]}
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
 #EXTINF:-1 tvg-name="Fancode 1" group-title="mhdtvp",Fancode 1
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiIwNjUwNTFiOTliZjVjZjhkOWEzYmRlNWNiZGU2YWFmOSIsImtleSI6IjIxNGJkMTc2ODMyODcyMzM5Y2UxODQzMzgzMjBmOWEyIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"065051b99bf5cf8d9a3bde5cbde6aaf9","key":"214bd176832872339ce184338320f9a2"}]}
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-name="Fancode 2" group-title="mhdtvp",Fancode 2
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJraWQiOiI3ZTkyMzljMTk4MmQ5ODRhMDAyZGYzZWQwNDlkMDc1NiIsImtleSI6IjFiOGExNzU5ODEyOWEzNjE4NTM1YzhmYjA1ZjEwM2ZlIn1dfQ==",KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7e9239c1982d984a002df3ed049d0756","key":"1b8a17598129a3618535c8fb05f103fe"}]}
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
