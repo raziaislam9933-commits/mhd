@@ -1,37 +1,19 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
-https://001.fclplayer.net/live/csstream2/chunklist.m3u8?vidictid=205421770799&id=yosintv
-
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/xuhexd0axc/out/v1/f448c404f8df4b7e981df6d539a3a0c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xuhexd0axc/out/v1/f448c404f8df4b7e981df6d539a3a0c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd
-
-#EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -60,11 +42,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 #EXTINF:-1 tvg-name="Germany 2" group-title="durbintv",Germany 2
 https://live.inplyr.com/room/321443.m3u8
-
-#EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -126,20 +103,15 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v
 #EXTGRP:mhdtvp
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-name="PSL 49" group-title="mhdtvp",PSL (49)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:mhdtvp
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qlpqns8shq/out/v1/e36da545ab714b6a99b76c2b1fefd32f/cenc.mpd
-
 #EXTINF:-1 tvg-name="Live 1 57" group-title="mhdtvp",Live 1 (57)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/xuhexd0axc/out/v1/f448c404f8df4b7e981df6d539a3a0c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 1 58" group-title="mhdtvp",Live 1 (58)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xuhexd0axc/out/v1/f448c404f8df4b7e981df6d539a3a0c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd
 
 #EXTINF:-1 tvg-name="LaLiga 1" group-title="mhdtvp",LaLiga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
