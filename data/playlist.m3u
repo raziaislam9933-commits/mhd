@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"cd52cd6287d4421c03ac06c93348752c","key":"784ba87ab8a33fc18bc1c146191329ac"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd
-
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"cd52cd6287d4421c03ac06c93348752c","key":"784ba87ab8a33fc18bc1c146191329ac"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd
+https://a166aivottlinear-a.akamaihd.net/OTTB/LHR/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -50,6 +44,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 #EXTINF:-1 tvg-name="Germany 2" group-title="durbintv",Germany 2
 https://live.inplyr.com/room/321443.m3u8
+
+#EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"cd52cd6287d4421c03ac06c93348752c","key":"784ba87ab8a33fc18bc1c146191329ac"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -122,18 +122,6 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"290e09c837da78d5cd961978d390515c","key":"b748836c71e6a4ca68ef5b5652db6247"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-name="Live 1 57" group-title="mhdtvp",Live 1 (57)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"cd52cd6287d4421c03ac06c93348752c","key":"784ba87ab8a33fc18bc1c146191329ac"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd
-
-#EXTINF:-1 tvg-name="Live 1 58" group-title="mhdtvp",Live 1 (58)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"cd52cd6287d4421c03ac06c93348752c","key":"784ba87ab8a33fc18bc1c146191329ac"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd
 
 #EXTINF:-1 tvg-name="LaLiga 1" group-title="mhdtvp",LaLiga 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash

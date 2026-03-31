@@ -1,23 +1,14 @@
 {
-  "generated": "2026-03-31T14:41:41.484Z",
+  "generated": "2026-03-31T18:06:42.757Z",
   "total": 52,
-  "successful": 35,
-  "failed": 17,
+  "successful": 33,
+  "failed": 19,
   "streams": [
-    {
-      "name": "Live 3",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd",
-      "m3u8": null,
-      "kid": "cd52cd6287d4421c03ac06c93348752c",
-      "key": "784ba87ab8a33fc18bc1c146191329ac"
-    },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd",
+      "mpd": "https://a166aivottlinear-a.akamaihd.net/OTTB/LHR/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd",
       "m3u8": null,
       "kid": "cd52cd6287d4421c03ac06c93348752c",
       "key": "784ba87ab8a33fc18bc1c146191329ac"
@@ -84,6 +75,15 @@
       "kid": null,
       "key": null,
       "mpd": null
+    },
+    {
+      "name": "Portugal",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd",
+      "m3u8": null,
+      "kid": "cd52cd6287d4421c03ac06c93348752c",
+      "key": "784ba87ab8a33fc18bc1c146191329ac"
     },
     {
       "name": "Portugal 2",
@@ -192,24 +192,6 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "name": "Live 1 (57)",
-      "site": "mhdtvp",
-      "url": "https://mhdtvp.com/livetv/watch/live-1/57",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd",
-      "m3u8": null,
-      "kid": "cd52cd6287d4421c03ac06c93348752c",
-      "key": "784ba87ab8a33fc18bc1c146191329ac"
-    },
-    {
-      "name": "Live 1 (58)",
-      "site": "mhdtvp",
-      "url": "https://mhdtvp.com/livetv/watch/live-1/58",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd",
-      "m3u8": null,
-      "kid": "cd52cd6287d4421c03ac06c93348752c",
-      "key": "784ba87ab8a33fc18bc1c146191329ac"
     },
     {
       "name": "LaLiga 1",
@@ -334,6 +316,12 @@
       "url": "https://durbintv.com/livetv/watch/live-2/85"
     },
     {
+      "name": "Live 3",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/live-3/86"
+    },
+    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "status": "login_required",
@@ -352,16 +340,22 @@
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
     },
     {
-      "name": "Portugal",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71"
-    },
-    {
       "name": "PSL (49)",
       "site": "mhdtvp",
       "status": "login_required",
       "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49"
+    },
+    {
+      "name": "Live 1 (57)",
+      "site": "mhdtvp",
+      "status": "login_required",
+      "url": "https://mhdtvp.com/livetv/watch/live-1/57"
+    },
+    {
+      "name": "Live 1 (58)",
+      "site": "mhdtvp",
+      "status": "login_required",
+      "url": "https://mhdtvp.com/livetv/watch/live-1/58"
     },
     {
       "name": "TNT Sports 1",
