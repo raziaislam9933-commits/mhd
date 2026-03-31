@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-30T18:24:38.213Z",
+  "generated": "2026-03-31T05:58:09.293Z",
   "total": 52,
-  "successful": 42,
-  "failed": 10,
+  "successful": 41,
+  "failed": 11,
   "streams": [
     {
       "name": "Live 1",
@@ -44,15 +44,6 @@
       "name": "PSL Match (79)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "mpd": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd",
-      "m3u8": null,
-      "kid": "0",
-      "key": "0"
-    },
-    {
-      "name": "PSL Match (83)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
       "mpd": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd",
       "m3u8": null,
       "kid": "0",
@@ -116,19 +107,19 @@
       "name": "Germany",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-germany/73",
-      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
       "m3u8": null,
-      "kid": "0ad4080cdff8c60b1233b22087f0b340",
-      "key": "285f129c5eca01dd08a5d5a14ad801c8"
+      "kid": "5466ebd70704bdeb657f0abf3c5ca4ef",
+      "key": "bdd79b72d8e48ed483aa623cc38a8a16"
     },
     {
       "name": "Germany 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-germany-2/72",
-      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-      "m3u8": null,
-      "kid": "96b67fa09140329a89b7a1ead134eda3",
-      "key": "c618d32c56cdc6cad8330eb98507ca3f"
+      "m3u8": "https://live.inplyr.com/room/321443.m3u8",
+      "kid": null,
+      "key": null,
+      "mpd": null
     },
     {
       "name": "Portugal",
@@ -384,6 +375,12 @@
     }
   ],
   "errors": [
+    {
+      "name": "PSL Match (83)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
+    },
     {
       "name": "TNT Sports 1",
       "site": "mhdtvp",
