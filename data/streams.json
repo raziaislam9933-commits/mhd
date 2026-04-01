@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-01T14:56:09.556Z",
+  "generated": "2026-04-01T18:01:35.748Z",
   "total": 52,
-  "successful": 33,
-  "failed": 19,
+  "successful": 34,
+  "failed": 18,
   "streams": [
     {
       "name": "Live 3",
@@ -185,6 +185,15 @@
       "key": "de2e2dbe818d78dfad07d6cd9a4c63d4"
     },
     {
+      "name": "PSL (48)",
+      "site": "mhdtvp",
+      "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/48",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+      "m3u8": null,
+      "kid": "290e09c837da78d5cd961978d390515c",
+      "key": "b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
       "name": "Live 1 (58)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/58",
@@ -338,13 +347,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70"
-    },
-    {
-      "name": "PSL (48)",
-      "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/48"
     },
     {
       "name": "PSL (49)",
