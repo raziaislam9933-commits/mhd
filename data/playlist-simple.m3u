@@ -5,6 +5,11 @@
 #EXTGRP:durbintv
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/woq7brvajz/out/v1/86f8068f569543858d2093c80d35bfa8/cenc.mpd
 
+#EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/woq7brvajz/out/v1/86f8068f569543858d2093c80d35bfa8/cenc.mpd
+
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
 
