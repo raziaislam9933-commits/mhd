@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-02T09:41:57.138Z",
+  "generated": "2026-04-02T12:08:01.831Z",
   "total": 52,
-  "successful": 34,
-  "failed": 18,
+  "successful": 35,
+  "failed": 17,
   "streams": [
     {
       "name": "Live 3",
@@ -35,10 +35,10 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u6h6kvmpix/out/v1/672ef74518df43b896d9a89abc11b5cd/cenc.mpd",
       "m3u8": null,
-      "kid": "290e09c837da78d5cd961978d390515c",
-      "key": "b748836c71e6a4ca68ef5b5652db6247"
+      "kid": "d3ab0b339a3793b694756221f489e556",
+      "key": "d60001d5b773d766df8c717701fda847"
     },
     {
       "name": "Watch India",
@@ -194,6 +194,15 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "name": "PSL (49)",
+      "site": "mhdtvp",
+      "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u6h6kvmpix/out/v1/672ef74518df43b896d9a89abc11b5cd/cenc.mpd",
+      "m3u8": null,
+      "kid": "d3ab0b339a3793b694756221f489e556",
+      "key": "d60001d5b773d766df8c717701fda847"
+    },
+    {
       "name": "Live 1 (58)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/58",
@@ -347,12 +356,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70"
-    },
-    {
-      "name": "PSL (49)",
-      "site": "mhdtvp",
-      "status": "login_required",
-      "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49"
     },
     {
       "name": "Live 1 (57)",
