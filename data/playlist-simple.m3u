@@ -1,9 +1,19 @@
 #EXTM3U x-tvg-url=""
 
+#EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd
+
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd
+
+#EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8

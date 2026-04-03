@@ -1,10 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"bf4a5c832ba137a31310a5f4f3870cce","key":"50a644fbe5f123ebf74454c272766861"}]}
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd
+
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"bf4a5c832ba137a31310a5f4f3870cce","key":"50a644fbe5f123ebf74454c272766861"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd
+
+#EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"bf4a5c832ba137a31310a5f4f3870cce","key":"50a644fbe5f123ebf74454c272766861"}]}
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8

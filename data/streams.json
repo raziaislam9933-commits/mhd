@@ -1,14 +1,32 @@
 {
-  "generated": "2026-04-03T14:29:45.101Z",
+  "generated": "2026-04-03T17:02:00.772Z",
   "total": 52,
-  "successful": 33,
-  "failed": 19,
+  "successful": 35,
+  "failed": 17,
   "streams": [
+    {
+      "name": "Live 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-2/85",
+      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd",
+      "m3u8": null,
+      "kid": "bf4a5c832ba137a31310a5f4f3870cce",
+      "key": "50a644fbe5f123ebf74454c272766861"
+    },
     {
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
       "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd",
+      "m3u8": null,
+      "kid": "bf4a5c832ba137a31310a5f4f3870cce",
+      "key": "50a644fbe5f123ebf74454c272766861"
+    },
+    {
+      "name": "Live 4",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-4/87",
+      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd",
       "m3u8": null,
       "kid": "bf4a5c832ba137a31310a5f4f3870cce",
       "key": "50a644fbe5f123ebf74454c272766861"
@@ -308,18 +326,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/live-1/84"
-    },
-    {
-      "name": "Live 2",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/live-2/85"
-    },
-    {
-      "name": "Live 4",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/live-4/87"
     },
     {
       "name": "IPL 2026 (80)",
