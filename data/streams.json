@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-04T10:55:10.533Z",
+  "generated": "2026-04-04T11:55:39.247Z",
   "total": 52,
-  "successful": 34,
-  "failed": 18,
+  "successful": 35,
+  "failed": 17,
   "streams": [
     {
       "name": "Live 3",
@@ -39,6 +39,15 @@
       "m3u8": null,
       "kid": "588bd7dc74db5d293d56de88ff51bbbb",
       "key": "4de42d17a6f484405b15e18dd607f676"
+    },
+    {
+      "name": "IPL 2026 (81)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
+      "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+      "m3u8": null,
+      "kid": "294b5761cefc22d0c6312939e13d8278",
+      "key": "52148f1042d238849f0a7813f1da8a7b"
     },
     {
       "name": "Watch India",
@@ -329,12 +338,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
-    },
-    {
-      "name": "IPL 2026 (81)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
     },
     {
       "name": "Germany 2",
