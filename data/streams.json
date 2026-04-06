@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-06T10:40:42.361Z",
+  "generated": "2026-04-06T14:31:55.041Z",
   "total": 52,
   "successful": 40,
   "failed": 12,
@@ -26,19 +26,19 @@
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oes6ybfnm1/out/v1/9f29cb13a8f04ad38bfe900a18d0ed35/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
       "m3u8": null,
-      "kid": "da72912e65cf1077a732616c17c9943d",
-      "key": "65374c514729172b57bc243897078f91"
+      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
+      "key": "609ca477cab538803f2a4289f7e55c24"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oes6ybfnm1/out/v1/9f29cb13a8f04ad38bfe900a18d0ed35/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
       "m3u8": null,
-      "kid": "da72912e65cf1077a732616c17c9943d",
-      "key": "65374c514729172b57bc243897078f91"
+      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
+      "key": "609ca477cab538803f2a4289f7e55c24"
     },
     {
       "name": "PSL Match (79)",
@@ -53,10 +53,10 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/egzri6ewen/out/v1/624fcfd9bb744b8c8b3338dec50d4f5a/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rfoilgcdup/out/v1/efe78ac7de4441c98ca799052cf962bc/cenc.mpd",
       "m3u8": null,
-      "kid": "55722a2e6d8dd9f8fa7ba665e508cf78",
-      "key": "cd9e3e681a273ce4b82af86e85772b80"
+      "kid": "837843d1228803337dea37c6568b8b18",
+      "key": "43c6d2482a66e35b4a58a3b829bd478d"
     },
     {
       "name": "IPL 2026 (81)",
@@ -233,10 +233,10 @@
       "name": "PSL (49)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/egzri6ewen/out/v1/624fcfd9bb744b8c8b3338dec50d4f5a/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rfoilgcdup/out/v1/efe78ac7de4441c98ca799052cf962bc/cenc.mpd",
       "m3u8": null,
-      "kid": "55722a2e6d8dd9f8fa7ba665e508cf78",
-      "key": "cd9e3e681a273ce4b82af86e85772b80"
+      "kid": "837843d1228803337dea37c6568b8b18",
+      "key": "43c6d2482a66e35b4a58a3b829bd478d"
     },
     {
       "name": "Live 1 (57)",
@@ -251,10 +251,10 @@
       "name": "Live 1 (58)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/58",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oes6ybfnm1/out/v1/9f29cb13a8f04ad38bfe900a18d0ed35/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
       "m3u8": null,
-      "kid": "da72912e65cf1077a732616c17c9943d",
-      "key": "65374c514729172b57bc243897078f91"
+      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
+      "key": "609ca477cab538803f2a4289f7e55c24"
     },
     {
       "name": "LaLiga 1",
