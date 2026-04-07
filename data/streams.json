@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-07T09:07:30.277Z",
+  "generated": "2026-04-07T10:59:52.822Z",
   "total": 52,
-  "successful": 24,
-  "failed": 28,
+  "successful": 40,
+  "failed": 12,
   "streams": [
     {
       "name": "Live 1",
@@ -12,6 +12,51 @@
       "m3u8": null,
       "kid": "b83f5ca011de1ebfd8a121c84961ca01",
       "key": "609ca477cab538803f2a4289f7e55c24"
+    },
+    {
+      "name": "Live 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-2/85",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+      "m3u8": null,
+      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
+      "key": "609ca477cab538803f2a4289f7e55c24"
+    },
+    {
+      "name": "Live 3",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-3/86",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+      "m3u8": null,
+      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
+      "key": "609ca477cab538803f2a4289f7e55c24"
+    },
+    {
+      "name": "Live 4",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-4/87",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+      "m3u8": null,
+      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
+      "key": "609ca477cab538803f2a4289f7e55c24"
+    },
+    {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
+      "m3u8": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
+      "name": "PSL Match (83)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rfoilgcdup/out/v1/efe78ac7de4441c98ca799052cf962bc/cenc.mpd",
+      "m3u8": null,
+      "kid": "837843d1228803337dea37c6568b8b18",
+      "key": "43c6d2482a66e35b4a58a3b829bd478d"
     },
     {
       "name": "IPL 2026 (81)",
@@ -32,6 +77,24 @@
       "key": "0390e22ecb9b6ef93ddf8f7cd3b38461"
     },
     {
+      "name": "Watch India 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-india-2/76",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8ntichuuto/out/v1/f7b575d5d9a949f9a4e164f635ebb9c7/cenc.mpd",
+      "m3u8": null,
+      "kid": "b01896dfc4f780aa0e61765af00128b1",
+      "key": "0390e22ecb9b6ef93ddf8f7cd3b38461"
+    },
+    {
+      "name": "Watch India 3",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-india-3/75",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8ntichuuto/out/v1/f7b575d5d9a949f9a4e164f635ebb9c7/cenc.mpd",
+      "m3u8": null,
+      "kid": "b01896dfc4f780aa0e61765af00128b1",
+      "key": "0390e22ecb9b6ef93ddf8f7cd3b38461"
+    },
+    {
       "name": "Watch India 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india-4/74",
@@ -39,6 +102,15 @@
       "m3u8": null,
       "kid": "ce7ab3022e753307997f58afe001bac4",
       "key": "72d631a66e635c60829a0fe7705516c1"
+    },
+    {
+      "name": "Germany",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-germany/73",
+      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+      "m3u8": null,
+      "kid": "0b42be2664d7e811d04f3e504e0924c5",
+      "key": "ae24090123b8c72ac5404dc152847cb8"
     },
     {
       "name": "Germany 2",
@@ -75,6 +147,15 @@
       "m3u8": null,
       "kid": "7995c724a13748ed970840a8ab5bb9b3",
       "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+    },
+    {
+      "name": "Serie A (68)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-serie-a/68",
+      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+      "m3u8": null,
+      "kid": "d1a163914db8ffad2c3e94f979896a0d",
+      "key": "9728800a3959aafdd5b0bcfbf3768811"
     },
     {
       "name": "Bundesliga",
@@ -120,6 +201,15 @@
       "m3u8": null,
       "kid": "f5c2b30eac11be1e8cdfc9585f5fe6af",
       "key": "a8198d17bf9b0da77450fbb919a38b2d"
+    },
+    {
+      "name": "TSN 4",
+      "site": "durbintv",
+      "url": "https://durbintv.com/sports/watch/watch-live-tsn-4/41",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+      "m3u8": null,
+      "kid": "c4088f5f265f9de50cffd80bf89308b7",
+      "key": "2c4d2239d96d532b4ec2050653611003"
     },
     {
       "name": "TSN 5",
@@ -203,6 +293,15 @@
       "key": "0"
     },
     {
+      "name": "Bundesliga 2",
+      "site": "mhdtvp",
+      "url": "https://mhdtvp.com/livetv/watch/bundesliga-2/56",
+      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+      "m3u8": null,
+      "kid": "0b42be2664d7e811d04f3e504e0924c5",
+      "key": "ae24090123b8c72ac5404dc152847cb8"
+    },
+    {
       "name": "TSN 1",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/tsn-1/33",
@@ -210,6 +309,51 @@
       "m3u8": null,
       "kid": "e51aa21f2a0fef9aabc120dfb655b52f",
       "key": "a12a987fe725a40b6be95cd84b15f689"
+    },
+    {
+      "name": "TSN 2",
+      "site": "mhdtvp",
+      "url": "https://mhdtvp.com/livetv/watch/tsn-2/34",
+      "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+      "m3u8": null,
+      "kid": "daa8ea92553fd16cd6bfae2b8c582715",
+      "key": "4042e041b5639b79b69ae07a872eef9b"
+    },
+    {
+      "name": "TSN 3",
+      "site": "mhdtvp",
+      "url": "https://mhdtvp.com/livetv/watch/tsn-3/35",
+      "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+      "m3u8": null,
+      "kid": "f5c2b30eac11be1e8cdfc9585f5fe6af",
+      "key": "a8198d17bf9b0da77450fbb919a38b2d"
+    },
+    {
+      "name": "TSN 4",
+      "site": "mhdtvp",
+      "url": "https://mhdtvp.com/livetv/watch/tsn-4/36",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+      "m3u8": null,
+      "kid": "c4088f5f265f9de50cffd80bf89308b7",
+      "key": "2c4d2239d96d532b4ec2050653611003"
+    },
+    {
+      "name": "TSN 5",
+      "site": "mhdtvp",
+      "url": "https://mhdtvp.com/livetv/watch/tsn-5/37",
+      "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+      "m3u8": null,
+      "kid": "e853333da2c9196ea11374634231bc45",
+      "key": "de2e2dbe818d78dfad07d6cd9a4c63d4"
+    },
+    {
+      "name": "Fancode 1",
+      "site": "mhdtvp",
+      "url": "https://mhdtvp.com/sports/watch/fancode-1/22",
+      "mpd": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+      "m3u8": null,
+      "kid": "065051b99bf5cf8d9a3bde5cbde6aaf9",
+      "key": "214bd176832872339ce184338320f9a2"
     },
     {
       "name": "Fancode 2",
@@ -223,62 +367,10 @@
   ],
   "errors": [
     {
-      "name": "Live 2",
-      "site": "durbintv",
-      "status": "decrypt_failed",
-      "url": "https://durbintv.com/livetv/watch/live-2/85"
-    },
-    {
-      "name": "Live 3",
-      "site": "durbintv",
-      "status": "no_player",
-      "url": "https://durbintv.com/livetv/watch/live-3/86"
-    },
-    {
-      "name": "Live 4",
-      "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://durbintv.com/livetv/watch/live-4/87"
-    },
-    {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
-    },
-    {
-      "name": "PSL Match (83)",
-      "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
-    },
-    {
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
-    },
-    {
-      "name": "Watch India 2",
-      "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://durbintv.com/livetv/watch/watch-india-2/76"
-    },
-    {
-      "name": "Watch India 3",
-      "site": "durbintv",
-      "status": "decrypt_failed",
-      "url": "https://durbintv.com/livetv/watch/watch-india-3/75"
-    },
-    {
-      "name": "Germany",
-      "site": "durbintv",
-      "status": "decrypt_failed",
-      "url": "https://durbintv.com/livetv/watch/watch-live-germany/73"
     },
     {
       "name": "Portugal 2",
@@ -287,29 +379,9 @@
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70"
     },
     {
-      "name": "Serie A (68)",
-      "site": "durbintv",
-      "status": "decrypt_failed",
-      "url": "https://durbintv.com/livetv/watch/watch-live-serie-a/68"
-    },
-    {
-      "name": "TSN 4",
-      "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://durbintv.com/sports/watch/watch-live-tsn-4/41"
-    },
-    {
-      "name": "Bundesliga 2",
-      "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://mhdtvp.com/livetv/watch/bundesliga-2/56"
-    },
-    {
       "name": "TNT Sports 1",
       "site": "mhdtvp",
-      "status": "no_player",
+      "status": "login_required",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-1-live-free/27"
     },
     {
@@ -329,33 +401,6 @@
       "site": "mhdtvp",
       "status": "login_required",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-4-live-free/30"
-    },
-    {
-      "name": "TSN 2",
-      "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://mhdtvp.com/livetv/watch/tsn-2/34"
-    },
-    {
-      "name": "TSN 3",
-      "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://mhdtvp.com/livetv/watch/tsn-3/35"
-    },
-    {
-      "name": "TSN 4",
-      "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://mhdtvp.com/livetv/watch/tsn-4/36"
-    },
-    {
-      "name": "TSN 5",
-      "site": "mhdtvp",
-      "status": "no_player",
-      "url": "https://mhdtvp.com/livetv/watch/tsn-5/37"
     },
     {
       "name": "Nagorik TV",
@@ -384,23 +429,14 @@
     {
       "name": "BeIN SPORTS 2",
       "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
+      "status": "login_required",
       "url": "https://mhdtvp.com/livetv/watch/bein-sports-2/39"
     },
     {
       "name": "BeIN SPORTS 3",
       "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
+      "status": "login_required",
       "url": "https://mhdtvp.com/livetv/watch/bein-sports-3/40"
-    },
-    {
-      "name": "Fancode 1",
-      "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://mhdtvp.com/sports/watch/fancode-1/22"
     }
   ]
 }
