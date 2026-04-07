@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-07T13:54:41.314Z",
+  "generated": "2026-04-07T15:13:11.963Z",
   "total": 52,
   "successful": 40,
   "failed": 12,
@@ -26,10 +26,10 @@
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+      "mpd": "https://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&amp;amp;amp;amp;amp;amp;hdnts=exp=1775591851~hmac=49135cf5e8587a7bd2d1a0756f20876ddc288e81de67b8f35d0edd1884883e26",
       "m3u8": null,
-      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
-      "key": "609ca477cab538803f2a4289f7e55c24"
+      "kid": "dd06ecf8f97a4526ba6a4b55e00f931a",
+      "key": "2b8648806e203a44adc5fb1326770c17"
     },
     {
       "name": "Live 4",
