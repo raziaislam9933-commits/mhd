@@ -33,11 +33,17 @@ https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"837843d1228803337dea37c6568b8b18","key":"43c6d2482a66e35b4a58a3b829bd478d"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rfoilgcdup/out/v1/efe78ac7de4441c98ca799052cf962bc/cenc.mpd
 
+#EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"35824ddca17120c692a500c2a763eeb6","key":"eb732828f2c7939e430402e7660f7b8c"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lelx703nzk/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
+
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"ef34ae91b4f2415e8439b2ad105e7488","key":"243248d8de1ff8c7c587ee2057317523"}]}
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"73307447c35177a8acc3e8a42aa2516d","key":"63a3ec36d4bdb812e41e74f132c5ff2f"}]}
+https://abgqhfdaaaaaaaameyaqykf5zy3tq.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/qxprlxa3hc/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -80,6 +86,12 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"aefc2c8d1c8840f1b6981f856c9269ba","key":"cf8ea114c45b4d6596b2748258ab74d6"}]}
 https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd
+
+#EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"ef34ae91b4f2415e8439b2ad105e7488","key":"243248d8de1ff8c7c587ee2057317523"}]}
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
 
 #EXTINF:-1 tvg-name="LaLiga" group-title="durbintv",LaLiga
 #KODIPROP:inputstream.adaptive.manifest_type=dash
