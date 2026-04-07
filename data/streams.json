@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-07T15:13:11.963Z",
+  "generated": "2026-04-07T17:03:50.979Z",
   "total": 52,
   "successful": 40,
   "failed": 12,
@@ -8,37 +8,37 @@
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd",
       "m3u8": null,
-      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
-      "key": "609ca477cab538803f2a4289f7e55c24"
+      "kid": "aefc2c8d1c8840f1b6981f856c9269ba",
+      "key": "cf8ea114c45b4d6596b2748258ab74d6"
     },
     {
       "name": "Live 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd",
       "m3u8": null,
-      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
-      "key": "609ca477cab538803f2a4289f7e55c24"
+      "kid": "aefc2c8d1c8840f1b6981f856c9269ba",
+      "key": "cf8ea114c45b4d6596b2748258ab74d6"
     },
     {
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&amp;amp;amp;amp;amp;amp;hdnts=exp=1775591851~hmac=49135cf5e8587a7bd2d1a0756f20876ddc288e81de67b8f35d0edd1884883e26",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nwhydqiejb/out/v1/64918808c05b4176bcb0159a54346475/cenc.mpd",
       "m3u8": null,
-      "kid": "dd06ecf8f97a4526ba6a4b55e00f931a",
-      "key": "2b8648806e203a44adc5fb1326770c17"
+      "kid": "eeb93ab4a721511857d823b652939a92",
+      "key": "5a9b1a1272fb5bb2d08ddbc25fae0fc1"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nwhydqiejb/out/v1/64918808c05b4176bcb0159a54346475/cenc.mpd",
       "m3u8": null,
-      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
-      "key": "609ca477cab538803f2a4289f7e55c24"
+      "kid": "eeb93ab4a721511857d823b652939a92",
+      "key": "5a9b1a1272fb5bb2d08ddbc25fae0fc1"
     },
     {
       "name": "PSL Match (79)",
@@ -125,10 +125,10 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd",
       "m3u8": null,
-      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
-      "key": "609ca477cab538803f2a4289f7e55c24"
+      "kid": "aefc2c8d1c8840f1b6981f856c9269ba",
+      "key": "cf8ea114c45b4d6596b2748258ab74d6"
     },
     {
       "name": "LaLiga",
@@ -242,19 +242,19 @@
       "name": "Live 1 (57)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/57",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd",
       "m3u8": null,
-      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
-      "key": "609ca477cab538803f2a4289f7e55c24"
+      "kid": "aefc2c8d1c8840f1b6981f856c9269ba",
+      "key": "cf8ea114c45b4d6596b2748258ab74d6"
     },
     {
       "name": "Live 1 (58)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/58",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nwhydqiejb/out/v1/64918808c05b4176bcb0159a54346475/cenc.mpd",
       "m3u8": null,
-      "kid": "b83f5ca011de1ebfd8a121c84961ca01",
-      "key": "609ca477cab538803f2a4289f7e55c24"
+      "kid": "eeb93ab4a721511857d823b652939a92",
+      "key": "5a9b1a1272fb5bb2d08ddbc25fae0fc1"
     },
     {
       "name": "LaLiga 1",

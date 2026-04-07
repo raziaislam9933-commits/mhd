@@ -3,22 +3,22 @@
 #EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&amp;amp;amp;amp;amp;amp;hdnts=exp=1775591851~hmac=49135cf5e8587a7bd2d1a0756f20876ddc288e81de67b8f35d0edd1884883e26
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nwhydqiejb/out/v1/64918808c05b4176bcb0159a54346475/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nwhydqiejb/out/v1/64918808c05b4176bcb0159a54346475/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
@@ -66,7 +66,7 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="LaLiga" group-title="durbintv",LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -131,12 +131,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rfoilgcdup/out/v1
 #EXTINF:-1 tvg-name="Live 1 57" group-title="mhdtvp",Live 1 (57)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Live 1 58" group-title="mhdtvp",Live 1 (58)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nwhydqiejb/out/v1/64918808c05b4176bcb0159a54346475/cenc.mpd
 
 #EXTINF:-1 tvg-name="LaLiga 1" group-title="mhdtvp",LaLiga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
