@@ -3,26 +3,26 @@
 #EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"aefc2c8d1c8840f1b6981f856c9269ba","key":"cf8ea114c45b4d6596b2748258ab74d6"}]}
-https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"632c11b631667bbcd92ad5d2508d49c0","key":"41931cb5fc12556b5ef6072f8fd655cc"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/jhre3vjv3n/out/v1/8595e0c0e36040edae2c2d8a44703de0/cenc-sd.mpd
 
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"aefc2c8d1c8840f1b6981f856c9269ba","key":"cf8ea114c45b4d6596b2748258ab74d6"}]}
-https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"632c11b631667bbcd92ad5d2508d49c0","key":"41931cb5fc12556b5ef6072f8fd655cc"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/jhre3vjv3n/out/v1/8595e0c0e36040edae2c2d8a44703de0/cenc-sd.mpd
 
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"aefc2c8d1c8840f1b6981f856c9269ba","key":"cf8ea114c45b4d6596b2748258ab74d6"}]}
-https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"632c11b631667bbcd92ad5d2508d49c0","key":"41931cb5fc12556b5ef6072f8fd655cc"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/jhre3vjv3n/out/v1/8595e0c0e36040edae2c2d8a44703de0/cenc-sd.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"eeb93ab4a721511857d823b652939a92","key":"5a9b1a1272fb5bb2d08ddbc25fae0fc1"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nwhydqiejb/out/v1/64918808c05b4176bcb0159a54346475/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"632c11b631667bbcd92ad5d2508d49c0","key":"41931cb5fc12556b5ef6072f8fd655cc"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/jhre3vjv3n/out/v1/8595e0c0e36040edae2c2d8a44703de0/cenc-sd.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
@@ -30,8 +30,8 @@ https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"837843d1228803337dea37c6568b8b18","key":"43c6d2482a66e35b4a58a3b829bd478d"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rfoilgcdup/out/v1/efe78ac7de4441c98ca799052cf962bc/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"ca51cb28be87c612f1f84dcb57a309cd","key":"95f2759705faf50a7a3412b34552d027"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/wmonycspak/out/v1/7e671a59cb3c4e45913a89ae3d759943/cenc-sd.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -84,8 +84,8 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"aefc2c8d1c8840f1b6981f856c9269ba","key":"cf8ea114c45b4d6596b2748258ab74d6"}]}
-https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"632c11b631667bbcd92ad5d2508d49c0","key":"41931cb5fc12556b5ef6072f8fd655cc"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/jhre3vjv3n/out/v1/8595e0c0e36040edae2c2d8a44703de0/cenc-sd.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -162,20 +162,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="PSL 49" group-title="mhdtvp",PSL (49)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"837843d1228803337dea37c6568b8b18","key":"43c6d2482a66e35b4a58a3b829bd478d"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rfoilgcdup/out/v1/efe78ac7de4441c98ca799052cf962bc/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"ca51cb28be87c612f1f84dcb57a309cd","key":"95f2759705faf50a7a3412b34552d027"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/wmonycspak/out/v1/7e671a59cb3c4e45913a89ae3d759943/cenc-sd.mpd
 
 #EXTINF:-1 tvg-name="Live 1 57" group-title="mhdtvp",Live 1 (57)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"aefc2c8d1c8840f1b6981f856c9269ba","key":"cf8ea114c45b4d6596b2748258ab74d6"}]}
-https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=%2f*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"632c11b631667bbcd92ad5d2508d49c0","key":"41931cb5fc12556b5ef6072f8fd655cc"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/jhre3vjv3n/out/v1/8595e0c0e36040edae2c2d8a44703de0/cenc-sd.mpd
 
 #EXTINF:-1 tvg-name="Live 1 58" group-title="mhdtvp",Live 1 (58)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"eeb93ab4a721511857d823b652939a92","key":"5a9b1a1272fb5bb2d08ddbc25fae0fc1"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nwhydqiejb/out/v1/64918808c05b4176bcb0159a54346475/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"632c11b631667bbcd92ad5d2508d49c0","key":"41931cb5fc12556b5ef6072f8fd655cc"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/jhre3vjv3n/out/v1/8595e0c0e36040edae2c2d8a44703de0/cenc-sd.mpd
 
 #EXTINF:-1 tvg-name="LaLiga 1" group-title="mhdtvp",LaLiga 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
