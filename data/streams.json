@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-09T09:12:51.180Z",
+  "generated": "2026-04-09T11:02:26.090Z",
   "total": 52,
   "successful": 41,
   "failed": 11,
@@ -44,7 +44,7 @@
       "name": "PSL Match (79)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
+      "m3u8": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -53,10 +53,10 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/wmonycspak/out/v1/7e671a59cb3c4e45913a89ae3d759943/cenc-sd.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd",
       "m3u8": null,
-      "kid": "ca51cb28be87c612f1f84dcb57a309cd",
-      "key": "95f2759705faf50a7a3412b34552d027"
+      "kid": "f5cab7a592b0a1070a1c32a2938c7924",
+      "key": "603a99d6a4a274d6c11ada91176c4477"
     },
     {
       "name": "IPL 2026 (81)",
@@ -242,10 +242,10 @@
       "name": "PSL (49)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/wmonycspak/out/v1/7e671a59cb3c4e45913a89ae3d759943/cenc-sd.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd",
       "m3u8": null,
-      "kid": "ca51cb28be87c612f1f84dcb57a309cd",
-      "key": "95f2759705faf50a7a3412b34552d027"
+      "kid": "f5cab7a592b0a1070a1c32a2938c7924",
+      "key": "603a99d6a4a274d6c11ada91176c4477"
     },
     {
       "name": "Live 1 (57)",
