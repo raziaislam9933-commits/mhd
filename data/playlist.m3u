@@ -3,20 +3,20 @@
 #EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"dd06ecf8f97a4526ba6a4b55e00f931a","key":"2b8648806e203a44adc5fb1326770c17"}]}
-https://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&amp;amp;hdnts=exp=1775763306~hmac=074a780b3f1f956b9e043622f3ab3c993fe2e62d59da5df9f71356225b7b9239
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"9a29d4f3b6e540b3aa2f36927c01b6f4","key":"57b670b45b5cb453a9f48fa975b702c1"}]}
+https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"dd06ecf8f97a4526ba6a4b55e00f931a","key":"2b8648806e203a44adc5fb1326770c17"}]}
-https://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&amp;amp;hdnts=exp=1775763306~hmac=074a780b3f1f956b9e043622f3ab3c993fe2e62d59da5df9f71356225b7b9239
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"9a29d4f3b6e540b3aa2f36927c01b6f4","key":"57b670b45b5cb453a9f48fa975b702c1"}]}
+https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"dd06ecf8f97a4526ba6a4b55e00f931a","key":"2b8648806e203a44adc5fb1326770c17"}]}
-https://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&amp;amp;hdnts=exp=1775763306~hmac=074a780b3f1f956b9e043622f3ab3c993fe2e62d59da5df9f71356225b7b9239
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"9a29d4f3b6e540b3aa2f36927c01b6f4","key":"57b670b45b5cb453a9f48fa975b702c1"}]}
+https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -78,8 +78,8 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"dd06ecf8f97a4526ba6a4b55e00f931a","key":"2b8648806e203a44adc5fb1326770c17"}]}
-https://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&amp;amp;hdnts=exp=1775763306~hmac=074a780b3f1f956b9e043622f3ab3c993fe2e62d59da5df9f71356225b7b9239
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"9a29d4f3b6e540b3aa2f36927c01b6f4","key":"57b670b45b5cb453a9f48fa975b702c1"}]}
+https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -162,8 +162,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0tp7s9nhbb/out/v1
 #EXTINF:-1 tvg-name="Live 1 57" group-title="mhdtvp",Live 1 (57)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"dd06ecf8f97a4526ba6a4b55e00f931a","key":"2b8648806e203a44adc5fb1326770c17"}]}
-https://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&amp;amp;hdnts=exp=1775763306~hmac=074a780b3f1f956b9e043622f3ab3c993fe2e62d59da5df9f71356225b7b9239
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"9a29d4f3b6e540b3aa2f36927c01b6f4","key":"57b670b45b5cb453a9f48fa975b702c1"}]}
+https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-name="Live 1 58" group-title="mhdtvp",Live 1 (58)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
