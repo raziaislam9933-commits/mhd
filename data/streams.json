@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-10T15:57:24.461Z",
+  "generated": "2026-04-10T16:58:51.691Z",
   "total": 52,
   "successful": 39,
   "failed": 13,
@@ -8,10 +8,10 @@
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hkosbvm6yg/out/v1/94f33099d3184ce4b22377e4e4e33d91/cenc.mpd",
+      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
       "m3u8": null,
-      "kid": "3813110878620e2085a6ce8c65154a67",
-      "key": "8d7ed0389021ee3aa4e87e7aaeb3b5a0"
+      "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
+      "key": "57b670b45b5cb453a9f48fa975b702c1"
     },
     {
       "name": "Live 3",
@@ -233,10 +233,10 @@
       "name": "Live 1 (57)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/57",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hkosbvm6yg/out/v1/94f33099d3184ce4b22377e4e4e33d91/cenc.mpd",
+      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
       "m3u8": null,
-      "kid": "3813110878620e2085a6ce8c65154a67",
-      "key": "8d7ed0389021ee3aa4e87e7aaeb3b5a0"
+      "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
+      "key": "57b670b45b5cb453a9f48fa975b702c1"
     },
     {
       "name": "Live 1 (58)",
