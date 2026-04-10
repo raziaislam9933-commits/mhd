@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-10T13:23:57.473Z",
+  "generated": "2026-04-10T14:52:01.506Z",
   "total": 52,
-  "successful": 41,
-  "failed": 11,
+  "successful": 39,
+  "failed": 13,
   "streams": [
     {
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd",
+      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
       "m3u8": null,
       "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
       "key": "57b670b45b5cb453a9f48fa975b702c1"
@@ -17,16 +17,7 @@
       "name": "Live 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd",
-      "m3u8": null,
-      "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
-      "key": "57b670b45b5cb453a9f48fa975b702c1"
-    },
-    {
-      "name": "Live 3",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd",
+      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
       "m3u8": null,
       "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
       "key": "57b670b45b5cb453a9f48fa975b702c1"
@@ -35,28 +26,19 @@
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bfbdrvbuq1/out/v1/c5d559db7b324817b6fe159c723febaf/cenc.mpd",
+      "mpd": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
       "m3u8": null,
-      "kid": "8eeab0f1dd4f47f2afaefd70680d7213",
-      "key": "9d2b3ec2dc612d7d7d21d4ebbb4c93c5"
-    },
-    {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
+      "kid": "1e23e51b09a67b83813c17049870bcd4",
+      "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
     },
     {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0tp7s9nhbb/out/v1/3baa6e7bb60247bea92db2230b60585f/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd",
       "m3u8": null,
-      "kid": "5fef21ea908ec6a5f25f024a11c75169",
-      "key": "4e09cb683c26a835450ccc0d53f3bb7e"
+      "kid": "f5cab7a592b0a1070a1c32a2938c7924",
+      "key": "603a99d6a4a274d6c11ada91176c4477"
     },
     {
       "name": "IPL 2026 (81)",
@@ -125,7 +107,7 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd",
+      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
       "m3u8": null,
       "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
       "key": "57b670b45b5cb453a9f48fa975b702c1"
@@ -242,16 +224,16 @@
       "name": "PSL (49)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0tp7s9nhbb/out/v1/3baa6e7bb60247bea92db2230b60585f/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd",
       "m3u8": null,
-      "kid": "5fef21ea908ec6a5f25f024a11c75169",
-      "key": "4e09cb683c26a835450ccc0d53f3bb7e"
+      "kid": "f5cab7a592b0a1070a1c32a2938c7924",
+      "key": "603a99d6a4a274d6c11ada91176c4477"
     },
     {
       "name": "Live 1 (57)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/57",
-      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd",
+      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
       "m3u8": null,
       "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
       "key": "57b670b45b5cb453a9f48fa975b702c1"
@@ -375,6 +357,18 @@
     }
   ],
   "errors": [
+    {
+      "name": "Live 3",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/live-3/86"
+    },
+    {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
     {
       "name": "IPL 2026 (80)",
       "site": "durbintv",

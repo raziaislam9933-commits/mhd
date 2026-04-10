@@ -3,30 +3,22 @@
 #EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
-
-#EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bfbdrvbuq1/out/v1/c5d559db7b324817b6fe159c723febaf/cenc.mpd
-
-#EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
-https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
+https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0tp7s9nhbb/out/v1/3baa6e7bb60247bea92db2230b60585f/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -66,7 +58,7 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -131,12 +123,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="PSL 49" group-title="mhdtvp",PSL (49)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0tp7s9nhbb/out/v1/3baa6e7bb60247bea92db2230b60585f/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 1 57" group-title="mhdtvp",Live 1 (57)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
-https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-name="Live 1 58" group-title="mhdtvp",Live 1 (58)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
