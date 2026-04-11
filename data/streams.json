@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-11T09:43:57.441Z",
+  "generated": "2026-04-11T10:38:20.133Z",
   "total": 52,
   "successful": 39,
   "failed": 13,
@@ -17,19 +17,19 @@
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hkosbvm6yg/out/v1/94f33099d3184ce4b22377e4e4e33d91/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h0j1lnfwdz/out/v1/4843137de5e74380962b3e8d8d78e061/cenc.mpd",
       "m3u8": null,
-      "kid": "3813110878620e2085a6ce8c65154a67",
-      "key": "8d7ed0389021ee3aa4e87e7aaeb3b5a0"
+      "kid": "06c474083954369b65c9b6764eeeb3a3",
+      "key": "c041952cd342b4ea84bd5865423b8585"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hkosbvm6yg/out/v1/94f33099d3184ce4b22377e4e4e33d91/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h0j1lnfwdz/out/v1/4843137de5e74380962b3e8d8d78e061/cenc.mpd",
       "m3u8": null,
-      "kid": "3813110878620e2085a6ce8c65154a67",
-      "key": "8d7ed0389021ee3aa4e87e7aaeb3b5a0"
+      "kid": "06c474083954369b65c9b6764eeeb3a3",
+      "key": "c041952cd342b4ea84bd5865423b8585"
     },
     {
       "name": "PSL Match (83)",
@@ -242,10 +242,10 @@
       "name": "Live 1 (58)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/58",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hkosbvm6yg/out/v1/94f33099d3184ce4b22377e4e4e33d91/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h0j1lnfwdz/out/v1/4843137de5e74380962b3e8d8d78e061/cenc.mpd",
       "m3u8": null,
-      "kid": "3813110878620e2085a6ce8c65154a67",
-      "key": "8d7ed0389021ee3aa4e87e7aaeb3b5a0"
+      "kid": "06c474083954369b65c9b6764eeeb3a3",
+      "key": "c041952cd342b4ea84bd5865423b8585"
     },
     {
       "name": "LaLiga 1",

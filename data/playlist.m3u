@@ -9,14 +9,14 @@ https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hze
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3813110878620e2085a6ce8c65154a67","key":"8d7ed0389021ee3aa4e87e7aaeb3b5a0"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hkosbvm6yg/out/v1/94f33099d3184ce4b22377e4e4e33d91/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"06c474083954369b65c9b6764eeeb3a3","key":"c041952cd342b4ea84bd5865423b8585"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h0j1lnfwdz/out/v1/4843137de5e74380962b3e8d8d78e061/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3813110878620e2085a6ce8c65154a67","key":"8d7ed0389021ee3aa4e87e7aaeb3b5a0"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hkosbvm6yg/out/v1/94f33099d3184ce4b22377e4e4e33d91/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"06c474083954369b65c9b6764eeeb3a3","key":"c041952cd342b4ea84bd5865423b8585"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h0j1lnfwdz/out/v1/4843137de5e74380962b3e8d8d78e061/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -159,8 +159,8 @@ https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hze
 #EXTINF:-1 tvg-name="Live 1 58" group-title="mhdtvp",Live 1 (58)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3813110878620e2085a6ce8c65154a67","key":"8d7ed0389021ee3aa4e87e7aaeb3b5a0"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hkosbvm6yg/out/v1/94f33099d3184ce4b22377e4e4e33d91/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"06c474083954369b65c9b6764eeeb3a3","key":"c041952cd342b4ea84bd5865423b8585"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h0j1lnfwdz/out/v1/4843137de5e74380962b3e8d8d78e061/cenc.mpd
 
 #EXTINF:-1 tvg-name="LaLiga 1" group-title="mhdtvp",LaLiga 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
