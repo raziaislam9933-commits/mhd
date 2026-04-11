@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-11T13:06:02.985Z",
+  "generated": "2026-04-11T14:38:56.607Z",
   "total": 52,
   "successful": 37,
   "failed": 15,
@@ -8,19 +8,19 @@
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h0j1lnfwdz/out/v1/4843137de5e74380962b3e8d8d78e061/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/eajgowpkve/out/v1/1e448b3f09884547b77af6c9056b404d/cenc.mpd",
       "m3u8": null,
-      "kid": "06c474083954369b65c9b6764eeeb3a3",
-      "key": "c041952cd342b4ea84bd5865423b8585"
+      "kid": "a8a4acb421aa98dcb5748cd92a8dcb39",
+      "key": "c226dc3bde109562804e214bf89d0d7f"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h0j1lnfwdz/out/v1/4843137de5e74380962b3e8d8d78e061/cenc.mpd",
+      "mpd": "https://sh-bks400-08.starhubgo.com/bpk-token/1aa@joovm5f2zvs3h3zyttaif2kz4lttlf1pjev3djca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
       "m3u8": null,
-      "kid": "06c474083954369b65c9b6764eeeb3a3",
-      "key": "c041952cd342b4ea84bd5865423b8585"
+      "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
+      "key": "57b670b45b5cb453a9f48fa975b702c1"
     },
     {
       "name": "PSL Match (83)",
@@ -215,7 +215,7 @@
       "name": "Live 1 (57)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/57",
-      "mpd": "https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
+      "mpd": "https://sh-bks400-08.starhubgo.com/bpk-token/1aa@joovm5f2zvs3h3zyttaif2kz4lttlf1pjev3djca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
       "m3u8": null,
       "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
       "key": "57b670b45b5cb453a9f48fa975b702c1"
@@ -224,10 +224,10 @@
       "name": "Live 1 (58)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/58",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h0j1lnfwdz/out/v1/4843137de5e74380962b3e8d8d78e061/cenc.mpd",
+      "mpd": "https://sh-bks400-08.starhubgo.com/bpk-token/1aa@joovm5f2zvs3h3zyttaif2kz4lttlf1pjev3djca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
       "m3u8": null,
-      "kid": "06c474083954369b65c9b6764eeeb3a3",
-      "key": "c041952cd342b4ea84bd5865423b8585"
+      "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
+      "key": "57b670b45b5cb453a9f48fa975b702c1"
     },
     {
       "name": "LaLiga 1",
