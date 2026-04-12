@@ -1,17 +1,35 @@
 {
-  "generated": "2026-04-12T09:50:27.171Z",
+  "generated": "2026-04-12T10:41:47.637Z",
   "total": 52,
-  "successful": 37,
-  "failed": 15,
+  "successful": 40,
+  "failed": 12,
   "streams": [
+    {
+      "name": "Live 1",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-1/84",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093749/219026-314033/manifest-d.mpd",
+      "m3u8": null,
+      "kid": "aefc2c8d1c8840f1b6981f856c9269ba",
+      "key": "cf8ea114c45b4d6596b2748258ab74d6"
+    },
+    {
+      "name": "Live 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-2/85",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093749/219026-314033/manifest-d.mpd",
+      "m3u8": null,
+      "kid": "aefc2c8d1c8840f1b6981f856c9269ba",
+      "key": "cf8ea114c45b4d6596b2748258ab74d6"
+    },
     {
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/eajgowpkve/out/v1/1e448b3f09884547b77af6c9056b404d/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lgm5rxt4tj/out/v1/4b2f91723f8f40cba2ed801356a31b99/cenc.mpd",
       "m3u8": null,
-      "kid": "a8a4acb421aa98dcb5748cd92a8dcb39",
-      "key": "c226dc3bde109562804e214bf89d0d7f"
+      "kid": "a5169cff06cb0c69b222606bf3e7b9f2",
+      "key": "717fec03081b4ffa14267ee85f9a4946"
     },
     {
       "name": "Live 4",
@@ -93,6 +111,15 @@
       "m3u8": null,
       "kid": "065051b99bf5cf8d9a3bde5cbde6aaf9",
       "key": "214bd176832872339ce184338320f9a2"
+    },
+    {
+      "name": "Portugal",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093749/219026-314033/manifest-d.mpd",
+      "m3u8": null,
+      "kid": "aefc2c8d1c8840f1b6981f856c9269ba",
+      "key": "cf8ea114c45b4d6596b2748258ab74d6"
     },
     {
       "name": "Portugal 2",
@@ -215,10 +242,10 @@
       "name": "Live 1 (57)",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/live-1/57",
-      "mpd": "https://sh-bks400-08.starhubgo.com/bpk-token/1aa@joovm5f2zvs3h3zyttaif2kz4lttlf1pjev3djca/bpk-tv/HubSports4HDnew/output/manifest.mpd",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093749/219026-314033/manifest-d.mpd",
       "m3u8": null,
-      "kid": "9a29d4f3b6e540b3aa2f36927c01b6f4",
-      "key": "57b670b45b5cb453a9f48fa975b702c1"
+      "kid": "aefc2c8d1c8840f1b6981f856c9269ba",
+      "key": "cf8ea114c45b4d6596b2748258ab74d6"
     },
     {
       "name": "Live 1 (58)",
@@ -340,18 +367,6 @@
   ],
   "errors": [
     {
-      "name": "Live 1",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/live-1/84"
-    },
-    {
-      "name": "Live 2",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/live-2/85"
-    },
-    {
       "name": "PSL Match (79)",
       "site": "durbintv",
       "status": "login_required",
@@ -362,12 +377,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
-    },
-    {
-      "name": "Portugal",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71"
     },
     {
       "name": "TNT Sports 1",
