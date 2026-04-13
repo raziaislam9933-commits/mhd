@@ -13,22 +13,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093734/219028-313801/manifest-d.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/itrcru6rh4/out/v1/1fd74291835141e5861039de03dd3942/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nze1joywnu/out/v1/d626ba5f1a07483b8c6d10372911dd19/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/itrcru6rh4/out/v1/1fd74291835141e5861039de03dd3942/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ukkueppmq2/out/v1/7d50b4591e4f4cf9806ce9f13309adad/cenc.mpd
-
-#EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://abkv2pxaaaaaaaamlfvqlljfjz5f7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/7bssxijr6b/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -138,7 +133,7 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79
 #EXTINF:-1 tvg-name="Live 1 58" group-title="mhdtvp",Live 1 (58)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nze1joywnu/out/v1/d626ba5f1a07483b8c6d10372911dd19/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/itrcru6rh4/out/v1/1fd74291835141e5861039de03dd3942/cenc.mpd
 
 #EXTINF:-1 tvg-name="LaLiga 1" group-title="mhdtvp",LaLiga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
