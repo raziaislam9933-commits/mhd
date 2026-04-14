@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-14T19:21:44.189Z",
+  "generated": "2026-04-14T20:58:45.091Z",
   "total": 52,
-  "successful": 37,
-  "failed": 15,
+  "successful": 36,
+  "failed": 16,
   "streams": [
     {
       "name": "Live 3",
@@ -93,15 +93,6 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "name": "Portugal 2",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70",
-      "mpd": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
-      "m3u8": null,
-      "kid": "3cfa8625f650406ebf6a4d1ea737f572",
-      "key": "0534e747c70b364aa7210e1bf3191df0"
     },
     {
       "name": "LaLiga",
@@ -368,6 +359,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
+    },
+    {
+      "name": "Portugal 2",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70"
     },
     {
       "name": "TNT Sports 1",
