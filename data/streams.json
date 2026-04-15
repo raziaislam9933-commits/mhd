@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-15T19:22:55.512Z",
+  "generated": "2026-04-15T20:55:21.548Z",
   "total": 52,
   "successful": 16,
   "failed": 36,
@@ -249,7 +249,7 @@
     {
       "name": "LaLiga",
       "site": "durbintv",
-      "status": "no_player",
+      "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/live-laliga/42"
     },
     {
