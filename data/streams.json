@@ -1,9 +1,18 @@
 {
-  "generated": "2026-04-15T15:08:07.589Z",
+  "generated": "2026-04-15T17:08:34.286Z",
   "total": 52,
   "successful": 36,
   "failed": 16,
   "streams": [
+    {
+      "name": "Live 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-2/85",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8kgmavmivc/out/v1/394cc62641f1452bb1f5919a9114a57a/cenc.mpd",
+      "m3u8": null,
+      "kid": "1d6d9c164f50d0c058c38ea2574b55ab",
+      "key": "007b6b520787fcc78a6a56fd6a149df2"
+    },
     {
       "name": "Live 3",
       "site": "durbintv",
@@ -21,6 +30,15 @@
       "m3u8": null,
       "kid": "1d6d9c164f50d0c058c38ea2574b55ab",
       "key": "007b6b520787fcc78a6a56fd6a149df2"
+    },
+    {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
+      "m3u8": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+      "kid": null,
+      "key": null,
+      "mpd": null
     },
     {
       "name": "PSL Match (83)",
@@ -71,28 +89,10 @@
       "name": "Germany",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-germany/73",
-      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+      "mpd": "https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_live/live.livx",
       "m3u8": null,
-      "kid": "620e51b82596475517a27aa425c52280",
-      "key": "2b9ba811e9c5aeafc8ae1b71cdca4d6a"
-    },
-    {
-      "name": "Germany 2",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-live-germany-2/72",
-      "mpd": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-      "m3u8": null,
-      "kid": "065051b99bf5cf8d9a3bde5cbde6aaf9",
-      "key": "214bd176832872339ce184338320f9a2"
-    },
-    {
-      "name": "Portugal",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-      "m3u8": null,
-      "kid": "290e09c837da78d5cd961978d390515c",
-      "key": "b748836c71e6a4ca68ef5b5652db6247"
+      "kid": "cc667cda2ff49c4500fdf1ad847d4fc0",
+      "key": "13a48dc2c1257fd9a119b448de5225f6"
     },
     {
       "name": "LaLiga",
@@ -337,18 +337,6 @@
       "url": "https://durbintv.com/livetv/watch/live-1/84"
     },
     {
-      "name": "Live 2",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/live-2/85"
-    },
-    {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
-    },
-    {
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "status": "login_required",
@@ -359,6 +347,18 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
+    },
+    {
+      "name": "Germany 2",
+      "site": "durbintv",
+      "status": "decrypt_failed",
+      "url": "https://durbintv.com/livetv/watch/watch-live-germany-2/72"
+    },
+    {
+      "name": "Portugal",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71"
     },
     {
       "name": "Portugal 2",
