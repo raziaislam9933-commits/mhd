@@ -1,35 +1,44 @@
 {
-  "generated": "2026-04-18T13:09:28.266Z",
+  "generated": "2026-04-18T14:43:06.839Z",
   "total": 52,
-  "successful": 43,
-  "failed": 9,
+  "successful": 44,
+  "failed": 8,
   "streams": [
     {
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1776580323~acl=/*~id=c3306428-dcb4-4a74-a24a-d10f3725b3bc~data=hdntl,aXA9MzguMTM3LjIwLjQ1JmV4cD0xNzc2NDkzOTUyJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=2693665239735aa8fa728925ce4cee35dcc6f06599c7fcd5068d359e1a9f97ed/dash/live/2093734/219028-313801/manifest-d.mpd",
+      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/ke59mrh50f/out/v1/599ab0fe67fb4b9fb895b33b07b69d1e/cenc.mpd",
       "m3u8": null,
-      "kid": "2e2636daa74141b68cc14882ea3ff82b",
-      "key": "0961f48287324adbb4b7ff3c9d82b3c9"
+      "kid": "44bf026ee69d3feb4ea63001fdc1472b",
+      "key": "697b3102583203f9f3e053754f4e2829"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aluw6sbekd/out/v1/9d1d6c30ffb54e49ada82f217509d5f0/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ke59mrh50f/out/v1/599ab0fe67fb4b9fb895b33b07b69d1e/cenc.mpd",
       "m3u8": null,
-      "kid": "37552b55f620758d16945215d71e8419",
-      "key": "7f3f418aaeca0f05a3291bb5c9db2992"
+      "kid": "44bf026ee69d3feb4ea63001fdc1472b",
+      "key": "697b3102583203f9f3e053754f4e2829"
     },
     {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wc2fnnne2h/out/v1/6183b689e9554863a3e8004dca4e4fc6/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/agrfja7gas/out/v1/a29896e7103245859581d53e02a62904/cenc.mpd",
       "m3u8": null,
-      "kid": "49eff653bfb18cc24d68e9569930cd23",
-      "key": "1e02ca6526ecc9c927d0972201ab63a0"
+      "kid": "cd12c8ede0d455b52ea726b12d8d5213",
+      "key": "2f2c89c6b393f1300e8fa775a6d3b846"
+    },
+    {
+      "name": "IPL 2026 (81)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
+      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+      "m3u8": null,
+      "kid": "96b67fa09140329a89b7a1ead134eda3",
+      "key": "c618d32c56cdc6cad8330eb98507ca3f"
     },
     {
       "name": "Watch India",
@@ -416,12 +425,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
-    },
-    {
-      "name": "IPL 2026 (81)",
-      "site": "durbintv",
-      "status": "decrypt_failed",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
     },
     {
       "name": "Portugal",
