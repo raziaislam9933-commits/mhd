@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-18T11:37:32.134Z",
+  "generated": "2026-04-18T13:09:28.266Z",
   "total": 52,
   "successful": 43,
   "failed": 9,
@@ -89,10 +89,10 @@
       "name": "Portugal 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70",
-      "mpd": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+      "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
       "m3u8": null,
-      "kid": "3cfa8625f650406ebf6a4d1ea737f572",
-      "key": "0534e747c70b364aa7210e1bf3191df0"
+      "kid": "294b5761cefc22d0c6312939e13d8278",
+      "key": "52148f1042d238849f0a7813f1da8a7b"
     },
     {
       "name": "LaLiga",
