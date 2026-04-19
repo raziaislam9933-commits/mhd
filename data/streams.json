@@ -1,18 +1,9 @@
 {
-  "generated": "2026-04-19T09:56:29.045Z",
+  "generated": "2026-04-19T10:50:24.117Z",
   "total": 52,
-  "successful": 45,
-  "failed": 7,
+  "successful": 44,
+  "failed": 8,
   "streams": [
-    {
-      "name": "Live 3",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/ke59mrh50f/out/v1/599ab0fe67fb4b9fb895b33b07b69d1e/cenc.mpd",
-      "m3u8": null,
-      "kid": "44bf026ee69d3feb4ea63001fdc1472b",
-      "key": "697b3102583203f9f3e053754f4e2829"
-    },
     {
       "name": "Live 4",
       "site": "durbintv",
@@ -422,6 +413,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/live-2/85"
+    },
+    {
+      "name": "Live 3",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/live-3/86"
     },
     {
       "name": "PSL Match (79)",
