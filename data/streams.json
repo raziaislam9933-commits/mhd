@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-19T17:38:33.532Z",
+  "generated": "2026-04-19T18:56:34.675Z",
   "total": 52,
-  "successful": 44,
-  "failed": 8,
+  "successful": 45,
+  "failed": 7,
   "streams": [
     {
       "name": "Live 1",
@@ -30,6 +30,15 @@
       "m3u8": null,
       "kid": "660b12ab9ff8f5d7a9c9e87d2cd0ac3a",
       "key": "562d1d0574a3d3ea6a85e2500867d4dd"
+    },
+    {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
+      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+      "m3u8": null,
+      "kid": "34475edab991ad5e92548aebd710410a",
+      "key": "501b209cccd323ac00bf5ac15b406cb4"
     },
     {
       "name": "IPL 2026 (81)",
@@ -419,12 +428,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
-    },
-    {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
     },
     {
       "name": "Portugal",

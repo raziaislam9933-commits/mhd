@@ -18,6 +18,12 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/xdwqi5l00r/out/v1/3658
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"660b12ab9ff8f5d7a9c9e87d2cd0ac3a","key":"562d1d0574a3d3ea6a85e2500867d4dd"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xdwqi5l00r/out/v1/36587570a1c84b31a8fc2b44a7c6dc14/cenc.mpd
 
+#EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"34475edab991ad5e92548aebd710410a","key":"501b209cccd323ac00bf5ac15b406cb4"}]}
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
