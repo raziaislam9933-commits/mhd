@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-19T08:58:47.807Z",
+  "generated": "2026-04-19T09:56:29.045Z",
   "total": 52,
   "successful": 45,
   "failed": 7,
@@ -26,10 +26,10 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/agrfja7gas/out/v1/a29896e7103245859581d53e02a62904/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
       "m3u8": null,
-      "kid": "cd12c8ede0d455b52ea726b12d8d5213",
-      "key": "2f2c89c6b393f1300e8fa775a6d3b846"
+      "kid": "b748836c71e6a4ca68ef5b5652db6247",
+      "key": "290e09c837da78d5cd961978d390515c"
     },
     {
       "name": "IPL 2026 (80)",
