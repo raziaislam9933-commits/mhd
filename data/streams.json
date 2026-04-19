@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-19T18:56:34.675Z",
+  "generated": "2026-04-19T19:44:56.575Z",
   "total": 52,
   "successful": 45,
   "failed": 7,
@@ -107,10 +107,10 @@
       "name": "Portugal 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70",
-      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
       "m3u8": null,
-      "kid": "0b42be2664d7e811d04f3e504e0924c5",
-      "key": "ae24090123b8c72ac5404dc152847cb8"
+      "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+      "key": "fa38aaa865a57eda7c77444697ba8ed3"
     },
     {
       "name": "LaLiga",
