@@ -1,9 +1,14 @@
 #EXTM3U x-tvg-url=""
 
+#EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uxfgeomshq/out/v1/821a400ce1774390830544a8b83391ff/cenc.mpd
+
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ke59mrh50f/out/v1/599ab0fe67fb4b9fb895b33b07b69d1e/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uxfgeomshq/out/v1/821a400ce1774390830544a8b83391ff/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0

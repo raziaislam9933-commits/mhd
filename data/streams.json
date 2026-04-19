@@ -1,17 +1,26 @@
 {
-  "generated": "2026-04-19T10:50:24.117Z",
+  "generated": "2026-04-19T11:37:57.582Z",
   "total": 52,
-  "successful": 44,
-  "failed": 8,
+  "successful": 45,
+  "failed": 7,
   "streams": [
+    {
+      "name": "Live 3",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-3/86",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uxfgeomshq/out/v1/821a400ce1774390830544a8b83391ff/cenc.mpd",
+      "m3u8": null,
+      "kid": "cf8dc1675617f4e166c6caecd68fad93",
+      "key": "6bd5dd50f57c78fc7386aa286e391d19"
+    },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ke59mrh50f/out/v1/599ab0fe67fb4b9fb895b33b07b69d1e/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uxfgeomshq/out/v1/821a400ce1774390830544a8b83391ff/cenc.mpd",
       "m3u8": null,
-      "kid": "44bf026ee69d3feb4ea63001fdc1472b",
-      "key": "697b3102583203f9f3e053754f4e2829"
+      "kid": "cf8dc1675617f4e166c6caecd68fad93",
+      "key": "6bd5dd50f57c78fc7386aa286e391d19"
     },
     {
       "name": "PSL Match (83)",
@@ -413,12 +422,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/live-2/85"
-    },
-    {
-      "name": "Live 3",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/live-3/86"
     },
     {
       "name": "PSL Match (79)",

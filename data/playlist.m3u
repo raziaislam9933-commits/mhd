@@ -1,10 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"cf8dc1675617f4e166c6caecd68fad93","key":"6bd5dd50f57c78fc7386aa286e391d19"}]}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uxfgeomshq/out/v1/821a400ce1774390830544a8b83391ff/cenc.mpd
+
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"44bf026ee69d3feb4ea63001fdc1472b","key":"697b3102583203f9f3e053754f4e2829"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ke59mrh50f/out/v1/599ab0fe67fb4b9fb895b33b07b69d1e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"cf8dc1675617f4e166c6caecd68fad93","key":"6bd5dd50f57c78fc7386aa286e391d19"}]}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uxfgeomshq/out/v1/821a400ce1774390830544a8b83391ff/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
