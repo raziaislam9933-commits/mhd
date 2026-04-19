@@ -1,9 +1,18 @@
 {
-  "generated": "2026-04-19T14:43:09.786Z",
+  "generated": "2026-04-19T15:40:02.957Z",
   "total": 52,
-  "successful": 43,
-  "failed": 9,
+  "successful": 45,
+  "failed": 7,
   "streams": [
+    {
+      "name": "Live 1",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-1/84",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+      "m3u8": null,
+      "kid": "290e09c837da78d5cd961978d390515c",
+      "key": "b748836c71e6a4ca68ef5b5652db6247"
+    },
     {
       "name": "Live 3",
       "site": "durbintv",
@@ -30,6 +39,15 @@
       "m3u8": null,
       "kid": "b748836c71e6a4ca68ef5b5652db6247",
       "key": "290e09c837da78d5cd961978d390515c"
+    },
+    {
+      "name": "IPL 2026 (81)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
+      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+      "m3u8": null,
+      "kid": "ce7ab3022e753307997f58afe001bac4",
+      "key": "72d631a66e635c60829a0fe7705516c1"
     },
     {
       "name": "Watch India",
@@ -134,10 +152,10 @@
       "name": "Bundesliga 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-bundesliga-2/66",
-      "mpd": "https://bbb.exoadash.com/TVD2709/index.mpd",
+      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
       "m3u8": null,
-      "kid": "0",
-      "key": "0"
+      "kid": "ce7ab3022e753307997f58afe001bac4",
+      "key": "72d631a66e635c60829a0fe7705516c1"
     },
     {
       "name": "TSN 1",
@@ -394,12 +412,6 @@
   ],
   "errors": [
     {
-      "name": "Live 1",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/live-1/84"
-    },
-    {
       "name": "Live 2",
       "site": "durbintv",
       "status": "login_required",
@@ -416,12 +428,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
-    },
-    {
-      "name": "IPL 2026 (81)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
     },
     {
       "name": "Portugal",
