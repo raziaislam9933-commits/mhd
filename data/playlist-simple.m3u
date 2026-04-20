@@ -128,7 +128,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #EXTINF:-1 tvg-name="Bundesliga" group-title="mhdtvp",Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
-https://bbb.exoadash.com/TVD6412/index.mpd
+Tnt https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 tvg-name="Bundesliga 2" group-title="mhdtvp",Bundesliga 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
