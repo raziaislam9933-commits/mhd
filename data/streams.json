@@ -1,18 +1,9 @@
 {
-  "generated": "2026-04-20T13:49:46.422Z",
+  "generated": "2026-04-20T15:18:04.503Z",
   "total": 52,
-  "successful": 45,
-  "failed": 7,
+  "successful": 44,
+  "failed": 8,
   "streams": [
-    {
-      "name": "Live 1",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-      "m3u8": null,
-      "kid": "290e09c837da78d5cd961978d390515c",
-      "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
     {
       "name": "Live 3",
       "site": "durbintv",
@@ -411,6 +402,12 @@
     }
   ],
   "errors": [
+    {
+      "name": "Live 1",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/live-1/84"
+    },
     {
       "name": "Live 2",
       "site": "durbintv",
