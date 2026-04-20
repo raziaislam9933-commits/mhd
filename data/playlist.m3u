@@ -9,14 +9,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"660b12ab9ff8f5d7a9c9e87d2cd0ac3a","key":"562d1d0574a3d3ea6a85e2500867d4dd"}]}
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/xdwqi5l00r/out/v1/36587570a1c84b31a8fc2b44a7c6dc14/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"b423817670d6a5c883baca247286a26b","key":"385964b47c3e00da4c322184a4ef10b8"}]}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x9qixsryxv/out/v1/130bd90dfebd445397a9f63d9610f789/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"660b12ab9ff8f5d7a9c9e87d2cd0ac3a","key":"562d1d0574a3d3ea6a85e2500867d4dd"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xdwqi5l00r/out/v1/36587570a1c84b31a8fc2b44a7c6dc14/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"b423817670d6a5c883baca247286a26b","key":"385964b47c3e00da4c322184a4ef10b8"}]}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x9qixsryxv/out/v1/130bd90dfebd445397a9f63d9610f789/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash

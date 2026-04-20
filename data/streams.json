@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-20T11:20:12.586Z",
+  "generated": "2026-04-20T13:49:46.422Z",
   "total": 52,
   "successful": 45,
   "failed": 7,
@@ -17,19 +17,19 @@
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/xdwqi5l00r/out/v1/36587570a1c84b31a8fc2b44a7c6dc14/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x9qixsryxv/out/v1/130bd90dfebd445397a9f63d9610f789/cenc.mpd",
       "m3u8": null,
-      "kid": "660b12ab9ff8f5d7a9c9e87d2cd0ac3a",
-      "key": "562d1d0574a3d3ea6a85e2500867d4dd"
+      "kid": "b423817670d6a5c883baca247286a26b",
+      "key": "385964b47c3e00da4c322184a4ef10b8"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xdwqi5l00r/out/v1/36587570a1c84b31a8fc2b44a7c6dc14/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x9qixsryxv/out/v1/130bd90dfebd445397a9f63d9610f789/cenc.mpd",
       "m3u8": null,
-      "kid": "660b12ab9ff8f5d7a9c9e87d2cd0ac3a",
-      "key": "562d1d0574a3d3ea6a85e2500867d4dd"
+      "kid": "b423817670d6a5c883baca247286a26b",
+      "key": "385964b47c3e00da4c322184a4ef10b8"
     },
     {
       "name": "IPL 2026 (80)",

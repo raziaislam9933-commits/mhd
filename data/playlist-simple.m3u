@@ -8,12 +8,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/xdwqi5l00r/out/v1/36587570a1c84b31a8fc2b44a7c6dc14/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x9qixsryxv/out/v1/130bd90dfebd445397a9f63d9610f789/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xdwqi5l00r/out/v1/36587570a1c84b31a8fc2b44a7c6dc14/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x9qixsryxv/out/v1/130bd90dfebd445397a9f63d9610f789/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
