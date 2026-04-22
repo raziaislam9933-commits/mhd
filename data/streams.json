@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-22T15:17:35.063Z",
+  "generated": "2026-04-22T17:05:38.356Z",
   "total": 52,
-  "successful": 43,
-  "failed": 9,
+  "successful": 45,
+  "failed": 7,
   "streams": [
     {
       "name": "Live 3",
@@ -84,6 +84,24 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "name": "Germany",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-germany/73",
+      "mpd": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+      "m3u8": null,
+      "kid": "065051b99bf5cf8d9a3bde5cbde6aaf9",
+      "key": "214bd176832872339ce184338320f9a2"
+    },
+    {
+      "name": "Germany 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-germany-2/72",
+      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+      "m3u8": null,
+      "kid": "7995c724a13748ed970840a8ab5bb9b3",
+      "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
     },
     {
       "name": "Portugal 2",
@@ -410,18 +428,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
-    },
-    {
-      "name": "Germany",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-live-germany/73"
-    },
-    {
-      "name": "Germany 2",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-live-germany-2/72"
     },
     {
       "name": "Portugal",
