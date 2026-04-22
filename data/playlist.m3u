@@ -3,20 +3,20 @@
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"795f092c10514d301f43b42e2c8dfa3f","key":"042a0e40da4af60cf7ebb495723a5d73"}]}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iexgaxrphl/out/v1/a2afb2a462ed4263b4b92e17794b36de/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7740cce3149c7ddd809bebbaa88e9265","key":"22e20434432a7a9b868a1dd77f990ec0"}]}
+https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/gxdufzucae\/out\/v1\/36bedd1c99be4ddda1c3f48efd44eb99\/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"795f092c10514d301f43b42e2c8dfa3f","key":"042a0e40da4af60cf7ebb495723a5d73"}]}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iexgaxrphl/out/v1/a2afb2a462ed4263b4b92e17794b36de/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7740cce3149c7ddd809bebbaa88e9265","key":"22e20434432a7a9b868a1dd77f990ec0"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gxdufzucae/out/v1/36bedd1c99be4ddda1c3f48efd44eb99/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"e52df5c43f028ac74841d8666dd82957","key":"c0ba26e9891ae381420b7303717f9142"}]}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/50frhikpnl/out/v1/bfde08c2fa824ed389aa58bec2c698a2/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"f90b2f4017e35819c63e97d8fdd05343","key":"baeaff287a35b0d6e416953ce9867beb"}]}
+https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/nrhkiq5acs\/out\/v1\/9b863371be154ad98aa614926b7aa588\/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash

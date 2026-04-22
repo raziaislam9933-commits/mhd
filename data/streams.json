@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-22T13:50:06.382Z",
+  "generated": "2026-04-22T15:17:35.063Z",
   "total": 52,
   "successful": 43,
   "failed": 9,
@@ -8,28 +8,28 @@
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iexgaxrphl/out/v1/a2afb2a462ed4263b4b92e17794b36de/cenc.mpd",
+      "mpd": "https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/gxdufzucae\\/out\\/v1\\/36bedd1c99be4ddda1c3f48efd44eb99\\/cenc.mpd",
       "m3u8": null,
-      "kid": "795f092c10514d301f43b42e2c8dfa3f",
-      "key": "042a0e40da4af60cf7ebb495723a5d73"
+      "kid": "7740cce3149c7ddd809bebbaa88e9265",
+      "key": "22e20434432a7a9b868a1dd77f990ec0"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iexgaxrphl/out/v1/a2afb2a462ed4263b4b92e17794b36de/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gxdufzucae/out/v1/36bedd1c99be4ddda1c3f48efd44eb99/cenc.mpd",
       "m3u8": null,
-      "kid": "795f092c10514d301f43b42e2c8dfa3f",
-      "key": "042a0e40da4af60cf7ebb495723a5d73"
+      "kid": "7740cce3149c7ddd809bebbaa88e9265",
+      "key": "22e20434432a7a9b868a1dd77f990ec0"
     },
     {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/50frhikpnl/out/v1/bfde08c2fa824ed389aa58bec2c698a2/cenc.mpd",
+      "mpd": "https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/nrhkiq5acs\\/out\\/v1\\/9b863371be154ad98aa614926b7aa588\\/cenc.mpd",
       "m3u8": null,
-      "kid": "e52df5c43f028ac74841d8666dd82957",
-      "key": "c0ba26e9891ae381420b7303717f9142"
+      "kid": "f90b2f4017e35819c63e97d8fdd05343",
+      "key": "baeaff287a35b0d6e416953ce9867beb"
     },
     {
       "name": "IPL 2026 (80)",
