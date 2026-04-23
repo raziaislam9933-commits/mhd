@@ -3,12 +3,12 @@
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/gxdufzucae\/out\/v1\/36bedd1c99be4ddda1c3f48efd44eb99\/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/88tcrziisd/out/v1/14a712da109749bc8160010644e21708/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gxdufzucae/out/v1/36bedd1c99be4ddda1c3f48efd44eb99/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/88tcrziisd/out/v1/14a712da109749bc8160010644e21708/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -138,7 +138,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #EXTINF:-1 tvg-name="Bundesliga" group-title="mhdtvp",Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
-Tnt https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 tvg-name="Bundesliga 2" group-title="mhdtvp",Bundesliga 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
