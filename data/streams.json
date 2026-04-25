@@ -1,18 +1,9 @@
 {
-  "generated": "2026-04-25T08:57:31.993Z",
+  "generated": "2026-04-25T09:58:25.313Z",
   "total": 52,
-  "successful": 46,
-  "failed": 6,
+  "successful": 45,
+  "failed": 7,
   "streams": [
-    {
-      "name": "Live 1",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1777113123~acl=/*~id=7cf6a0bd-9139-4c71-8455-8235749ae9ec~data=hdntl,aXA9MzguMTM3LjM3LjIwOCZleHA9MTc3NzAyNjc1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=e8a2c40f7b186ea55eada5b5aa668f761b908f2e0363f956a067c469d3b8c398/dash/live/2093733/219027-313800/manifest-d.mpd",
-      "m3u8": null,
-      "kid": "708a98b352bd4418a73a028edd84da8f",
-      "key": "b1fa5c2bca4c4b57b924b748564532cb"
-    },
     {
       "name": "Live 3",
       "site": "durbintv",
@@ -35,10 +26,10 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cwvnguaq52/out/v1/5ee8530358e1400ab8f33d8a932830ee/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
       "m3u8": null,
-      "kid": "93332b97f31bcf5b2128ff061b5076a9",
-      "key": "a97bd64779a3c4ebf4cdcafb76814382"
+      "kid": "290e09c837da78d5cd961978d390515c",
+      "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "name": "IPL 2026 (80)",
@@ -420,6 +411,12 @@
     }
   ],
   "errors": [
+    {
+      "name": "Live 1",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/live-1/84"
+    },
     {
       "name": "Live 2",
       "site": "durbintv",
