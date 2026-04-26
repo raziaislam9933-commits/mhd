@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T15:46:07.322Z",
+  "generated": "2026-04-26T16:50:06.013Z",
   "total": 52,
-  "successful": 44,
-  "failed": 8,
+  "successful": 43,
+  "failed": 9,
   "streams": [
     {
       "name": "Live 3",
@@ -21,15 +21,6 @@
       "m3u8": null,
       "kid": "7cb361793a6e99ded8ca042a499b7f45",
       "key": "8efbe47bdb7cbea560d3abfe3a933cf8"
-    },
-    {
-      "name": "PSL Match (83)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aeg9a1fkmb/out/v1/44c646fb33434a77bf69987679a96c89/cenc.mpd",
-      "m3u8": null,
-      "kid": "3f703d3e2c30747e8557fe881ce42924",
-      "key": "6081851bbe7b5e5d084171e96f0cb318"
     },
     {
       "name": "IPL 2026 (80)",
@@ -419,6 +410,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
+    {
+      "name": "PSL Match (83)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
     },
     {
       "name": "Portugal",
