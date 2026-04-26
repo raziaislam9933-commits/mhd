@@ -9,14 +9,14 @@ https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/a511cb4e7b1b4fb0994a
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"dedbf883004d1468d70fb008ff2430d0","key":"ac7928fcd566ddebdf2b63cb4d1daeb6"}]}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpspuirqoc/out/v1/a047840f50a84f47ba6d765d910ffc5b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"f4214190ce30ed81af4628c998438fb1","key":"bf37f9f11320229a054cf795b880b54d"}]}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdbiww0yq8/out/v1/fef7df2f68424809883abfa4c7cf7e63/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"4a6f0f6a7d9d36dddeb36f475c862d97","key":"8697d6e10e41b97e987dd0631cbaac6a"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y7hrokvyvt/out/v1/5ada062c4c8a40689a0e670445685aaa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3f703d3e2c30747e8557fe881ce42924","key":"6081851bbe7b5e5d084171e96f0cb318"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aeg9a1fkmb/out/v1/44c646fb33434a77bf69987679a96c89/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
