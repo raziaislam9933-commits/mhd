@@ -1,9 +1,9 @@
 # Stream Keys Reference
-# Generated: 2026-04-26T14:49:08.326Z
+# Generated: 2026-04-26T15:46:07.322Z
 # Format: Channel | KID | KEY
 
 Live 3 | b554932375b255b9a70be27acf822808 | 15ce76bf0ae86b12205bb00f0324ac9e
-Live 4 | f4214190ce30ed81af4628c998438fb1 | bf37f9f11320229a054cf795b880b54d
+Live 4 | 7cb361793a6e99ded8ca042a499b7f45 | 8efbe47bdb7cbea560d3abfe3a933cf8
 PSL Match (83) | 3f703d3e2c30747e8557fe881ce42924 | 6081851bbe7b5e5d084171e96f0cb318
 IPL 2026 (80) | 96b67fa09140329a89b7a1ead134eda3 | c618d32c56cdc6cad8330eb98507ca3f
 IPL 2026 (81) | dc69b6159a0f9f0a4e03b3ff91cbacd5 | d0dcbcd7723bc40df0bf34c9c092d51f

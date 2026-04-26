@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-26T14:49:08.326Z",
+  "generated": "2026-04-26T15:46:07.322Z",
   "total": 52,
   "successful": 44,
   "failed": 8,
@@ -17,10 +17,10 @@
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdbiww0yq8/out/v1/fef7df2f68424809883abfa4c7cf7e63/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjnd301okd/out/v1/ea7ec99915184a66bb1e7e49fe14baa7/cenc.mpd",
       "m3u8": null,
-      "kid": "f4214190ce30ed81af4628c998438fb1",
-      "key": "bf37f9f11320229a054cf795b880b54d"
+      "kid": "7cb361793a6e99ded8ca042a499b7f45",
+      "key": "8efbe47bdb7cbea560d3abfe3a933cf8"
     },
     {
       "name": "PSL Match (83)",
