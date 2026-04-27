@@ -1,9 +1,27 @@
 {
-  "generated": "2026-04-27T11:46:39.540Z",
+  "generated": "2026-04-27T14:02:08.094Z",
   "total": 52,
-  "successful": 43,
-  "failed": 9,
+  "successful": 45,
+  "failed": 7,
   "streams": [
+    {
+      "name": "Live 1",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-1/84",
+      "mpd": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+      "m3u8": null,
+      "kid": "1e23e51b09a67b83813c17049870bcd4",
+      "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
+    },
+    {
+      "name": "Live 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/live-2/85",
+      "mpd": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+      "m3u8": null,
+      "kid": "1e23e51b09a67b83813c17049870bcd4",
+      "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
+    },
     {
       "name": "Live 3",
       "site": "durbintv",
@@ -17,10 +35,10 @@
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjnd301okd/out/v1/ea7ec99915184a66bb1e7e49fe14baa7/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k1gboyaxft/out/v1/6c9c035218f049c9b0f9165425b63db6/cenc.mpd",
       "m3u8": null,
-      "kid": "7cb361793a6e99ded8ca042a499b7f45",
-      "key": "8efbe47bdb7cbea560d3abfe3a933cf8"
+      "kid": "c7eb71c5e977e3511c17904e67b38b58",
+      "key": "a66e312204618b6ea4628e10756468c5"
     },
     {
       "name": "IPL 2026 (80)",
@@ -44,28 +62,28 @@
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+      "mpd": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd ",
       "m3u8": null,
-      "kid": "290e09c837da78d5cd961978d390515c",
-      "key": "b748836c71e6a4ca68ef5b5652db6247"
+      "kid": "192b1115da041585c77200128549efa1",
+      "key": "634e10efe4abbb14be400a3ccbac0258"
     },
     {
       "name": "Watch India 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india-2/76",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+      "mpd": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd ",
       "m3u8": null,
-      "kid": "290e09c837da78d5cd961978d390515c",
-      "key": "b748836c71e6a4ca68ef5b5652db6247"
+      "kid": "192b1115da041585c77200128549efa1",
+      "key": "634e10efe4abbb14be400a3ccbac0258"
     },
     {
       "name": "Watch India 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india-3/75",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+      "mpd": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd ",
       "m3u8": null,
-      "kid": "290e09c837da78d5cd961978d390515c",
-      "key": "b748836c71e6a4ca68ef5b5652db6247"
+      "kid": "192b1115da041585c77200128549efa1",
+      "key": "634e10efe4abbb14be400a3ccbac0258"
     },
     {
       "name": "Watch India 4",
@@ -393,18 +411,6 @@
     }
   ],
   "errors": [
-    {
-      "name": "Live 1",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/live-1/84"
-    },
-    {
-      "name": "Live 2",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/live-2/85"
-    },
     {
       "name": "PSL Match (79)",
       "site": "durbintv",

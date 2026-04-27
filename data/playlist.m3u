@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"1e23e51b09a67b83813c17049870bcd4","key":"c3d6288e378b0dc55320fd0e6fd2e55f"}]}
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
+
+#EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"1e23e51b09a67b83813c17049870bcd4","key":"c3d6288e378b0dc55320fd0e6fd2e55f"}]}
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
+
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
@@ -9,8 +21,8 @@ https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/a511cb4e7b1b4fb0994a
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"7cb361793a6e99ded8ca042a499b7f45","key":"8efbe47bdb7cbea560d3abfe3a933cf8"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjnd301okd/out/v1/ea7ec99915184a66bb1e7e49fe14baa7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"c7eb71c5e977e3511c17904e67b38b58","key":"a66e312204618b6ea4628e10756468c5"}]}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k1gboyaxft/out/v1/6c9c035218f049c9b0f9165425b63db6/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -27,20 +39,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"290e09c837da78d5cd961978d390515c","key":"b748836c71e6a4ca68ef5b5652db6247"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"192b1115da041585c77200128549efa1","key":"634e10efe4abbb14be400a3ccbac0258"}]}
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"290e09c837da78d5cd961978d390515c","key":"b748836c71e6a4ca68ef5b5652db6247"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"192b1115da041585c77200128549efa1","key":"634e10efe4abbb14be400a3ccbac0258"}]}
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
 
 #EXTINF:-1 tvg-name="Watch India 3" group-title="durbintv",Watch India 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"290e09c837da78d5cd961978d390515c","key":"b748836c71e6a4ca68ef5b5652db6247"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"192b1115da041585c77200128549efa1","key":"634e10efe4abbb14be400a3ccbac0258"}]}
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
 
 #EXTINF:-1 tvg-name="Watch India 4" group-title="durbintv",Watch India 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
