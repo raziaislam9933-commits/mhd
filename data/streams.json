@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-27T18:05:38.583Z",
+  "generated": "2026-04-27T20:10:08.438Z",
   "total": 52,
   "successful": 45,
   "failed": 7,
@@ -39,15 +39,6 @@
       "m3u8": null,
       "kid": "c7eb71c5e977e3511c17904e67b38b58",
       "key": "a66e312204618b6ea4628e10756468c5"
-    },
-    {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-      "m3u8": null,
-      "kid": "96b67fa09140329a89b7a1ead134eda3",
-      "key": "c618d32c56cdc6cad8330eb98507ca3f"
     },
     {
       "name": "IPL 2026 (81)",
@@ -111,6 +102,15 @@
       "m3u8": null,
       "kid": "0b42be2664d7e811d04f3e504e0924c5",
       "key": "ae24090123b8c72ac5404dc152847cb8"
+    },
+    {
+      "name": "Portugal 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70",
+      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+      "m3u8": null,
+      "kid": "96b67fa09140329a89b7a1ead134eda3",
+      "key": "c618d32c56cdc6cad8330eb98507ca3f"
     },
     {
       "name": "LaLiga",
@@ -424,16 +424,16 @@
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
     },
     {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
+    },
+    {
       "name": "Portugal",
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71"
-    },
-    {
-      "name": "Portugal 2",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70"
     },
     {
       "name": "Live 1 (57)",
