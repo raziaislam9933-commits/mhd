@@ -18,7 +18,12 @@ https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/a511cb4e7b1b4fb0994a
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k1gboyaxft/out/v1/6c9c035218f049c9b0f9165425b63db6/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nk2wxfedpq/out/v1/b7421a8cb3db4905b5b4abfc0e4d66c0/cenc.mpd
+
+#EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/my9jfum8f6/out/v1/5276c24705c54c6499f52c81fbc4d0de/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
