@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-29T14:05:58.702Z",
+  "generated": "2026-04-29T16:43:34.437Z",
   "total": 52,
   "successful": 46,
   "failed": 6,
@@ -8,19 +8,19 @@
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/azwuqtlxfr/out/v1/78eb78ea2c374576ba1ff8a6df562586/cenc.mpd",
       "m3u8": null,
-      "kid": "1e23e51b09a67b83813c17049870bcd4",
-      "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
+      "kid": "50195344b760466888f9086d43b639b4",
+      "key": "97497ea2d101d957f291271247c53cdf"
     },
     {
       "name": "Live 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/azwuqtlxfr/out/v1/78eb78ea2c374576ba1ff8a6df562586/cenc.mpd",
       "m3u8": null,
-      "kid": "1e23e51b09a67b83813c17049870bcd4",
-      "key": "c3d6288e378b0dc55320fd0e6fd2e55f"
+      "kid": "50195344b760466888f9086d43b639b4",
+      "key": "97497ea2d101d957f291271247c53cdf"
     },
     {
       "name": "Live 3",
