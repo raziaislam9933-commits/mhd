@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-30T18:12:11.541Z",
+  "generated": "2026-04-30T20:10:34.164Z",
   "total": 52,
-  "successful": 47,
-  "failed": 5,
+  "successful": 48,
+  "failed": 4,
   "streams": [
     {
       "name": "Live 1",
@@ -50,13 +50,22 @@
       "key": "1f6a669fc5059d88667ed29e4996a0e8"
     },
     {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
+      "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+      "m3u8": null,
+      "kid": "f288380ca4cef9ad3f27a92a08e9bb8b",
+      "key": "9f18d26291d9230833501f7f822f6875"
+    },
+    {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
       "m3u8": null,
-      "kid": "dc69b6159a0f9f0a4e03b3ff91cbacd5",
-      "key": "d0dcbcd7723bc40df0bf34c9c092d51f"
+      "kid": "294b5761cefc22d0c6312939e13d8278",
+      "key": "52148f1042d238849f0a7813f1da8a7b"
     },
     {
       "name": "Watch India",
@@ -434,12 +443,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
-    },
-    {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
     },
     {
       "name": "Live 1 (57)",
