@@ -1,41 +1,14 @@
 {
-  "generated": "2026-04-30T09:14:38.218Z",
+  "generated": "2026-04-30T11:40:01.157Z",
   "total": 52,
-  "successful": 46,
-  "failed": 6,
+  "successful": 43,
+  "failed": 9,
   "streams": [
     {
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
       "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/azwuqtlxfr/out/v1/78eb78ea2c374576ba1ff8a6df562586/cenc.mpd",
-      "m3u8": null,
-      "kid": "50195344b760466888f9086d43b639b4",
-      "key": "97497ea2d101d957f291271247c53cdf"
-    },
-    {
-      "name": "Live 2",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/azwuqtlxfr/out/v1/78eb78ea2c374576ba1ff8a6df562586/cenc.mpd",
-      "m3u8": null,
-      "kid": "50195344b760466888f9086d43b639b4",
-      "key": "97497ea2d101d957f291271247c53cdf"
-    },
-    {
-      "name": "Live 3",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/a511cb4e7b1b4fb0994a6842db0b8f7a/index.mpd",
-      "m3u8": null,
-      "kid": "b554932375b255b9a70be27acf822808",
-      "key": "15ce76bf0ae86b12205bb00f0324ac9e"
-    },
-    {
-      "name": "Live 4",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/azwuqtlxfr/out/v1/78eb78ea2c374576ba1ff8a6df562586/cenc.mpd",
       "m3u8": null,
       "kid": "50195344b760466888f9086d43b639b4",
       "key": "97497ea2d101d957f291271247c53cdf"
@@ -420,6 +393,25 @@
     }
   ],
   "errors": [
+    {
+      "name": "Live 2",
+      "site": "durbintv",
+      "status": "no_player",
+      "url": "https://durbintv.com/livetv/watch/live-2/85"
+    },
+    {
+      "name": "Live 3",
+      "site": "durbintv",
+      "status": "error",
+      "error": "timeout",
+      "url": "https://durbintv.com/livetv/watch/live-3/86"
+    },
+    {
+      "name": "Live 4",
+      "site": "durbintv",
+      "status": "no_player",
+      "url": "https://durbintv.com/livetv/watch/live-4/87"
+    },
     {
       "name": "PSL Match (79)",
       "site": "durbintv",
