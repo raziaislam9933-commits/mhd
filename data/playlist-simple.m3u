@@ -1,1 +1,237 @@
 #EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/pctpgbah9u/out/v1/64d404d6e5d0400d98304d1b072f07af/cenc.mpd
+
+#EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/pctpgbah9u/out/v1/64d404d6e5d0400d98304d1b072f07af/cenc.mpd
+
+#EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pctpgbah9u/out/v1/64d404d6e5d0400d98304d1b072f07af/cenc.mpd
+
+#EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pctpgbah9u/out/v1/64d404d6e5d0400d98304d1b072f07af/cenc.mpd
+
+#EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rxtlanpyyj/out/v1/224a177b4b86419ba589d60951dc0da2/cenc.mpd
+
+#EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
+
+#EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
+
+#EXTINF:-1 tvg-name="Watch India 3" group-title="durbintv",Watch India 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
+
+#EXTINF:-1 tvg-name="Watch India 4" group-title="durbintv",Watch India 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-name="Germany" group-title="durbintv",Germany
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+
+#EXTINF:-1 tvg-name="Germany 2" group-title="durbintv",Germany 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/pctpgbah9u/out/v1/64d404d6e5d0400d98304d1b072f07af/cenc.mpd
+
+#EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-name="LaLiga" group-title="durbintv",LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-name="Serie A 68" group-title="durbintv",Serie A (68)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-name="Bundesliga" group-title="durbintv",Bundesliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-name="Bundesliga 2" group-title="durbintv",Bundesliga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTINF:-1 tvg-name="TSN 1" group-title="durbintv",TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 2" group-title="durbintv",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 3" group-title="durbintv",TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 4" group-title="durbintv",TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 5" group-title="durbintv",TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+#EXTINF:-1 tvg-name="PSL 48" group-title="mhdtvp",PSL (48)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-name="PSL 49" group-title="mhdtvp",PSL (49)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-name="LaLiga 1" group-title="mhdtvp",LaLiga 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-name="Serie A" group-title="mhdtvp",Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-name="Serie A 2" group-title="mhdtvp",Serie A 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-name="Bundesliga" group-title="mhdtvp",Bundesliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-name="Bundesliga 2" group-title="mhdtvp",Bundesliga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-name="TNT Sports 1" group-title="mhdtvp",TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-name="TNT Sports 2" group-title="mhdtvp",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-name="TNT Sports 3" group-title="mhdtvp",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-name="TNT Sports 4" group-title="mhdtvp",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 1" group-title="mhdtvp",TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 2" group-title="mhdtvp",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 3" group-title="mhdtvp",TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 4" group-title="mhdtvp",TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 5" group-title="mhdtvp",TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+#EXTINF:-1 tvg-name="T Sports 50" group-title="mhdtvp",T Sports (50)
+https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
+
+#EXTINF:-1 tvg-name="T Sports 52" group-title="mhdtvp",T Sports (52)
+https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
+
+#EXTINF:-1 tvg-name="BeIN SPORTS 1" group-title="mhdtvp",BeIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-name="BeIN SPORTS 2" group-title="mhdtvp",BeIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-name="BeIN SPORTS 3" group-title="mhdtvp",BeIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-name="Fancode 1" group-title="mhdtvp",Fancode 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-name="Fancode 2" group-title="mhdtvp",Fancode 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
