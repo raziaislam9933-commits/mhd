@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-01T06:39:00.645Z",
+  "generated": "2026-05-01T09:03:04.807Z",
   "total": 52,
-  "successful": 48,
-  "failed": 4,
+  "successful": 46,
+  "failed": 6,
   "streams": [
     {
       "name": "Live 1",
@@ -257,15 +257,6 @@
       "key": "2b9ba811e9c5aeafc8ae1b71cdca4d6a"
     },
     {
-      "name": "Serie A",
-      "site": "mhdtvp",
-      "url": "https://mhdtvp.com/livetv/watch/serie-a/53",
-      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-      "m3u8": null,
-      "kid": "d1a163914db8ffad2c3e94f979896a0d",
-      "key": "9728800a3959aafdd5b0bcfbf3768811"
-    },
-    {
       "name": "Serie A 2",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/serie-a-2/54",
@@ -426,15 +417,6 @@
       "m3u8": null,
       "kid": "065051b99bf5cf8d9a3bde5cbde6aaf9",
       "key": "214bd176832872339ce184338320f9a2"
-    },
-    {
-      "name": "Fancode 2",
-      "site": "mhdtvp",
-      "url": "https://mhdtvp.com/sports/watch/fancode-2/23",
-      "mpd": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-      "m3u8": null,
-      "kid": "7e9239c1982d984a002df3ed049d0756",
-      "key": "1b8a17598129a3618535c8fb05f103fe"
     }
   ],
   "errors": [
@@ -457,10 +439,22 @@
       "url": "https://mhdtvp.com/livetv/watch/live-1/58"
     },
     {
+      "name": "Serie A",
+      "site": "mhdtvp",
+      "status": "no_player",
+      "url": "https://mhdtvp.com/livetv/watch/serie-a/53"
+    },
+    {
       "name": "Nagorik TV",
       "site": "mhdtvp",
       "status": "login_required",
       "url": "https://mhdtvp.com/livetv/watch/nagorik-tv/51"
+    },
+    {
+      "name": "Fancode 2",
+      "site": "mhdtvp",
+      "status": "no_player",
+      "url": "https://mhdtvp.com/sports/watch/fancode-2/23"
     }
   ]
 }
