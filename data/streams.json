@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-02T13:19:13.311Z",
+  "generated": "2026-05-02T14:52:09.163Z",
   "total": 52,
   "successful": 48,
   "failed": 4,
@@ -8,37 +8,37 @@
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8smvlfeeg/out/v1/d635ebb97da7408badbcb0fc7f448e41/cenc.mpd",
+      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/7c60cbc86c5a4b49991bed90d5a6fe0e/index.mpd",
       "m3u8": null,
-      "kid": "3e413afe9c10e7ddacdbf33945b81e3a",
-      "key": "35035b1bf86353e3cd53689cc0058234"
+      "kid": "9606ae198dbe5a40a0d2b2f032b1a487",
+      "key": "60bbf807a4ab8384eff659f87109d0a1"
     },
     {
       "name": "Live 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8smvlfeeg/out/v1/d635ebb97da7408badbcb0fc7f448e41/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdtysddt3h/out/v1/8a7efdb4fd4746758d9d631fd6252bc4/cenc.mpd",
       "m3u8": null,
-      "kid": "3e413afe9c10e7ddacdbf33945b81e3a",
-      "key": "35035b1bf86353e3cd53689cc0058234"
+      "kid": "853f3648541578a64d73665594568d2a",
+      "key": "9f5a98e26094f397d1d7cefd41d1ebfc"
     },
     {
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8smvlfeeg/out/v1/d635ebb97da7408badbcb0fc7f448e41/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdtysddt3h/out/v1/8a7efdb4fd4746758d9d631fd6252bc4/cenc.mpd",
       "m3u8": null,
-      "kid": "3e413afe9c10e7ddacdbf33945b81e3a",
-      "key": "35035b1bf86353e3cd53689cc0058234"
+      "kid": "853f3648541578a64d73665594568d2a",
+      "key": "9f5a98e26094f397d1d7cefd41d1ebfc"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8smvlfeeg/out/v1/d635ebb97da7408badbcb0fc7f448e41/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdtysddt3h/out/v1/8a7efdb4fd4746758d9d631fd6252bc4/cenc.mpd",
       "m3u8": null,
-      "kid": "3e413afe9c10e7ddacdbf33945b81e3a",
-      "key": "35035b1bf86353e3cd53689cc0058234"
+      "kid": "853f3648541578a64d73665594568d2a",
+      "key": "9f5a98e26094f397d1d7cefd41d1ebfc"
     },
     {
       "name": "PSL Match (83)",
@@ -53,19 +53,19 @@
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1777813636~acl=%2f*~id=42abfd8b-6c06-446c-901d-ac681f93fa56~data=hdntl,aXA9MjA4Ljg3LjI0MC4yNTUmZXhwPTE3Nzc3MjcyNjUmZWlkPTkzOTU4NSZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=21a511342e11649e600715fc0351b7cbda4468d7f93c638bd7b875d77242fbae/dash/live/2093741/219037-313808/manifest-d.mpd",
       "m3u8": null,
-      "kid": "f288380ca4cef9ad3f27a92a08e9bb8b",
-      "key": "9f18d26291d9230833501f7f822f6875"
+      "kid": "01d02c97d1c949f9877acd230dcaa56d",
+      "key": "708410b8bf1f4e998931183e8fab5d1e"
     },
     {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+      "mpd": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
       "m3u8": null,
-      "kid": "294b5761cefc22d0c6312939e13d8278",
-      "key": "52148f1042d238849f0a7813f1da8a7b"
+      "kid": "0",
+      "key": "0"
     },
     {
       "name": "Watch India",
@@ -125,10 +125,10 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8smvlfeeg/out/v1/d635ebb97da7408badbcb0fc7f448e41/cenc.mpd",
+      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/7c60cbc86c5a4b49991bed90d5a6fe0e/index.mpd",
       "m3u8": null,
-      "kid": "3e413afe9c10e7ddacdbf33945b81e3a",
-      "key": "35035b1bf86353e3cd53689cc0058234"
+      "kid": "9606ae198dbe5a40a0d2b2f032b1a487",
+      "key": "60bbf807a4ab8384eff659f87109d0a1"
     },
     {
       "name": "Portugal 2",
