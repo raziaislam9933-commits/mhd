@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-02T15:51:12.619Z",
+  "generated": "2026-05-02T16:53:46.270Z",
   "total": 52,
   "successful": 48,
   "failed": 4,
@@ -53,10 +53,10 @@
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1777813636~acl=%2f*~id=42abfd8b-6c06-446c-901d-ac681f93fa56~data=hdntl,aXA9MjA4Ljg3LjI0MC4yNTUmZXhwPTE3Nzc3MjcyNjUmZWlkPTkzOTU4NSZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=21a511342e11649e600715fc0351b7cbda4468d7f93c638bd7b875d77242fbae/dash/live/2093741/219037-313808/manifest-d.mpd",
+      "mpd": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd",
       "m3u8": null,
-      "kid": "01d02c97d1c949f9877acd230dcaa56d",
-      "key": "708410b8bf1f4e998931183e8fab5d1e"
+      "kid": "0",
+      "key": "0"
     },
     {
       "name": "IPL 2026 (81)",

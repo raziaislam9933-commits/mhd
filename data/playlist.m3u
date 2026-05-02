@@ -33,8 +33,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/j7kc6xejtn/out/v1
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"01d02c97d1c949f9877acd230dcaa56d","key":"708410b8bf1f4e998931183e8fab5d1e"}]}
-https://dice-live-oc.akamaized.net/hdntl=exp=1777813636~acl=%2f*~id=42abfd8b-6c06-446c-901d-ac681f93fa56~data=hdntl,aXA9MjA4Ljg3LjI0MC4yNTUmZXhwPTE3Nzc3MjcyNjUmZWlkPTkzOTU4NSZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=21a511342e11649e600715fc0351b7cbda4468d7f93c638bd7b875d77242fbae/dash/live/2093741/219037-313808/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"0","key":"0"}]}
+https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
