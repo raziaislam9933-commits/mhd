@@ -69,8 +69,8 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uw
 #EXTINF:-1 tvg-name="Germany" group-title="durbintv",Germany
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"709c812e1b4174002605df1d17d34a4c","key":"0bbee6c9c20a0f065bf8369d54cbf83e"}]}
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"065051b99bf5cf8d9a3bde5cbde6aaf9","key":"214bd176832872339ce184338320f9a2"}]}
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-name="Germany 2" group-title="durbintv",Germany 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
