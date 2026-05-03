@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-03T19:04:28.584Z",
+  "generated": "2026-05-03T20:49:41.267Z",
   "total": 52,
   "successful": 49,
   "failed": 3,
@@ -206,7 +206,7 @@
       "name": "TSN 2",
       "site": "durbintv",
       "url": "https://durbintv.com/sports/watch/tsn-2/43",
-      "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
       "m3u8": null,
       "kid": "daa8ea92553fd16cd6bfae2b8c582715",
       "key": "4042e041b5639b79b69ae07a872eef9b"
@@ -350,7 +350,7 @@
       "name": "TSN 2",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/tsn-2/34",
-      "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
       "m3u8": null,
       "kid": "daa8ea92553fd16cd6bfae2b8c582715",
       "key": "4042e041b5639b79b69ae07a872eef9b"
