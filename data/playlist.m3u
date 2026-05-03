@@ -9,20 +9,20 @@ https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/7c60cbc86c5a4b49991b
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"853f3648541578a64d73665594568d2a","key":"9f5a98e26094f397d1d7cefd41d1ebfc"}]}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdtysddt3h/out/v1/8a7efdb4fd4746758d9d631fd6252bc4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3addc1c607648f03c0617764b62c4491","key":"27b18a0eb79f9ebe65ce84e3616080aa"}]}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s3x4axmhdq/out/v1/786071c7f0dc4e7aa418ecc793cb470d/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"853f3648541578a64d73665594568d2a","key":"9f5a98e26094f397d1d7cefd41d1ebfc"}]}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdtysddt3h/out/v1/8a7efdb4fd4746758d9d631fd6252bc4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3addc1c607648f03c0617764b62c4491","key":"27b18a0eb79f9ebe65ce84e3616080aa"}]}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s3x4axmhdq/out/v1/786071c7f0dc4e7aa418ecc793cb470d/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"853f3648541578a64d73665594568d2a","key":"9f5a98e26094f397d1d7cefd41d1ebfc"}]}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdtysddt3h/out/v1/8a7efdb4fd4746758d9d631fd6252bc4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3addc1c607648f03c0617764b62c4491","key":"27b18a0eb79f9ebe65ce84e3616080aa"}]}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s3x4axmhdq/out/v1/786071c7f0dc4e7aa418ecc793cb470d/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
