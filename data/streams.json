@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-03T10:07:49.881Z",
+  "generated": "2026-05-03T11:46:16.262Z",
   "total": 52,
   "successful": 48,
   "failed": 4,
@@ -8,10 +8,10 @@
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/7c60cbc86c5a4b49991bed90d5a6fe0e/index.mpd",
+      "mpd": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/d3ee4c1daf714b36826fabd93c90986a/index.mpd",
       "m3u8": null,
-      "kid": "9606ae198dbe5a40a0d2b2f032b1a487",
-      "key": "60bbf807a4ab8384eff659f87109d0a1"
+      "kid": "dcedd692f3315f768ddb192ed266d05f",
+      "key": "6cf182dc2d612c127d408851c9d2e524"
     },
     {
       "name": "Live 2",
@@ -26,7 +26,7 @@
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s3x4axmhdq/out/v1/786071c7f0dc4e7aa418ecc793cb470d/cenc.mpd",
+      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/s3x4axmhdq/out/v1/786071c7f0dc4e7aa418ecc793cb470d/cenc.mpd",
       "m3u8": null,
       "kid": "3addc1c607648f03c0617764b62c4491",
       "key": "27b18a0eb79f9ebe65ce84e3616080aa"
@@ -35,7 +35,7 @@
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s3x4axmhdq/out/v1/786071c7f0dc4e7aa418ecc793cb470d/cenc.mpd",
+      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/s3x4axmhdq/out/v1/786071c7f0dc4e7aa418ecc793cb470d/cenc.mpd",
       "m3u8": null,
       "kid": "3addc1c607648f03c0617764b62c4491",
       "key": "27b18a0eb79f9ebe65ce84e3616080aa"
@@ -125,10 +125,10 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/7c60cbc86c5a4b49991bed90d5a6fe0e/index.mpd",
+      "mpd": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/d3ee4c1daf714b36826fabd93c90986a/index.mpd",
       "m3u8": null,
-      "kid": "9606ae198dbe5a40a0d2b2f032b1a487",
-      "key": "60bbf807a4ab8384eff659f87109d0a1"
+      "kid": "dcedd692f3315f768ddb192ed266d05f",
+      "key": "6cf182dc2d612c127d408851c9d2e524"
     },
     {
       "name": "Portugal 2",
