@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-04T14:09:23.752Z",
+  "generated": "2026-05-04T16:49:29.334Z",
   "total": 52,
   "successful": 49,
   "failed": 3,
@@ -8,10 +8,10 @@
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/60a80e11a0a641a18112dd08786a47f8/index.mpd ",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1777909488~acl=/*~id=c4e7285a-4b85-4cf8-9113-5cf0fce56b08~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM5MjI1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=40072fb54ef71544d38ffffae7cb690792baf750f07976a0840b74a8ee2ed6b2/dash/live/2093666/294921-318514/manifest-d.mpd",
       "m3u8": null,
-      "kid": "9759d3e615fc51038bbca9f62fed6578",
-      "key": "7ffe28b57021208c09312685108c454f"
+      "kid": "4d346b1d1ae64d4a800409cffa14983e",
+      "key": "208c972bd2da4359ac94e6944fe378b6"
     },
     {
       "name": "Live 2",
@@ -134,10 +134,10 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/60a80e11a0a641a18112dd08786a47f8/index.mpd ",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1777909488~acl=/*~id=c4e7285a-4b85-4cf8-9113-5cf0fce56b08~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM5MjI1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=40072fb54ef71544d38ffffae7cb690792baf750f07976a0840b74a8ee2ed6b2/dash/live/2093666/294921-318514/manifest-d.mpd",
       "m3u8": null,
-      "kid": "9759d3e615fc51038bbca9f62fed6578",
-      "key": "7ffe28b57021208c09312685108c454f"
+      "kid": "4d346b1d1ae64d4a800409cffa14983e",
+      "key": "208c972bd2da4359ac94e6944fe378b6"
     },
     {
       "name": "Portugal 2",

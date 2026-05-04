@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/60a80e11a0a641a18112dd08786a47f8/index.mpd 
+https://dice-live-oc.akamaized.net/hdntl=exp=1777909488~acl=/*~id=c4e7285a-4b85-4cf8-9113-5cf0fce56b08~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM5MjI1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=40072fb54ef71544d38ffffae7cb690792baf750f07976a0840b74a8ee2ed6b2/dash/live/2093666/294921-318514/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -73,7 +73,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/60a80e11a0a641a18112dd08786a47f8/index.mpd 
+https://dice-live-oc.akamaized.net/hdntl=exp=1777909488~acl=/*~id=c4e7285a-4b85-4cf8-9113-5cf0fce56b08~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM5MjI1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=40072fb54ef71544d38ffffae7cb690792baf750f07976a0840b74a8ee2ed6b2/dash/live/2093666/294921-318514/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
