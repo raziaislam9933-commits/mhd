@@ -140,11 +140,6 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f
 #EXTGRP:mhdtvp
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-name="LaLiga 1" group-title="mhdtvp",LaLiga 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:mhdtvp
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
 #EXTINF:-1 tvg-name="Serie A" group-title="mhdtvp",Serie A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
