@@ -3,22 +3,22 @@
 #EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dice-live-oc.akamaized.net/exp=1778236322~acl=%2F*~id=4bf63d5f-1199-4aea-8c29-f3112fe3d0de~data=hdntl,aXA9MzguMTM3LjMzLjkwJmV4cD0xNzc4MTQ5OTUyJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=435f0743429ff0b19429bd351e628eb4b8921a8f4caeea14c96990ad6e572758/dash/live/2093666/294921-318514/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1778313608~acl=/*~id=c361535c-05ac-4359-9ef0-3acee7209e31~data=hdntl,aXA9MTgwLjE0OS4yMzEuNzEmZXhwPTE3NzgyMjcyMzQmZWlkPTk1NTQ4OCZvaWQ9MTE1JnR5cGU9Vk9EJnVpZD15WU1DVWd8NjFhYTU0YzktODIzMS00YjVlLWI2ZTItMDhiYzFhODk5OGJmJmNpZD1kY2Uuc2t5bnomcHQ9bnVsbA~hmac=f6dab23a3a13921179684e21d58179a92a29451b4d48b5657b2f76eda197fe86/dash/live/2093715/219027-321028/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nyhtosqh5k/out/v1/170ea63dc5ab4a09b1ee549b92b6e15f/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oza9awjiss/out/v1/2a778994779d49aab71f12a506f7dfd5/cenc.mpd 
 
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/clients/dash/enc/nyhtosqh5k/out/v1/170ea63dc5ab4a09b1ee549b92b6e15f/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oza9awjiss/out/v1/2a778994779d49aab71f12a506f7dfd5/cenc.mpd 
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/clients/dash/enc/nyhtosqh5k/out/v1/170ea63dc5ab4a09b1ee549b92b6e15f/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oza9awjiss/out/v1/2a778994779d49aab71f12a506f7dfd5/cenc.mpd 
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -73,7 +73,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dice-live-oc.akamaized.net/exp=1778236322~acl=%2F*~id=4bf63d5f-1199-4aea-8c29-f3112fe3d0de~data=hdntl,aXA9MzguMTM3LjMzLjkwJmV4cD0xNzc4MTQ5OTUyJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=435f0743429ff0b19429bd351e628eb4b8921a8f4caeea14c96990ad6e572758/dash/live/2093666/294921-318514/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1778313608~acl=/*~id=c361535c-05ac-4359-9ef0-3acee7209e31~data=hdntl,aXA9MTgwLjE0OS4yMzEuNzEmZXhwPTE3NzgyMjcyMzQmZWlkPTk1NTQ4OCZvaWQ9MTE1JnR5cGU9Vk9EJnVpZD15WU1DVWd8NjFhYTU0YzktODIzMS00YjVlLWI2ZTItMDhiYzFhODk5OGJmJmNpZD1kY2Uuc2t5bnomcHQ9bnVsbA~hmac=f6dab23a3a13921179684e21d58179a92a29451b4d48b5657b2f76eda197fe86/dash/live/2093715/219027-321028/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0

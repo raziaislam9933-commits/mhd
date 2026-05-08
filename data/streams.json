@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-08T13:57:31.666Z",
+  "generated": "2026-05-08T15:43:32.010Z",
   "total": 52,
   "successful": 49,
   "failed": 3,
@@ -8,37 +8,37 @@
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://dice-live-oc.akamaized.net/exp=1778236322~acl=%2F*~id=4bf63d5f-1199-4aea-8c29-f3112fe3d0de~data=hdntl,aXA9MzguMTM3LjMzLjkwJmV4cD0xNzc4MTQ5OTUyJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=435f0743429ff0b19429bd351e628eb4b8921a8f4caeea14c96990ad6e572758/dash/live/2093666/294921-318514/manifest-d.mpd",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1778313608~acl=/*~id=c361535c-05ac-4359-9ef0-3acee7209e31~data=hdntl,aXA9MTgwLjE0OS4yMzEuNzEmZXhwPTE3NzgyMjcyMzQmZWlkPTk1NTQ4OCZvaWQ9MTE1JnR5cGU9Vk9EJnVpZD15WU1DVWd8NjFhYTU0YzktODIzMS00YjVlLWI2ZTItMDhiYzFhODk5OGJmJmNpZD1kY2Uuc2t5bnomcHQ9bnVsbA~hmac=f6dab23a3a13921179684e21d58179a92a29451b4d48b5657b2f76eda197fe86/dash/live/2093715/219027-321028/manifest-d.mpd",
       "m3u8": null,
-      "kid": "4d346b1d1ae64d4a800409cffa14983e",
-      "key": "208c972bd2da4359ac94e6944fe378b6"
+      "kid": "708a98b352bd4418a73a028edd84da8f",
+      "key": "b1fa5c2bca4c4b57b924b748564532cb"
     },
     {
       "name": "Live 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nyhtosqh5k/out/v1/170ea63dc5ab4a09b1ee549b92b6e15f/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oza9awjiss/out/v1/2a778994779d49aab71f12a506f7dfd5/cenc.mpd ",
       "m3u8": null,
-      "kid": "222545886018e93c2db68f393d748faf",
-      "key": "50c45f45da5fb19842ab6b495e79e8a4"
+      "kid": "312caacca6c466f5cd0370c2e8e8c9f4",
+      "key": "fc7c0c9b47aa40e38ff54a377324664b"
     },
     {
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/clients/dash/enc/nyhtosqh5k/out/v1/170ea63dc5ab4a09b1ee549b92b6e15f/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oza9awjiss/out/v1/2a778994779d49aab71f12a506f7dfd5/cenc.mpd ",
       "m3u8": null,
-      "kid": "222545886018e93c2db68f393d748faf",
-      "key": "50c45f45da5fb19842ab6b495e79e8a4"
+      "kid": "312caacca6c466f5cd0370c2e8e8c9f4",
+      "key": "fc7c0c9b47aa40e38ff54a377324664b"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/clients/dash/enc/nyhtosqh5k/out/v1/170ea63dc5ab4a09b1ee549b92b6e15f/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oza9awjiss/out/v1/2a778994779d49aab71f12a506f7dfd5/cenc.mpd ",
       "m3u8": null,
-      "kid": "222545886018e93c2db68f393d748faf",
-      "key": "50c45f45da5fb19842ab6b495e79e8a4"
+      "kid": "312caacca6c466f5cd0370c2e8e8c9f4",
+      "key": "fc7c0c9b47aa40e38ff54a377324664b"
     },
     {
       "name": "PSL Match (79)",
@@ -134,10 +134,10 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "mpd": "https://dice-live-oc.akamaized.net/exp=1778236322~acl=%2F*~id=4bf63d5f-1199-4aea-8c29-f3112fe3d0de~data=hdntl,aXA9MzguMTM3LjMzLjkwJmV4cD0xNzc4MTQ5OTUyJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=435f0743429ff0b19429bd351e628eb4b8921a8f4caeea14c96990ad6e572758/dash/live/2093666/294921-318514/manifest-d.mpd",
+      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1778313608~acl=/*~id=c361535c-05ac-4359-9ef0-3acee7209e31~data=hdntl,aXA9MTgwLjE0OS4yMzEuNzEmZXhwPTE3NzgyMjcyMzQmZWlkPTk1NTQ4OCZvaWQ9MTE1JnR5cGU9Vk9EJnVpZD15WU1DVWd8NjFhYTU0YzktODIzMS00YjVlLWI2ZTItMDhiYzFhODk5OGJmJmNpZD1kY2Uuc2t5bnomcHQ9bnVsbA~hmac=f6dab23a3a13921179684e21d58179a92a29451b4d48b5657b2f76eda197fe86/dash/live/2093715/219027-321028/manifest-d.mpd",
       "m3u8": null,
-      "kid": "4d346b1d1ae64d4a800409cffa14983e",
-      "key": "208c972bd2da4359ac94e6944fe378b6"
+      "kid": "708a98b352bd4418a73a028edd84da8f",
+      "key": "b1fa5c2bca4c4b57b924b748564532cb"
     },
     {
       "name": "Portugal 2",
