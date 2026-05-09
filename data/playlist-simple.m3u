@@ -3,22 +3,22 @@
 #EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dice-live-oc.akamaized.net/hdntl=exp=1778313608~acl=/*~id=c361535c-05ac-4359-9ef0-3acee7209e31~data=hdntl,aXA9MTgwLjE0OS4yMzEuNzEmZXhwPTE3NzgyMjcyMzQmZWlkPTk1NTQ4OCZvaWQ9MTE1JnR5cGU9Vk9EJnVpZD15WU1DVWd8NjFhYTU0YzktODIzMS00YjVlLWI2ZTItMDhiYzFhODk5OGJmJmNpZD1kY2Uuc2t5bnomcHQ9bnVsbA~hmac=f6dab23a3a13921179684e21d58179a92a29451b4d48b5657b2f76eda197fe86/dash/live/2093715/219027-321028/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1778407475~acl=%2f*~id=abb506c5-4e11-4f2a-8f4c-bc87e14db85a~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTEwNSZlaWQ9OTM2NDI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=06e99f1f8445fdc9f801ffe190da453128aff20c7541f4ab80fcdadfecb29663/dash/live/2093715/219027-321028/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oza9awjiss/out/v1/2a778994779d49aab71f12a506f7dfd5/cenc.mpd 
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zskke7j0bk/out/v1/3cb77d5891424c098c13b7e0229edfa0/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oza9awjiss/out/v1/2a778994779d49aab71f12a506f7dfd5/cenc.mpd 
+https://amz-main.zulo-0084.online/iad-nitro/live/clients/dash/enc/zskke7j0bk/out/v1/3cb77d5891424c098c13b7e0229edfa0/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oza9awjiss/out/v1/2a778994779d49aab71f12a506f7dfd5/cenc.mpd 
+https://amz-main.zulo-0084.online/iad-nitro/live/clients/dash/enc/zskke7j0bk/out/v1/3cb77d5891424c098c13b7e0229edfa0/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -38,7 +38,7 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -73,7 +73,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dice-live-oc.akamaized.net/hdntl=exp=1778313608~acl=/*~id=c361535c-05ac-4359-9ef0-3acee7209e31~data=hdntl,aXA9MTgwLjE0OS4yMzEuNzEmZXhwPTE3NzgyMjcyMzQmZWlkPTk1NTQ4OCZvaWQ9MTE1JnR5cGU9Vk9EJnVpZD15WU1DVWd8NjFhYTU0YzktODIzMS00YjVlLWI2ZTItMDhiYzFhODk5OGJmJmNpZD1kY2Uuc2t5bnomcHQ9bnVsbA~hmac=f6dab23a3a13921179684e21d58179a92a29451b4d48b5657b2f76eda197fe86/dash/live/2093715/219027-321028/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1778407475~acl=%2f*~id=abb506c5-4e11-4f2a-8f4c-bc87e14db85a~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTEwNSZlaWQ9OTM2NDI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=06e99f1f8445fdc9f801ffe190da453128aff20c7541f4ab80fcdadfecb29663/dash/live/2093715/219027-321028/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
