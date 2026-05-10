@@ -1,9 +1,9 @@
 # Stream Keys Reference
-# Generated: 2026-05-10T10:19:48.978Z
+# Generated: 2026-05-10T11:54:49.848Z
 # Format: Channel | KID | KEY
 
 Live 1 | 708a98b352bd4418a73a028edd84da8f | b1fa5c2bca4c4b57b924b748564532cb
-Live 2 | fbf23b89ab8d11e020f1dd432f627f2e | ca01504f23c670108d9aa43bcb37e413
+Live 2 | 708a98b352bd4418a73a028edd84da8f | b1fa5c2bca4c4b57b924b748564532cb
 Live 3 | fbf23b89ab8d11e020f1dd432f627f2e | ca01504f23c670108d9aa43bcb37e413
 Live 4 | fbf23b89ab8d11e020f1dd432f627f2e | ca01504f23c670108d9aa43bcb37e413
 PSL Match (79) | 24583a8b6b908fba097bbb794eabc1a8 | f8d5cacb61e361b15aa7c36a74bbe7af
