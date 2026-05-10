@@ -20,11 +20,6 @@ https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/29464dfd201843769920
 #EXTGRP:durbintv
 https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/29464dfd2018437699204fcb82b2a3f6/index.mpd
 
-#EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pnjtj597lg/out/v1/b4178959f9234d78bb8f32e0a675bafa/cenc.mpd
-
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
