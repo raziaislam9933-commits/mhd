@@ -13,12 +13,12 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1778479839~acl=%2F*~id=c52d0b69-3c5
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://amz-main.zulo-0084.online/iad-nitro/live/clients/dash/enc/zskke7j0bk/out/v1/3cb77d5891424c098c13b7e0229edfa0/cenc.mpd
+https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/9cd76b42af874557abc77e009ce2218d/index.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://amz-main.zulo-0084.online/iad-nitro/live/clients/dash/enc/zskke7j0bk/out/v1/3cb77d5891424c098c13b7e0229edfa0/cenc.mpd
+https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/9cd76b42af874557abc77e009ce2218d/index.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
