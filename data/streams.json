@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-13T10:31:53.951Z",
+  "generated": "2026-05-13T13:13:19.419Z",
   "total": 52,
-  "successful": 48,
-  "failed": 4,
+  "successful": 41,
+  "failed": 11,
   "streams": [
     {
       "name": "Live 1",
@@ -12,69 +12,6 @@
       "m3u8": null,
       "kid": "4d346b1d1ae64d4a800409cffa14983e",
       "key": "208c972bd2da4359ac94e6944fe378b6"
-    },
-    {
-      "name": "Live 2",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/d7c17f9575ba40798a8c63c738b150b3/index.mpd",
-      "m3u8": null,
-      "kid": "368d67493ff259d9823b96b89b761386",
-      "key": "1bd0324aa4f1473fe0612cffe46b05a2"
-    },
-    {
-      "name": "Live 3",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ixrd6ejrv9/out/v1/4604f9d16228461c9eabfeee7dbe2d8e/cenc.mpd",
-      "m3u8": null,
-      "kid": "01c6a91ded406339be138e51094c6712",
-      "key": "a5a7b8bc54ddd1632beef459c2e295d2"
-    },
-    {
-      "name": "Live 4",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ixrd6ejrv9/out/v1/4604f9d16228461c9eabfeee7dbe2d8e/cenc.mpd",
-      "m3u8": null,
-      "kid": "01c6a91ded406339be138e51094c6712",
-      "key": "a5a7b8bc54ddd1632beef459c2e295d2"
-    },
-    {
-      "name": "PSL Match (83)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pnjtj597lg/out/v1/b4178959f9234d78bb8f32e0a675bafa/cenc.mpd",
-      "m3u8": null,
-      "kid": "24583a8b6b908fba097bbb794eabc1a8",
-      "key": "f8d5cacb61e361b15aa7c36a74bbe7af"
-    },
-    {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "mpd": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
-      "m3u8": null,
-      "kid": "0",
-      "key": "0"
-    },
-    {
-      "name": "IPL 2026 (81)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-      "m3u8": null,
-      "kid": "ce7ab3022e753307997f58afe001bac4",
-      "key": "72d631a66e635c60829a0fe7705516c1"
-    },
-    {
-      "name": "Watch India",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "mpd": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd ",
-      "m3u8": null,
-      "kid": "192b1115da041585c77200128549efa1",
-      "key": "634e10efe4abbb14be400a3ccbac0258"
     },
     {
       "name": "Watch India 2",
@@ -439,10 +376,59 @@
   ],
   "errors": [
     {
+      "name": "Live 2",
+      "site": "durbintv",
+      "status": "error",
+      "error": "timeout",
+      "url": "https://durbintv.com/livetv/watch/live-2/85"
+    },
+    {
+      "name": "Live 3",
+      "site": "durbintv",
+      "status": "error",
+      "error": "timeout",
+      "url": "https://durbintv.com/livetv/watch/live-3/86"
+    },
+    {
+      "name": "Live 4",
+      "site": "durbintv",
+      "status": "error",
+      "error": "timeout",
+      "url": "https://durbintv.com/livetv/watch/live-4/87"
+    },
+    {
       "name": "PSL Match (79)",
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
+    {
+      "name": "PSL Match (83)",
+      "site": "durbintv",
+      "status": "error",
+      "error": "timeout",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
+    },
+    {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "status": "error",
+      "error": "timeout",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
+    },
+    {
+      "name": "IPL 2026 (81)",
+      "site": "durbintv",
+      "status": "error",
+      "error": "timeout",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
+    },
+    {
+      "name": "Watch India",
+      "site": "durbintv",
+      "status": "error",
+      "error": "timeout",
+      "url": "https://durbintv.com/livetv/watch/watch-india/77"
     },
     {
       "name": "Live 1 (57)",
