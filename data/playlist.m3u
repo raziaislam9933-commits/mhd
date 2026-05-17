@@ -3,26 +3,26 @@
 #EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"2e2636daa74141b68cc14882ea3ff82b","key":"0961f48287324adbb4b7ff3c9d82b3c9"}]}
-https://dice-live-oc.akamaized.net/dash/live/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/2093717/219028-321030/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"708a98b352bd4418a73a028edd84da8f","key":"b1fa5c2bca4c4b57b924b748564532cb"}]}
+https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=/*~id=319ab612-2e20-46d8-844b-27cb156b638c~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzY0MjQmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=0f528e265590e386ba6fb3983f21449ea43d5fa28aed795503f83643861de1ff/dash/live/2093715/219027-321028/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3f61de58daac5f172c7fcdaf133d5bc3","key":"327a38b5ea7becd6726e0f903cefa761"}]}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fa4pq6dpj1/out/v1/f04724254d624702af9ca5b3ef529ddd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"5b4c3076d483ff9360630d390a5aed05","key":"4f7a6bca93af1960e0fbcfa884777ded"}]}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kxzhrsbpax/out/v1/ffb8542bef134d97bebe4d576ace15a9/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3f61de58daac5f172c7fcdaf133d5bc3","key":"327a38b5ea7becd6726e0f903cefa761"}]}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fa4pq6dpj1/out/v1/f04724254d624702af9ca5b3ef529ddd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"5b4c3076d483ff9360630d390a5aed05","key":"4f7a6bca93af1960e0fbcfa884777ded"}]}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kxzhrsbpax/out/v1/ffb8542bef134d97bebe4d576ace15a9/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"3f61de58daac5f172c7fcdaf133d5bc3","key":"327a38b5ea7becd6726e0f903cefa761"}]}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fa4pq6dpj1/out/v1/f04724254d624702af9ca5b3ef529ddd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"5b4c3076d483ff9360630d390a5aed05","key":"4f7a6bca93af1960e0fbcfa884777ded"}]}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kxzhrsbpax/out/v1/ffb8542bef134d97bebe4d576ace15a9/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -81,8 +81,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"2e2636daa74141b68cc14882ea3ff82b","key":"0961f48287324adbb4b7ff3c9d82b3c9"}]}
-https://dice-live-oc.akamaized.net/dash/live/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/2093717/219028-321030/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"708a98b352bd4418a73a028edd84da8f","key":"b1fa5c2bca4c4b57b924b748564532cb"}]}
+https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=/*~id=319ab612-2e20-46d8-844b-27cb156b638c~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzY0MjQmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=0f528e265590e386ba6fb3983f21449ea43d5fa28aed795503f83643861de1ff/dash/live/2093715/219027-321028/manifest-d.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
