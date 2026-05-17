@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-17T09:07:57.685Z",
+  "generated": "2026-05-17T11:10:01.823Z",
   "total": 52,
   "successful": 48,
   "failed": 4,
@@ -8,7 +8,7 @@
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1779004332~acl=%2f*~id=47e00c61-0c64-44b5-ad51-f47f4396a68e~data=hdntl,aXA9MTcyLjE4Mi4yMjQuMTE4JmV4cD0xNzc4OTE3OTYyJmVpZD05Mzk1ODUmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9d506389b11ec46d4cc77a61dbef11ae64077d824501399f1ae6b8feb200bdce/dash/live/2093717/219028-321030/manifest-d.mpd",
+      "mpd": "https://dice-live-oc.akamaized.net/dash/live/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/2093717/219028-321030/manifest-d.mpd",
       "m3u8": null,
       "kid": "2e2636daa74141b68cc14882ea3ff82b",
       "key": "0961f48287324adbb4b7ff3c9d82b3c9"
@@ -17,28 +17,28 @@
       "name": "Live 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvhwouypri/out/v1/1feb25177e444c5887885d4391f6adf7/cenc.mpd",
+      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fa4pq6dpj1/out/v1/f04724254d624702af9ca5b3ef529ddd/cenc.mpd",
       "m3u8": null,
-      "kid": "9416822ce0c583c806c5952f0e489340",
-      "key": "160d594440e7a02e31268970c91548e0"
+      "kid": "3f61de58daac5f172c7fcdaf133d5bc3",
+      "key": "327a38b5ea7becd6726e0f903cefa761"
     },
     {
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvhwouypri/out/v1/1feb25177e444c5887885d4391f6adf7/cenc.mpd",
+      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fa4pq6dpj1/out/v1/f04724254d624702af9ca5b3ef529ddd/cenc.mpd",
       "m3u8": null,
-      "kid": "9416822ce0c583c806c5952f0e489340",
-      "key": "160d594440e7a02e31268970c91548e0"
+      "kid": "3f61de58daac5f172c7fcdaf133d5bc3",
+      "key": "327a38b5ea7becd6726e0f903cefa761"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvhwouypri/out/v1/1feb25177e444c5887885d4391f6adf7/cenc.mpd",
+      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fa4pq6dpj1/out/v1/f04724254d624702af9ca5b3ef529ddd/cenc.mpd",
       "m3u8": null,
-      "kid": "9416822ce0c583c806c5952f0e489340",
-      "key": "160d594440e7a02e31268970c91548e0"
+      "kid": "3f61de58daac5f172c7fcdaf133d5bc3",
+      "key": "327a38b5ea7becd6726e0f903cefa761"
     },
     {
       "name": "PSL Match (83)",
@@ -125,7 +125,7 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "mpd": "https://dice-live-oc.akamaized.net/hdntl=exp=1779004332~acl=%2f*~id=47e00c61-0c64-44b5-ad51-f47f4396a68e~data=hdntl,aXA9MTcyLjE4Mi4yMjQuMTE4JmV4cD0xNzc4OTE3OTYyJmVpZD05Mzk1ODUmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9d506389b11ec46d4cc77a61dbef11ae64077d824501399f1ae6b8feb200bdce/dash/live/2093717/219028-321030/manifest-d.mpd",
+      "mpd": "https://dice-live-oc.akamaized.net/dash/live/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/2093717/219028-321030/manifest-d.mpd",
       "m3u8": null,
       "kid": "2e2636daa74141b68cc14882ea3ff82b",
       "key": "0961f48287324adbb4b7ff3c9d82b3c9"
