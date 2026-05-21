@@ -3,22 +3,22 @@
 #EXTINF:-1 tvg-name="Live 1" group-title="durbintv",Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/dce4863dd61a4b6da30e134996927fd0/index.mpd
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
 
 #EXTINF:-1 tvg-name="Live 2" group-title="durbintv",Live 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://a14live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/objktj54jm/out/v1/bdb496e5c4974ef2b8bc65350e117cd5/cenc.mpd
+https://a14live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/z8waxdp8tg/out/v1/e27b352890e848c3834e6d4f79f26d02/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 3" group-title="durbintv",Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
+https://a14live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/z8waxdp8tg/out/v1/e27b352890e848c3834e6d4f79f26d02/cenc.mpd
 
 #EXTINF:-1 tvg-name="Live 4" group-title="durbintv",Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
+https://a14live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/z8waxdp8tg/out/v1/e27b352890e848c3834e6d4f79f26d02/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -68,7 +68,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/dce4863dd61a4b6da30e134996927fd0/index.mpd
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0

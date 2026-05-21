@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-21T12:16:29.100Z",
+  "generated": "2026-05-21T16:16:47.299Z",
   "total": 52,
   "successful": 48,
   "failed": 4,
@@ -8,37 +8,37 @@
       "name": "Live 1",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-1/84",
-      "mpd": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/dce4863dd61a4b6da30e134996927fd0/index.mpd",
+      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
       "m3u8": null,
-      "kid": "356a1d752c2b558d9654d9b70e8dba92",
-      "key": "87b50a2694fbb866d1c588e0121af67d"
+      "kid": "01c9bbf8137e58378a5ead514998a7b4",
+      "key": "fb01e61809e80e5e93a889cd31daab22"
     },
     {
       "name": "Live 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://a14live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/objktj54jm/out/v1/bdb496e5c4974ef2b8bc65350e117cd5/cenc.mpd",
+      "mpd": "https://a14live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/z8waxdp8tg/out/v1/e27b352890e848c3834e6d4f79f26d02/cenc.mpd",
       "m3u8": null,
-      "kid": "1c8af68e341477c9918f1c47a38119f6",
-      "key": "18ded5f25ee2d8da3524cc5129b73ad6"
+      "kid": "cb9ac4371ceb5181d13f2c8b03eb2c3f",
+      "key": "02742d90bb6cd6fd4f8764688116607b"
     },
     {
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+      "mpd": "https://a14live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/z8waxdp8tg/out/v1/e27b352890e848c3834e6d4f79f26d02/cenc.mpd",
       "m3u8": null,
-      "kid": "01c9bbf8137e58378a5ead514998a7b4",
-      "key": "fb01e61809e80e5e93a889cd31daab22"
+      "kid": "cb9ac4371ceb5181d13f2c8b03eb2c3f",
+      "key": "02742d90bb6cd6fd4f8764688116607b"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+      "mpd": "https://a14live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/z8waxdp8tg/out/v1/e27b352890e848c3834e6d4f79f26d02/cenc.mpd",
       "m3u8": null,
-      "kid": "01c9bbf8137e58378a5ead514998a7b4",
-      "key": "fb01e61809e80e5e93a889cd31daab22"
+      "kid": "cb9ac4371ceb5181d13f2c8b03eb2c3f",
+      "key": "02742d90bb6cd6fd4f8764688116607b"
     },
     {
       "name": "PSL Match (83)",
@@ -125,10 +125,10 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "mpd": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/dce4863dd61a4b6da30e134996927fd0/index.mpd",
+      "mpd": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
       "m3u8": null,
-      "kid": "356a1d752c2b558d9654d9b70e8dba92",
-      "key": "87b50a2694fbb866d1c588e0121af67d"
+      "kid": "01c9bbf8137e58378a5ead514998a7b4",
+      "key": "fb01e61809e80e5e93a889cd31daab22"
     },
     {
       "name": "Portugal 2",
