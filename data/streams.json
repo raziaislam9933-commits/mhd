@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23T13:42:09.893Z",
+  "generated": "2026-05-23T15:03:30.245Z",
   "total": 52,
   "successful": 48,
   "failed": 4,
@@ -17,28 +17,28 @@
       "name": "Live 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/whd5oymt8o/out/v1/23365771e28446078a239f9442f31154/cenc.mpd",
+      "mpd": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/x5pddphhxr/out/v1/c8116020f3ff4255b1f227726006284e/cenc.mpd",
       "m3u8": null,
-      "kid": "c51937a18336a9d525e80ad8fff3b2a6",
-      "key": "ba87b9580d36ad055ed9b959e63d012f"
+      "kid": "4038ac222c1b2460a88a8e24dfd36bb5",
+      "key": "5f8e6ac34ddc50d30c432a71ee924a33"
     },
     {
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/whd5oymt8o/out/v1/23365771e28446078a239f9442f31154/cenc.mpd",
+      "mpd": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/x5pddphhxr/out/v1/c8116020f3ff4255b1f227726006284e/cenc.mpd",
       "m3u8": null,
-      "kid": "c51937a18336a9d525e80ad8fff3b2a6",
-      "key": "ba87b9580d36ad055ed9b959e63d012f"
+      "kid": "4038ac222c1b2460a88a8e24dfd36bb5",
+      "key": "5f8e6ac34ddc50d30c432a71ee924a33"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/whd5oymt8o/out/v1/23365771e28446078a239f9442f31154/cenc.mpd",
+      "mpd": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/x5pddphhxr/out/v1/c8116020f3ff4255b1f227726006284e/cenc.mpd",
       "m3u8": null,
-      "kid": "c51937a18336a9d525e80ad8fff3b2a6",
-      "key": "ba87b9580d36ad055ed9b959e63d012f"
+      "kid": "4038ac222c1b2460a88a8e24dfd36bb5",
+      "key": "5f8e6ac34ddc50d30c432a71ee924a33"
     },
     {
       "name": "PSL Match (83)",
