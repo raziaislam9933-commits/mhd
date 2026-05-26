@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-26T15:41:24.752Z",
+  "generated": "2026-05-26T18:29:24.196Z",
   "total": 52,
   "successful": 49,
   "failed": 3,
@@ -17,28 +17,28 @@
       "name": "Live 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-2/85",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9wacwh8ez3/out/v1/ea77f348b631483f8204baf73771c72d/cenc.mpd",
+      "mpd": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y0noyfzhol/out/v1/60c855bf64ab43ea869800cc78e75a84/cenc.mpd",
       "m3u8": null,
-      "kid": "4f0e68ca695cb1c75706aebeb380fe42",
-      "key": "1be42fb616b27c0bbc2988927d86afa8"
+      "kid": "1c6eba2c2e7e6cfb8ec88e52b2f7215f",
+      "key": "70b8023f64edd20a9f5a2db35bbd9b3a"
     },
     {
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9wacwh8ez3/out/v1/ea77f348b631483f8204baf73771c72d/cenc.mpd",
+      "mpd": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y0noyfzhol/out/v1/60c855bf64ab43ea869800cc78e75a84/cenc.mpd",
       "m3u8": null,
-      "kid": "4f0e68ca695cb1c75706aebeb380fe42",
-      "key": "1be42fb616b27c0bbc2988927d86afa8"
+      "kid": "1c6eba2c2e7e6cfb8ec88e52b2f7215f",
+      "key": "70b8023f64edd20a9f5a2db35bbd9b3a"
     },
     {
       "name": "Live 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-4/87",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9wacwh8ez3/out/v1/ea77f348b631483f8204baf73771c72d/cenc.mpd",
+      "mpd": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y0noyfzhol/out/v1/60c855bf64ab43ea869800cc78e75a84/cenc.mpd",
       "m3u8": null,
-      "kid": "4f0e68ca695cb1c75706aebeb380fe42",
-      "key": "1be42fb616b27c0bbc2988927d86afa8"
+      "kid": "1c6eba2c2e7e6cfb8ec88e52b2f7215f",
+      "key": "70b8023f64edd20a9f5a2db35bbd9b3a"
     },
     {
       "name": "PSL Match (79)",
