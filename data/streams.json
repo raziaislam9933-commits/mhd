@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T08:51:37.500Z",
+  "generated": "2026-06-04T11:57:18.544Z",
   "total": 52,
   "successful": 48,
   "failed": 4,
@@ -53,19 +53,19 @@
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "mpd": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kr46ndje4l/out/v1/9833c1deedb64791b99615a4aefefb66/cenc.mpd",
+      "mpd": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajahpvtdyp/out/v1/d4ca2eaea0bf4635bee47eb3cfd2801c/cenc.mpd",
       "m3u8": null,
-      "kid": "56816fa6c2b3fa65a5de766d52f08b7f",
-      "key": "07c1b41782e4321883a06b73629200a0"
+      "kid": "3288988d365300f9174f08c6052e86ca",
+      "key": "a6d570f88743c3724057abd5e4e8d414"
     },
     {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nc4iy7xgs2/out/v1/dc738e5b857040ee91f60376391c04a2/ea5faba4-c0fa-4441-8307-6d4f67a447a8-cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/070jtyxmje/out/v1/36409c4b5008437ab7ed61c124bc0860/cenc.mpd",
       "m3u8": null,
-      "kid": "06c12323d02d700f76037a24f268f865",
-      "key": "40d59eb5c60c7c5dfec54dae376a6df6"
+      "kid": "669b23cbba35ebaad1ec922de0bf6d0d",
+      "key": "24a79d379cf88466d815d586307d7196"
     },
     {
       "name": "Watch India",
