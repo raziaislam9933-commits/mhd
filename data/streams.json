@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05T09:56:53.357Z",
+  "generated": "2026-06-05T12:43:20.123Z",
   "total": 52,
   "successful": 48,
   "failed": 4,
@@ -62,10 +62,10 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/070jtyxmje/out/v1/36409c4b5008437ab7ed61c124bc0860/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ijymfkmsh9/out/v1/b405475cd043409d9b0bf6790f6de857/cenc.mpd",
       "m3u8": null,
-      "kid": "669b23cbba35ebaad1ec922de0bf6d0d",
-      "key": "24a79d379cf88466d815d586307d7196"
+      "kid": "91f327289dd4a52031399fcdca3f65b2",
+      "key": "b382baa77c6f7724799009f403701d0c"
     },
     {
       "name": "Watch India",
