@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-06T07:47:42.872Z",
+  "generated": "2026-06-06T10:07:15.709Z",
   "total": 52,
-  "successful": 48,
-  "failed": 4,
+  "successful": 45,
+  "failed": 7,
   "streams": [
     {
       "name": "Live 1",
@@ -320,15 +320,6 @@
       "key": "0116201f4a63ac5bf5787d2c610c41a7"
     },
     {
-      "name": "TNT Sports 4",
-      "site": "mhdtvp",
-      "url": "https://mhdtvp.com/livetv/watch/tnt-sports-4-live-free/30",
-      "mpd": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-      "m3u8": null,
-      "kid": "192b1115da041585c77200128549efa1",
-      "key": "634e10efe4abbb14be400a3ccbac0258"
-    },
-    {
       "name": "TSN 1",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/tsn-1/33",
@@ -336,24 +327,6 @@
       "m3u8": null,
       "kid": "e51aa21f2a0fef9aabc120dfb655b52f",
       "key": "a12a987fe725a40b6be95cd84b15f689"
-    },
-    {
-      "name": "TSN 2",
-      "site": "mhdtvp",
-      "url": "https://mhdtvp.com/livetv/watch/tsn-2/34",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-      "m3u8": null,
-      "kid": "daa8ea92553fd16cd6bfae2b8c582715",
-      "key": "4042e041b5639b79b69ae07a872eef9b"
-    },
-    {
-      "name": "TSN 3",
-      "site": "mhdtvp",
-      "url": "https://mhdtvp.com/livetv/watch/tsn-3/35",
-      "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-      "m3u8": null,
-      "kid": "f5c2b30eac11be1e8cdfc9585f5fe6af",
-      "key": "a8198d17bf9b0da77450fbb919a38b2d"
     },
     {
       "name": "TSN 4",
@@ -455,6 +428,24 @@
       "site": "mhdtvp",
       "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/live-1/58"
+    },
+    {
+      "name": "TNT Sports 4",
+      "site": "mhdtvp",
+      "status": "no_player",
+      "url": "https://mhdtvp.com/livetv/watch/tnt-sports-4-live-free/30"
+    },
+    {
+      "name": "TSN 2",
+      "site": "mhdtvp",
+      "status": "no_player",
+      "url": "https://mhdtvp.com/livetv/watch/tsn-2/34"
+    },
+    {
+      "name": "TSN 3",
+      "site": "mhdtvp",
+      "status": "no_player",
+      "url": "https://mhdtvp.com/livetv/watch/tsn-3/35"
     },
     {
       "name": "Nagorik TV",
