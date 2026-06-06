@@ -33,14 +33,14 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"05379f82ed9e9ab1ad5c7dd5cbc84c4c","key":"ad29eba8219e6186cb7513ea1e561f8f"}]}
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mucvsktqfb/out/v1/07e0a2833c2143e39527facdf523db9f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"b8954ee727104aa4a4d4c9cb098f292a","key":"743904d5a11ff1553ff84031945f7157"}]}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hnadirnhxa/out/v1/917ad7d0ea3f4e308c1d49025c5976bd/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"05379f82ed9e9ab1ad5c7dd5cbc84c4c","key":"ad29eba8219e6186cb7513ea1e561f8f"}]}
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mucvsktqfb/out/v1/07e0a2833c2143e39527facdf523db9f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"b8954ee727104aa4a4d4c9cb098f292a","key":"743904d5a11ff1553ff84031945f7157"}]}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hnadirnhxa/out/v1/917ad7d0ea3f4e308c1d49025c5976bd/cenc.mpd
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 #KODIPROP:inputstream.adaptive.manifest_type=dash
