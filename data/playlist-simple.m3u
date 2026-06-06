@@ -175,10 +175,25 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f
 #EXTGRP:mhdtvp
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
+#EXTINF:-1 tvg-name="TNT Sports 4" group-title="mhdtvp",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
 #EXTINF:-1 tvg-name="TSN 1" group-title="mhdtvp",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:mhdtvp
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 2" group-title="mhdtvp",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 3" group-title="mhdtvp",TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:mhdtvp
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 
 #EXTINF:-1 tvg-name="TSN 4" group-title="mhdtvp",TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
