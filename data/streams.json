@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-07T05:24:15.329Z",
+  "generated": "2026-06-07T09:18:02.509Z",
   "total": 52,
   "successful": 48,
   "failed": 4,
@@ -53,10 +53,10 @@
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbw8edokte/out/v1/34e315ab7f3c4be0a1f3d104b68a66c2/cenc.mpd",
       "m3u8": null,
-      "kid": "12413e2c2855cfc59ce0fe6b20cc71ca",
-      "key": "08d55a8f5fc93a9375f9b0cb2e1739ca"
+      "kid": "378dd0f37931c7855b987e5f20422764",
+      "key": "6ce3e747ab983a819e79ab1fff3bbb19"
     },
     {
       "name": "IPL 2026 (81)",

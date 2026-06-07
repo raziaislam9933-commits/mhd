@@ -33,8 +33,8 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"12413e2c2855cfc59ce0fe6b20cc71ca","key":"08d55a8f5fc93a9375f9b0cb2e1739ca"}]}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"378dd0f37931c7855b987e5f20422764","key":"6ce3e747ab983a819e79ab1fff3bbb19"}]}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbw8edokte/out/v1/34e315ab7f3c4be0a1f3d104b68a66c2/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
