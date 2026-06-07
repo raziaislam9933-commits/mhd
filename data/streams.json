@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-07T00:07:08.280Z",
+  "generated": "2026-06-07T05:24:15.329Z",
   "total": 52,
   "successful": 48,
   "failed": 4,
@@ -44,28 +44,28 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+      "mpd": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
       "m3u8": null,
-      "kid": "4bbcff3289d457b4dd5dbdd21221de9a",
-      "key": "c4906b9a9f8dda3c0725bddb8c497733"
+      "kid": "065051b99bf5cf8d9a3bde5cbde6aaf9",
+      "key": "214bd176832872339ce184338320f9a2"
     },
     {
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hnadirnhxa/out/v1/917ad7d0ea3f4e308c1d49025c5976bd/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
       "m3u8": null,
-      "kid": "b8954ee727104aa4a4d4c9cb098f292a",
-      "key": "743904d5a11ff1553ff84031945f7157"
+      "kid": "12413e2c2855cfc59ce0fe6b20cc71ca",
+      "key": "08d55a8f5fc93a9375f9b0cb2e1739ca"
     },
     {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hnadirnhxa/out/v1/917ad7d0ea3f4e308c1d49025c5976bd/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
       "m3u8": null,
-      "kid": "b8954ee727104aa4a4d4c9cb098f292a",
-      "key": "743904d5a11ff1553ff84031945f7157"
+      "kid": "12413e2c2855cfc59ce0fe6b20cc71ca",
+      "key": "08d55a8f5fc93a9375f9b0cb2e1739ca"
     },
     {
       "name": "Watch India",
