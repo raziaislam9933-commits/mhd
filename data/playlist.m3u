@@ -24,11 +24,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"290e09c837da78d5cd961978d390515c","key":"b748836c71e6a4ca68ef5b5652db6247"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
+#EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"09453ce820d65fbc675de3185f9e454c","key":"98cff9600995fa381c76fdacf3c7edae"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"4bbcff3289d457b4dd5dbdd21221de9a","key":"c4906b9a9f8dda3c0725bddb8c497733"}]}
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash

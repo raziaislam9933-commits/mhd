@@ -20,10 +20,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTGRP:durbintv
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
+#EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTGRP:durbintv
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0

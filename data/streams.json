@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-08T17:57:02.775Z",
+  "generated": "2026-06-08T20:28:21.591Z",
   "total": 52,
-  "successful": 48,
-  "failed": 4,
+  "successful": 49,
+  "failed": 3,
   "streams": [
     {
       "name": "Live 1",
@@ -41,13 +41,22 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "name": "PSL Match (83)",
+      "name": "PSL Match (79)",
       "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
       "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
       "m3u8": null,
       "kid": "09453ce820d65fbc675de3185f9e454c",
       "key": "98cff9600995fa381c76fdacf3c7edae"
+    },
+    {
+      "name": "PSL Match (83)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
+      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+      "m3u8": null,
+      "kid": "4bbcff3289d457b4dd5dbdd21221de9a",
+      "key": "c4906b9a9f8dda3c0725bddb8c497733"
     },
     {
       "name": "IPL 2026 (80)",
@@ -438,12 +447,6 @@
     }
   ],
   "errors": [
-    {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
-    },
     {
       "name": "Live 1 (57)",
       "site": "mhdtvp",
