@@ -33,8 +33,8 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/awxnrqkbo5/
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"378dd0f37931c7855b987e5f20422764","key":"6ce3e747ab983a819e79ab1fff3bbb19"}]}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbw8edokte/out/v1/34e315ab7f3c4be0a1f3d104b68a66c2/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"c1a959ddeedd4ffc6083f09d10445802","key":"849993446d5264fc6990abfbd944b990"}]}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h3gdb4reni/out/v1/159b45c4cbc04cba8a9ca1a7372d3192/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
