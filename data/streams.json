@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-08T22:41:33.115Z",
+  "generated": "2026-06-09T00:08:45.045Z",
   "total": 52,
-  "successful": 48,
-  "failed": 4,
+  "successful": 49,
+  "failed": 3,
   "streams": [
     {
       "name": "Live 1",
@@ -80,6 +80,15 @@
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
+      "mpd": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd ",
+      "m3u8": null,
+      "kid": "192b1115da041585c77200128549efa1",
+      "key": "634e10efe4abbb14be400a3ccbac0258"
+    },
+    {
+      "name": "Watch India 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-india-2/76",
       "mpd": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd ",
       "m3u8": null,
       "kid": "192b1115da041585c77200128549efa1",
@@ -438,13 +447,6 @@
     }
   ],
   "errors": [
-    {
-      "name": "Watch India 2",
-      "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://durbintv.com/livetv/watch/watch-india-2/76"
-    },
     {
       "name": "Live 1 (57)",
       "site": "mhdtvp",
