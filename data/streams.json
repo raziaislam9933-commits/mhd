@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-11T14:39:58.371Z",
+  "generated": "2026-06-11T18:17:23.839Z",
   "total": 52,
   "successful": 49,
   "failed": 3,
@@ -44,10 +44,10 @@
       "name": "PSL Match (79)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kjzfnblewe/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
       "m3u8": null,
-      "kid": "7d96360540a767e126b5baaac5d03979",
-      "key": "153b14c50bf403e0f86534f58a1082a0"
+      "kid": "ce7ab3022e753307997f58afe001bac4",
+      "key": "72d631a66e635c60829a0fe7705516c1"
     },
     {
       "name": "PSL Match (83)",
