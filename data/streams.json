@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-11T21:23:10.562Z",
+  "generated": "2026-06-11T23:25:22.702Z",
   "total": 52,
-  "successful": 49,
-  "failed": 3,
+  "successful": 48,
+  "failed": 4,
   "streams": [
     {
       "name": "Live 1",
@@ -111,15 +111,6 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "name": "Germany",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-live-germany/73",
-      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-      "m3u8": null,
-      "kid": "0b42be2664d7e811d04f3e504e0924c5",
-      "key": "ae24090123b8c72ac5404dc152847cb8"
     },
     {
       "name": "Germany 2",
@@ -447,6 +438,13 @@
     }
   ],
   "errors": [
+    {
+      "name": "Germany",
+      "site": "durbintv",
+      "status": "error",
+      "error": "timeout",
+      "url": "https://durbintv.com/livetv/watch/watch-live-germany/73"
+    },
     {
       "name": "Live 1 (57)",
       "site": "mhdtvp",
