@@ -33,12 +33,12 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tsw4vdwngu/out/v1/e1a3a734256c498dbd7b01cdaa7c7c8c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gilgmkgjpm/out/v1/f3abf1b2f3fb497ba7207eb19d8b692b/cenc.mpd
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
-https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/avbmgwfv7q/out/v1/24142820af7447ae86d91022eafe3435/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dxxsherzzi/out/v1/96c8a12527d64e90aa7defbb5a4678eb/cenc.mpd
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
