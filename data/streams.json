@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-11T10:41:21.046Z",
+  "generated": "2026-06-11T14:39:58.371Z",
   "total": 52,
   "successful": 49,
   "failed": 3,
@@ -197,7 +197,7 @@
       "name": "TSN 1",
       "site": "durbintv",
       "url": "https://durbintv.com/sports/watch/watch-live-tsn-1/39",
-      "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
       "m3u8": null,
       "kid": "e51aa21f2a0fef9aabc120dfb655b52f",
       "key": "a12a987fe725a40b6be95cd84b15f689"
@@ -215,7 +215,7 @@
       "name": "TSN 3",
       "site": "durbintv",
       "url": "https://durbintv.com/sports/watch/watch-live-tsn-3/40",
-      "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
       "m3u8": null,
       "kid": "f5c2b30eac11be1e8cdfc9585f5fe6af",
       "key": "a8198d17bf9b0da77450fbb919a38b2d"
@@ -341,7 +341,7 @@
       "name": "TSN 1",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/tsn-1/33",
-      "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
       "m3u8": null,
       "kid": "e51aa21f2a0fef9aabc120dfb655b52f",
       "key": "a12a987fe725a40b6be95cd84b15f689"
@@ -359,7 +359,7 @@
       "name": "TSN 3",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/tsn-3/35",
-      "mpd": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
       "m3u8": null,
       "kid": "f5c2b30eac11be1e8cdfc9585f5fe6af",
       "key": "a8198d17bf9b0da77450fbb919a38b2d"
