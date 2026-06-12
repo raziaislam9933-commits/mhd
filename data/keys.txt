@@ -1,5 +1,5 @@
 # Stream Keys Reference
-# Generated: 2026-06-12T19:07:20.740Z
+# Generated: 2026-06-12T21:49:22.778Z
 # Format: Channel | KID | KEY
 
 Live 1 | 56816fa6c2b3fa65a5de766d52f08b7f | 07c1b41782e4321883a06b73629200a0
