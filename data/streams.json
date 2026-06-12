@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12T16:21:26.154Z",
+  "generated": "2026-06-12T19:07:20.740Z",
   "total": 52,
   "successful": 49,
   "failed": 3,
@@ -44,19 +44,19 @@
       "name": "PSL Match (79)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+      "mpd": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
       "m3u8": null,
-      "kid": "c4088f5f265f9de50cffd80bf89308b7",
-      "key": "2c4d2239d96d532b4ec2050653611003"
+      "kid": "adca25b8779e4168a0cd710f59f61ccf",
+      "key": "be5383ed3cd8079f4ffe78ad067f476a"
     },
     {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+      "mpd": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
       "m3u8": null,
-      "kid": "ce7ab3022e753307997f58afe001bac4",
-      "key": "72d631a66e635c60829a0fe7705516c1"
+      "kid": "c620c93c60c04999eb9ddc28ecfb70a8",
+      "key": "e76a709c251313190e76cb3c3d3a5824"
     },
     {
       "name": "IPL 2026 (80)",
