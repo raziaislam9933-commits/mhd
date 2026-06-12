@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-11T23:25:22.702Z",
+  "generated": "2026-06-12T04:16:58.368Z",
   "total": 52,
-  "successful": 48,
-  "failed": 4,
+  "successful": 49,
+  "failed": 3,
   "streams": [
     {
       "name": "Live 1",
@@ -44,19 +44,19 @@
       "name": "PSL Match (79)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
       "m3u8": null,
-      "kid": "ce7ab3022e753307997f58afe001bac4",
-      "key": "72d631a66e635c60829a0fe7705516c1"
+      "kid": "c4088f5f265f9de50cffd80bf89308b7",
+      "key": "2c4d2239d96d532b4ec2050653611003"
     },
     {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+      "mpd": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
       "m3u8": null,
-      "kid": "4bbcff3289d457b4dd5dbdd21221de9a",
-      "key": "c4906b9a9f8dda3c0725bddb8c497733"
+      "kid": "ce7ab3022e753307997f58afe001bac4",
+      "key": "72d631a66e635c60829a0fe7705516c1"
     },
     {
       "name": "IPL 2026 (80)",
@@ -111,6 +111,15 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "name": "Germany",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-germany/73",
+      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+      "m3u8": null,
+      "kid": "0b42be2664d7e811d04f3e504e0924c5",
+      "key": "ae24090123b8c72ac5404dc152847cb8"
     },
     {
       "name": "Germany 2",
@@ -438,13 +447,6 @@
     }
   ],
   "errors": [
-    {
-      "name": "Germany",
-      "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://durbintv.com/livetv/watch/watch-live-germany/73"
-    },
     {
       "name": "Live 1 (57)",
       "site": "mhdtvp",
