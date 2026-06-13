@@ -30,11 +30,6 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.m
 #EXTGRP:durbintv
 https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
 
-#EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gilgmkgjpm/out/v1/f3abf1b2f3fb497ba7207eb19d8b692b/cenc.mpd
-
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
