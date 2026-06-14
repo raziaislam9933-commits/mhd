@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-13T22:06:42.074Z",
+  "generated": "2026-06-14T00:10:42.759Z",
   "total": 52,
-  "successful": 49,
-  "failed": 3,
+  "successful": 48,
+  "failed": 4,
   "streams": [
     {
       "name": "Live 1",
@@ -62,28 +62,28 @@
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "mpd": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gilgmkgjpm/out/v1/f3abf1b2f3fb497ba7207eb19d8b692b/cenc.mpd",
+      "mpd": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
       "m3u8": null,
-      "kid": "6533caaa83becafb78d9d04589e03d3e",
-      "key": "8545a6ba4560da78f2f34f7393913fb9"
+      "kid": "1cb20afcd9d979c833cfd208c7d3eeb2",
+      "key": "fef0c15b4a523370892edd5e4133c269"
     },
     {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dxxsherzzi/out/v1/96c8a12527d64e90aa7defbb5a4678eb/cenc.mpd",
+      "mpd": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
       "m3u8": null,
-      "kid": "27bc1b1df5cb11f0200df6ceea231181",
-      "key": "c35331540ccf717099cb8f840135154e"
+      "kid": "c620c93c60c04999eb9ddc28ecfb70a8",
+      "key": "e76a709c251313190e76cb3c3d3a5824"
     },
     {
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "mpd": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd ",
+      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
       "m3u8": null,
-      "kid": "192b1115da041585c77200128549efa1",
-      "key": "634e10efe4abbb14be400a3ccbac0258"
+      "kid": "a7d11d37a1f7611ee88d4db880171f32",
+      "key": "68f96d618b0b956b008c445896a25a79"
     },
     {
       "name": "Watch India 2",
@@ -275,15 +275,6 @@
       "key": "9728800a3959aafdd5b0bcfbf3768811"
     },
     {
-      "name": "Serie A 2",
-      "site": "mhdtvp",
-      "url": "https://mhdtvp.com/livetv/watch/serie-a-2/54",
-      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-      "m3u8": null,
-      "kid": "7995c724a13748ed970840a8ab5bb9b3",
-      "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-    },
-    {
       "name": "Bundesliga",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/bundesliga/55",
@@ -458,6 +449,13 @@
       "site": "mhdtvp",
       "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/live-1/58"
+    },
+    {
+      "name": "Serie A 2",
+      "site": "mhdtvp",
+      "status": "error",
+      "error": "timeout",
+      "url": "https://mhdtvp.com/livetv/watch/serie-a-2/54"
     },
     {
       "name": "Nagorik TV",
