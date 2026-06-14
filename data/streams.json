@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-14T00:10:42.759Z",
+  "generated": "2026-06-14T05:51:58.310Z",
   "total": 52,
-  "successful": 48,
-  "failed": 4,
+  "successful": 49,
+  "failed": 3,
   "streams": [
     {
       "name": "Live 1",
@@ -275,6 +275,15 @@
       "key": "9728800a3959aafdd5b0bcfbf3768811"
     },
     {
+      "name": "Serie A 2",
+      "site": "mhdtvp",
+      "url": "https://mhdtvp.com/livetv/watch/serie-a-2/54",
+      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+      "m3u8": null,
+      "kid": "7995c724a13748ed970840a8ab5bb9b3",
+      "key": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+    },
+    {
       "name": "Bundesliga",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/bundesliga/55",
@@ -449,13 +458,6 @@
       "site": "mhdtvp",
       "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/live-1/58"
-    },
-    {
-      "name": "Serie A 2",
-      "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
-      "url": "https://mhdtvp.com/livetv/watch/serie-a-2/54"
     },
     {
       "name": "Nagorik TV",
