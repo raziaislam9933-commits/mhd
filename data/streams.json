@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T13:18:02.528Z",
+  "generated": "2026-06-15T18:40:29.701Z",
   "total": 52,
   "successful": 49,
   "failed": 3,
@@ -197,7 +197,7 @@
       "name": "TSN 1",
       "site": "durbintv",
       "url": "https://durbintv.com/sports/watch/watch-live-tsn-1/39",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+      "mpd": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
       "m3u8": null,
       "kid": "e51aa21f2a0fef9aabc120dfb655b52f",
       "key": "a12a987fe725a40b6be95cd84b15f689"
@@ -341,7 +341,7 @@
       "name": "TSN 1",
       "site": "mhdtvp",
       "url": "https://mhdtvp.com/livetv/watch/tsn-1/33",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+      "mpd": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
       "m3u8": null,
       "kid": "e51aa21f2a0fef9aabc120dfb655b52f",
       "key": "a12a987fe725a40b6be95cd84b15f689"
