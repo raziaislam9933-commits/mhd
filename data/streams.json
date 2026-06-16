@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-16T15:57:57.242Z",
+  "generated": "2026-06-16T19:44:38.622Z",
   "total": 52,
   "successful": 49,
   "failed": 3,
@@ -116,19 +116,19 @@
       "name": "Germany",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-germany/73",
-      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+      "mpd": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
       "m3u8": null,
-      "kid": "0b42be2664d7e811d04f3e504e0924c5",
-      "key": "ae24090123b8c72ac5404dc152847cb8"
+      "kid": "c620c93c60c04999eb9ddc28ecfb70a8",
+      "key": "e76a709c251313190e76cb3c3d3a5824"
     },
     {
       "name": "Germany 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-germany-2/72",
-      "mpd": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+      "mpd": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
       "m3u8": null,
-      "kid": "620e51b82596475517a27aa425c52280",
-      "key": "2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+      "kid": "893bc63340876605f52886a42e0ccce5",
+      "key": "d6c46d2d691056fbd091bf1f01b21a91"
     },
     {
       "name": "Portugal",
