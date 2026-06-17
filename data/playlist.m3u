@@ -30,12 +30,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"79737d20a3eaa862f8cb77c61cb3b58c","key":"41df11a0be44fd7272538728cec38bc6"}]}
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd
 
-#EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"a7d11d37a1f7611ee88d4db880171f32","key":"68f96d618b0b956b008c445896a25a79"}]}
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
