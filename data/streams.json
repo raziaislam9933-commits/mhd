@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-17T21:10:10.808Z",
+  "generated": "2026-06-17T23:27:47.938Z",
   "total": 52,
-  "successful": 27,
-  "failed": 25,
+  "successful": 26,
+  "failed": 26,
   "streams": [
     {
       "name": "Live 1",
@@ -50,15 +50,6 @@
       "key": "d6c46d2d691056fbd091bf1f01b21a91"
     },
     {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "mpd": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-      "m3u8": null,
-      "kid": "1cb20afcd9d979c833cfd208c7d3eeb2",
-      "key": "fef0c15b4a523370892edd5e4133c269"
-    },
-    {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
@@ -71,10 +62,10 @@
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
       "m3u8": null,
-      "kid": "a7d11d37a1f7611ee88d4db880171f32",
-      "key": "68f96d618b0b956b008c445896a25a79"
+      "kid": "1710ac2bbfcd3032d0f6533850968f47",
+      "key": "d2548dacc8efcd1cd0af0373060c82dc"
     },
     {
       "name": "Watch India 2",
@@ -254,6 +245,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
+    },
+    {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
     },
     {
       "name": "PSL (48)",
