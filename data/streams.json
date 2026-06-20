@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-20T16:21:49.077Z",
+  "generated": "2026-06-20T18:14:52.001Z",
   "total": 52,
   "successful": 24,
   "failed": 28,
@@ -53,10 +53,10 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+      "mpd": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
       "m3u8": null,
-      "kid": "7c0a14fc7dc3c641af8cb6506431a628",
-      "key": "f318ff7c01cca20c4a5b3d91074ca460"
+      "kid": "75074a0cbd83f5b72fb3e5c1495252a9",
+      "key": "a4a0df04b2d28f2160cead2ecdeb7203"
     },
     {
       "name": "Watch India",
