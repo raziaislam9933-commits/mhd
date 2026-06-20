@@ -24,23 +24,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"290e09c837da78d5cd961978d390515c","key":"b748836c71e6a4ca68ef5b5652db6247"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"11223344556677889900112233445566","key":"4b80724d0ef86bcb2c21f7999d67739d"}]}
-https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
-
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"75074a0cbd83f5b72fb3e5c1495252a9","key":"a4a0df04b2d28f2160cead2ecdeb7203"}]}
-https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"9145a6e0f778e61866f573d4944dd533","key":"d02173d40515fea5c83944f21d0f3114"}]}
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"1710ac2bbfcd3032d0f6533850968f47","key":"d2548dacc8efcd1cd0af0373060c82dc"}]}
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"75074a0cbd83f5b72fb3e5c1495252a9","key":"a4a0df04b2d28f2160cead2ecdeb7203"}]}
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash

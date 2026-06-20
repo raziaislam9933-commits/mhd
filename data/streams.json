@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-20T18:14:52.001Z",
+  "generated": "2026-06-20T20:17:17.433Z",
   "total": 52,
-  "successful": 24,
-  "failed": 28,
+  "successful": 23,
+  "failed": 29,
   "streams": [
     {
       "name": "Live 1",
@@ -41,31 +41,22 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "mpd": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-      "m3u8": null,
-      "kid": "11223344556677889900112233445566",
-      "key": "4b80724d0ef86bcb2c21f7999d67739d"
-    },
-    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+      "mpd": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
       "m3u8": null,
-      "kid": "75074a0cbd83f5b72fb3e5c1495252a9",
-      "key": "a4a0df04b2d28f2160cead2ecdeb7203"
+      "kid": "9145a6e0f778e61866f573d4944dd533",
+      "key": "d02173d40515fea5c83944f21d0f3114"
     },
     {
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "mpd": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+      "mpd": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
       "m3u8": null,
-      "kid": "1710ac2bbfcd3032d0f6533850968f47",
-      "key": "d2548dacc8efcd1cd0af0373060c82dc"
+      "kid": "75074a0cbd83f5b72fb3e5c1495252a9",
+      "key": "a4a0df04b2d28f2160cead2ecdeb7203"
     },
     {
       "name": "Watch India 2",
@@ -222,6 +213,12 @@
     }
   ],
   "errors": [
+    {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
     {
       "name": "IPL 2026 (80)",
       "site": "durbintv",
