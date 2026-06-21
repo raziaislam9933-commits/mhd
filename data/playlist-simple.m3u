@@ -104,9 +104,3 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
-
-#EXTINF:-1 tvg-name="T Sports 50" group-title="mhdtvp",T Sports (50)
-https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
-
-#EXTINF:-1 tvg-name="T Sports 52" group-title="mhdtvp",T Sports (52)
-https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
