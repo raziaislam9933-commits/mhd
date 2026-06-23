@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-23T15:51:03.901Z",
+  "generated": "2026-06-23T17:59:56.071Z",
   "total": 52,
-  "successful": 23,
-  "failed": 29,
+  "successful": 22,
+  "failed": 30,
   "streams": [
     {
       "name": "Live 1",
@@ -39,15 +39,6 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "name": "PSL Match (83)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "mpd": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-      "m3u8": null,
-      "kid": "9145a6e0f778e61866f573d4944dd533",
-      "key": "d02173d40515fea5c83944f21d0f3114"
     },
     {
       "name": "Watch India",
@@ -218,6 +209,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
+    {
+      "name": "PSL Match (83)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
     },
     {
       "name": "IPL 2026 (80)",
