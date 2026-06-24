@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-24T19:58:33.498Z",
+  "generated": "2026-06-24T21:39:12.158Z",
   "total": 52,
-  "successful": 23,
-  "failed": 29,
+  "successful": 22,
+  "failed": 30,
   "streams": [
     {
       "name": "Live 1",
@@ -26,15 +26,6 @@
       "name": "Live 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-      "m3u8": null,
-      "kid": "290e09c837da78d5cd961978d390515c",
-      "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "name": "Live 4",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-4/87",
       "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
@@ -213,6 +204,12 @@
     }
   ],
   "errors": [
+    {
+      "name": "Live 4",
+      "site": "durbintv",
+      "status": "no_player",
+      "url": "https://durbintv.com/livetv/watch/live-4/87"
+    },
     {
       "name": "PSL Match (79)",
       "site": "durbintv",
