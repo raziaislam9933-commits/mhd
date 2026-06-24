@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T21:39:12.158Z",
+  "generated": "2026-06-24T23:06:40.584Z",
   "total": 52,
   "successful": 22,
   "failed": 30,
@@ -32,13 +32,13 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "name": "Watch India",
+      "name": "Live 4",
       "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "mpd": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+      "url": "https://durbintv.com/livetv/watch/live-4/87",
+      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
       "m3u8": null,
-      "kid": "75074a0cbd83f5b72fb3e5c1495252a9",
-      "key": "a4a0df04b2d28f2160cead2ecdeb7203"
+      "kid": "290e09c837da78d5cd961978d390515c",
+      "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "name": "Watch India 2",
@@ -205,12 +205,6 @@
   ],
   "errors": [
     {
-      "name": "Live 4",
-      "site": "durbintv",
-      "status": "no_player",
-      "url": "https://durbintv.com/livetv/watch/live-4/87"
-    },
-    {
       "name": "PSL Match (79)",
       "site": "durbintv",
       "status": "login_required",
@@ -233,6 +227,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
+    },
+    {
+      "name": "Watch India",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-india/77"
     },
     {
       "name": "Germany 2",
