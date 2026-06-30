@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-30T05:06:24.407Z",
+  "generated": "2026-06-30T09:41:59.853Z",
   "total": 52,
-  "successful": 23,
-  "failed": 29,
+  "successful": 22,
+  "failed": 30,
   "streams": [
     {
       "name": "Live 1",
@@ -21,15 +21,6 @@
       "m3u8": null,
       "kid": "4c0ee5909de5872620bf9f1d2d2ef7f5",
       "key": "1f7ebf7dbeb6cde6e216175f90e5f161"
-    },
-    {
-      "name": "Live 3",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-3/86",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-      "m3u8": null,
-      "kid": "290e09c837da78d5cd961978d390515c",
-      "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "name": "Live 4",
@@ -213,6 +204,12 @@
     }
   ],
   "errors": [
+    {
+      "name": "Live 3",
+      "site": "durbintv",
+      "status": "decrypt_failed",
+      "url": "https://durbintv.com/livetv/watch/live-3/86"
+    },
     {
       "name": "PSL Match (79)",
       "site": "durbintv",
