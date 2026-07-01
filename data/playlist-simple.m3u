@@ -20,11 +20,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTGRP:durbintv
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
-
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
