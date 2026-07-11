@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T20:52:39.914Z",
+  "generated": "2026-07-11T21:52:45.780Z",
   "total": 52,
-  "successful": 23,
-  "failed": 29,
+  "successful": 21,
+  "failed": 31,
   "streams": [
     {
       "name": "Live 1",
@@ -192,24 +192,6 @@
       "m3u8": null,
       "kid": "e853333da2c9196ea11374634231bc45",
       "key": "de2e2dbe818d78dfad07d6cd9a4c63d4"
-    },
-    {
-      "name": "T Sports (50)",
-      "site": "mhdtvp",
-      "url": "https://mhdtvp.com/livetv/watch/t-sports/50",
-      "m3u8": "https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
-      "name": "T Sports (52)",
-      "site": "mhdtvp",
-      "url": "https://mhdtvp.com/livetv/watch/t-sports/52",
-      "m3u8": "https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
     }
   ],
   "errors": [
@@ -356,6 +338,18 @@
       "site": "mhdtvp",
       "status": "login_required",
       "url": "https://mhdtvp.com/livetv/watch/nagorik-tv/51"
+    },
+    {
+      "name": "T Sports (50)",
+      "site": "mhdtvp",
+      "status": "decrypt_failed",
+      "url": "https://mhdtvp.com/livetv/watch/t-sports/50"
+    },
+    {
+      "name": "T Sports (52)",
+      "site": "mhdtvp",
+      "status": "decrypt_failed",
+      "url": "https://mhdtvp.com/livetv/watch/t-sports/52"
     },
     {
       "name": "BeIN SPORTS 1",
