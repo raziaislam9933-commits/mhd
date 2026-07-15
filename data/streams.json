@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T16:24:38.967Z",
+  "generated": "2026-07-15T18:09:47.902Z",
   "total": 52,
   "successful": 21,
   "failed": 31,
@@ -228,13 +228,13 @@
     {
       "name": "PSL (48)",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/48"
     },
     {
       "name": "PSL (49)",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49"
     },
     {
@@ -252,133 +252,133 @@
     {
       "name": "LaLiga 1",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/laliga-1/31"
     },
     {
       "name": "Serie A",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/serie-a/53"
     },
     {
       "name": "Serie A 2",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/serie-a-2/54"
     },
     {
       "name": "Bundesliga",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/bundesliga/55"
     },
     {
       "name": "Bundesliga 2",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/bundesliga-2/56"
     },
     {
       "name": "TNT Sports 1",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-1-live-free/27"
     },
     {
       "name": "TNT Sports 2",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-2-live-free/28"
     },
     {
       "name": "TNT Sports 3",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-3-live-free/29"
     },
     {
       "name": "TNT Sports 4",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-4-live-free/30"
     },
     {
       "name": "TSN 1",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tsn-1/33"
     },
     {
       "name": "TSN 2",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tsn-2/34"
     },
     {
       "name": "TSN 3",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tsn-3/35"
     },
     {
       "name": "TSN 4",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tsn-4/36"
     },
     {
       "name": "TSN 5",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tsn-5/37"
     },
     {
       "name": "Nagorik TV",
       "site": "mhdtvp",
-      "status": "login_required",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/nagorik-tv/51"
     },
     {
       "name": "T Sports (50)",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/t-sports/50"
     },
     {
       "name": "T Sports (52)",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/t-sports/52"
     },
     {
       "name": "BeIN SPORTS 1",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/bein-sports-1/38"
     },
     {
       "name": "BeIN SPORTS 2",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/bein-sports-2/39"
     },
     {
       "name": "BeIN SPORTS 3",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/bein-sports-3/40"
     },
     {
       "name": "Fancode 1",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/sports/watch/fancode-1/22"
     },
     {
       "name": "Fancode 2",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/sports/watch/fancode-2/23"
     }
   ]
