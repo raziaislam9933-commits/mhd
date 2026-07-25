@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T11:12:42.525Z",
+  "generated": "2026-07-25T13:40:03.602Z",
   "total": 52,
   "successful": 22,
   "failed": 30,
@@ -44,7 +44,7 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://live05.miekgo.app/live/08552895.m3u8",
+      "m3u8": "https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-147/rb62-cgui/chunklist.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
