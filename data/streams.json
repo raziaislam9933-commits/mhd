@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T05:49:28.545Z",
+  "generated": "2026-08-04T08:40:59.776Z",
   "total": 52,
   "successful": 22,
   "failed": 30,
@@ -231,7 +231,7 @@
     {
       "name": "PSL (48)",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/48"
     },
     {
