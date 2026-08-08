@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T18:40:19.541Z",
+  "generated": "2026-08-08T19:31:56.570Z",
   "total": 52,
   "successful": 22,
   "failed": 30,
@@ -237,14 +237,13 @@
     {
       "name": "PSL (49)",
       "site": "mhdtvp",
-      "status": "no_player",
+      "status": "decrypt_failed",
       "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49"
     },
     {
       "name": "Live 1 (57)",
       "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/live-1/57"
     },
     {
