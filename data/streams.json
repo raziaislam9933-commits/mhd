@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-12T17:58:08.001Z",
+  "generated": "2026-08-12T19:13:04.351Z",
   "total": 52,
-  "successful": 22,
-  "failed": 30,
+  "successful": 21,
+  "failed": 31,
   "streams": [
     {
       "name": "Live 1",
@@ -48,15 +48,6 @@
       "kid": null,
       "key": null,
       "mpd": null
-    },
-    {
-      "name": "IPL 2026 (81)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "mpd": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-      "m3u8": null,
-      "kid": "14eeabf30c14b7fbf3008c03099ce011",
-      "key": "17d2ac8dbc5429bd70af3433aa12158d"
     },
     {
       "name": "Watch India 2",
@@ -215,6 +206,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
+    },
+    {
+      "name": "IPL 2026 (81)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
     },
     {
       "name": "Watch India",

@@ -23,11 +23,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 https://livecf.fancode.com/143353_english_hls_63ced2230f71145_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
