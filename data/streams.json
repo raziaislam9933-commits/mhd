@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T23:43:13.125Z",
+  "generated": "2026-08-14T02:08:00.281Z",
   "total": 52,
   "successful": 23,
   "failed": 29,
@@ -44,7 +44,7 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://live2.jxa76.com/live/sd-6Mwe5Q5U1t8iA6edSK_540p.m3u8?txSecret=98954a7a051ab902ba0476c9a4c80fd9&txTime=19FF89AE437",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/level_0.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -53,7 +53,7 @@
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "m3u8": "https://live2.jxa76.com/live/sd-6Mwe5Q5U1t8iA6edSK_540p.m3u8?txSecret=98954a7a051ab902ba0476c9a4c80fd9&txTime=19FF89AE437",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/level_0.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -62,7 +62,7 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+      "m3u8": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null

@@ -25,13 +25,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
-https://live2.jxa76.com/live/sd-6Mwe5Q5U1t8iA6edSK_540p.m3u8?txSecret=98954a7a051ab902ba0476c9a4c80fd9&txTime=19FF89AE437
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/level_0.m3u8
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
-https://live2.jxa76.com/live/sd-6Mwe5Q5U1t8iA6edSK_540p.m3u8?txSecret=98954a7a051ab902ba0476c9a4c80fd9&txTime=19FF89AE437
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/level_0.m3u8
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
