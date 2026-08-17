@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T05:36:30.941Z",
+  "generated": "2026-08-17T06:59:31.259Z",
   "total": 52,
   "successful": 23,
   "failed": 29,
@@ -234,19 +234,21 @@
     {
       "name": "PSL (48)",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "error",
+      "error": "timeout",
       "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/48"
     },
     {
       "name": "PSL (49)",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49"
     },
     {
       "name": "Live 1 (57)",
       "site": "mhdtvp",
-      "status": "no_player",
+      "status": "error",
+      "error": "timeout",
       "url": "https://mhdtvp.com/livetv/watch/live-1/57"
     },
     {
@@ -264,7 +266,7 @@
     {
       "name": "Serie A",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/serie-a/53"
     },
     {
@@ -276,7 +278,8 @@
     {
       "name": "Bundesliga",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "error",
+      "error": "timeout",
       "url": "https://mhdtvp.com/livetv/watch/bundesliga/55"
     },
     {
@@ -300,7 +303,7 @@
     {
       "name": "TNT Sports 3",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-3-live-free/29"
     },
     {
@@ -354,7 +357,8 @@
     {
       "name": "T Sports (52)",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "error",
+      "error": "timeout",
       "url": "https://mhdtvp.com/livetv/watch/t-sports/52"
     },
     {
