@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-19T19:27:31.002Z",
+  "generated": "2026-08-19T20:30:17.306Z",
   "total": 52,
-  "successful": 23,
-  "failed": 29,
+  "successful": 22,
+  "failed": 30,
   "streams": [
     {
       "name": "Live 1",
@@ -122,15 +122,6 @@
       "key": "e5e3fec67a1bb3472a2089c8a0a2557f"
     },
     {
-      "name": "LaLiga",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/live-laliga/42",
-      "mpd": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-      "m3u8": null,
-      "kid": "065051b99bf5cf8d9a3bde5cbde6aaf9",
-      "key": "214bd176832872339ce184338320f9a2"
-    },
-    {
       "name": "Serie A (69)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-serie-a/69",
@@ -230,6 +221,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/watch-live-germany-2/72"
+    },
+    {
+      "name": "LaLiga",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/live-laliga/42"
     },
     {
       "name": "PSL (48)",
