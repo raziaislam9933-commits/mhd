@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-20T18:41:34.267Z",
+  "generated": "2026-08-20T19:32:59.495Z",
   "total": 52,
-  "successful": 21,
-  "failed": 31,
+  "successful": 22,
+  "failed": 30,
   "streams": [
     {
       "name": "Live 1",
@@ -39,6 +39,15 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "name": "PSL Match (83)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
+      "kid": null,
+      "key": null,
+      "mpd": null
     },
     {
       "name": "IPL 2026 (80)",
@@ -202,12 +211,6 @@
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
     },
     {
-      "name": "PSL Match (83)",
-      "site": "durbintv",
-      "status": "no_player",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
-    },
-    {
       "name": "Watch India",
       "site": "durbintv",
       "status": "login_required",
@@ -288,7 +291,7 @@
     {
       "name": "TNT Sports 2",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "no_player",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-2-live-free/28"
     },
     {
@@ -318,7 +321,8 @@
     {
       "name": "TSN 3",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "error",
+      "error": "timeout",
       "url": "https://mhdtvp.com/livetv/watch/tsn-3/35"
     },
     {
