@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T19:32:59.495Z",
+  "generated": "2026-08-20T20:30:38.686Z",
   "total": 52,
   "successful": 22,
   "failed": 30,
@@ -291,7 +291,7 @@
     {
       "name": "TNT Sports 2",
       "site": "mhdtvp",
-      "status": "no_player",
+      "status": "decrypt_failed",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-2-live-free/28"
     },
     {
@@ -321,8 +321,7 @@
     {
       "name": "TSN 3",
       "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
+      "status": "decrypt_failed",
       "url": "https://mhdtvp.com/livetv/watch/tsn-3/35"
     },
     {
