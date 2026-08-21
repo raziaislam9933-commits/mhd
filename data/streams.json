@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T14:37:08.587Z",
+  "generated": "2026-08-21T15:35:29.769Z",
   "total": 52,
   "successful": 0,
   "failed": 52,
@@ -51,8 +51,7 @@
     {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
+      "status": "no_player",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
     },
     {
@@ -148,8 +147,7 @@
     {
       "name": "TSN 3",
       "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
+      "status": "no_player",
       "url": "https://durbintv.com/sports/watch/watch-live-tsn-3/40"
     },
     {
