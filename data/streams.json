@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T13:47:38.504Z",
+  "generated": "2026-08-21T14:37:08.587Z",
   "total": 52,
   "successful": 0,
   "failed": 52,
@@ -8,7 +8,8 @@
     {
       "name": "Live 1",
       "site": "durbintv",
-      "status": "no_player",
+      "status": "error",
+      "error": "timeout",
       "url": "https://durbintv.com/livetv/watch/live-1/84"
     },
     {
@@ -50,7 +51,8 @@
     {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
-      "status": "no_player",
+      "status": "error",
+      "error": "timeout",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
     },
     {
@@ -98,8 +100,7 @@
     {
       "name": "Portugal 2",
       "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
+      "status": "no_player",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70"
     },
     {
@@ -141,8 +142,7 @@
     {
       "name": "TSN 2",
       "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
+      "status": "no_player",
       "url": "https://durbintv.com/sports/watch/tsn-2/43"
     },
     {
