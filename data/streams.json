@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T15:35:29.769Z",
+  "generated": "2026-08-21T16:36:53.086Z",
   "total": 52,
   "successful": 0,
   "failed": 52,
@@ -8,8 +8,7 @@
     {
       "name": "Live 1",
       "site": "durbintv",
-      "status": "error",
-      "error": "timeout",
+      "status": "no_player",
       "url": "https://durbintv.com/livetv/watch/live-1/84"
     },
     {
@@ -21,7 +20,8 @@
     {
       "name": "Live 3",
       "site": "durbintv",
-      "status": "no_player",
+      "status": "error",
+      "error": "timeout",
       "url": "https://durbintv.com/livetv/watch/live-3/86"
     },
     {
@@ -33,7 +33,8 @@
     {
       "name": "PSL Match (79)",
       "site": "durbintv",
-      "status": "no_player",
+      "status": "error",
+      "error": "timeout",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
     },
     {
