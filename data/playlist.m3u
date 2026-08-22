@@ -27,8 +27,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.m3u8
 
+#EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
+https://live05.meung.app/live/33982309.m3u8
+
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
-https://live05.meung.app/live/97885009.m3u8
+https://leaf.highfly.dev/m3u/1954596/live.m3u8
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
