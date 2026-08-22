@@ -23,6 +23,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
+#EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
+https://live05.meung.app/live/97885009.m3u8
+
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
