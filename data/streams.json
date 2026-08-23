@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T05:31:24.479Z",
+  "generated": "2026-08-23T06:44:11.938Z",
   "total": 52,
   "successful": 22,
   "failed": 30,
@@ -53,7 +53,7 @@
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "m3u8": "https://live05.meung.app/live/33982309.m3u8",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
