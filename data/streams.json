@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T19:22:56.618Z",
+  "generated": "2026-08-23T20:25:59.608Z",
   "total": 52,
   "successful": 22,
   "failed": 30,
@@ -44,7 +44,7 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.m3u8",
+      "m3u8": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
