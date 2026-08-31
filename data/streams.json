@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-31T16:50:55.577Z",
+  "generated": "2026-08-31T21:47:12.240Z",
   "total": 52,
-  "successful": 22,
-  "failed": 30,
+  "successful": 21,
+  "failed": 31,
   "streams": [
     {
       "name": "Live 1",
@@ -39,15 +39,6 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "name": "PSL Match (83)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
     },
     {
       "name": "IPL 2026 (80)",
@@ -209,6 +200,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
+    {
+      "name": "PSL Match (83)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
     },
     {
       "name": "IPL 2026 (81)",
