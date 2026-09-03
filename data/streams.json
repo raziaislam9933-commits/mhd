@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T13:21:40.435Z",
+  "generated": "2026-09-03T17:37:58.749Z",
   "total": 52,
   "successful": 21,
   "failed": 31,
@@ -264,8 +264,7 @@
     {
       "name": "Serie A 2",
       "site": "mhdtvp",
-      "status": "error",
-      "error": "read ECONNRESET",
+      "status": "decrypt_failed",
       "url": "https://mhdtvp.com/livetv/watch/serie-a-2/54"
     },
     {
