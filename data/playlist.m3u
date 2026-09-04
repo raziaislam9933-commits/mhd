@@ -28,7 +28,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
-https://leaf.highfly.dev/m3u/1954596/live.m3u8
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.m3u8
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
