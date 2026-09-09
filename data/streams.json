@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-09T08:48:08.934Z",
+  "generated": "2026-09-09T13:32:48.663Z",
   "total": 52,
-  "successful": 20,
-  "failed": 32,
+  "successful": 19,
+  "failed": 33,
   "streams": [
     {
       "name": "Live 1",
@@ -75,15 +75,6 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "name": "Germany",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-live-germany/73",
-      "m3u8": "https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
     },
     {
       "name": "Portugal",
@@ -209,6 +200,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
+    },
+    {
+      "name": "Germany",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-live-germany/73"
     },
     {
       "name": "Germany 2",

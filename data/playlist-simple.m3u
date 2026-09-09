@@ -38,9 +38,6 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out
 #EXTGRP:durbintv
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-name="Germany" group-title="durbintv",Germany
-https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.m3u8
-
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
