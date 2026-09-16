@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T16:25:01.024Z",
+  "generated": "2026-09-16T19:52:40.442Z",
   "total": 52,
   "successful": 19,
   "failed": 33,
@@ -44,7 +44,7 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8",
+      "m3u8": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
