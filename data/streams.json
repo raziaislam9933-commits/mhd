@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T09:14:03.210Z",
+  "generated": "2026-09-22T14:27:49.976Z",
   "total": 52,
   "successful": 19,
   "failed": 33,
@@ -53,7 +53,7 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
