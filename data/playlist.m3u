@@ -30,6 +30,9 @@ https://live.dyrur1.com/live/72478588_2c1d53435e9ae54bc5086e1b50308c70_1080p.m3u
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 https://papacito.cfd/m3u/now49499404/live.m3u8
 
+#EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
+https://live05.meung.app/live/78905744_tsc.m3u8
+
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
@@ -53,6 +56,9 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uw
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"56816fa6c2b3fa65a5de766d52f08b7f","key":"07c1b41782e4321883a06b73629200a0"}]}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kr46ndje4l/out/v1/9833c1deedb64791b99615a4aefefb66/cenc.mpd
+
+#EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790276619-0-0-00f166d3d34d3106b47ef5355b629272
 
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
