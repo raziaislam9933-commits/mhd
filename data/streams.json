@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-25T18:18:52.720Z",
+  "generated": "2026-09-25T22:03:46.492Z",
   "total": 52,
-  "successful": 21,
-  "failed": 31,
+  "successful": 20,
+  "failed": 32,
   "streams": [
     {
       "name": "Live 1",
@@ -44,7 +44,7 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-23.m3u8?auth_key=3000001790343695-0-0-de4ca2208db3ff17ab51c26e76eba88b",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790361806-0-0-2ffd0b5d28968378c80829cd29f3209c",
       "kid": null,
       "key": null,
       "mpd": null
@@ -54,15 +54,6 @@
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
       "m3u8": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001790342621-0-0-bc107e9698abe88773b00db6ff3e6787",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
-      "name": "Watch India",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001790325825-0-0-9423eade0b60fbfb96ca43541e16f965",
       "kid": null,
       "key": null,
       "mpd": null
@@ -107,7 +98,7 @@
       "name": "Portugal 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001790326134-0-0-25f5456992656c69585e66e9f7496edf",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790362076-0-0-b9292c022d89ad2555ee21ab8dd443ba",
       "kid": null,
       "key": null,
       "mpd": null
@@ -206,6 +197,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
+    },
+    {
+      "name": "Watch India",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-india/77"
     },
     {
       "name": "Germany",
