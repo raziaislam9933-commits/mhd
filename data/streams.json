@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T07:18:41.289Z",
+  "generated": "2026-09-25T13:23:08.035Z",
   "total": 52,
   "successful": 21,
   "failed": 31,
@@ -44,7 +44,7 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://live.dyrur1.com/live/72478588_2c1d53435e9ae54bc5086e1b50308c70_1080p.m3u8",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-28.m3u8?auth_key=3000001790328816-0-0-27c5ba8235727197a6467f5c456034ef",
       "kid": null,
       "key": null,
       "mpd": null
@@ -53,7 +53,7 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://papacito.cfd/m3u/now49499404/live.m3u8",
+      "m3u8": "https://live05.meung.app/live/78905744_tsc.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -62,7 +62,7 @@
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://live05.meung.app/live/78905744_tsc.m3u8",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001790325825-0-0-9423eade0b60fbfb96ca43541e16f965",
       "kid": null,
       "key": null,
       "mpd": null
@@ -107,7 +107,7 @@
       "name": "Portugal 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790276619-0-0-00f166d3d34d3106b47ef5355b629272",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001790326134-0-0-25f5456992656c69585e66e9f7496edf",
       "kid": null,
       "key": null,
       "mpd": null

@@ -25,13 +25,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
-https://live.dyrur1.com/live/72478588_2c1d53435e9ae54bc5086e1b50308c70_1080p.m3u8
+https://live2.domaincdn.cc/livecdn/channel-28.m3u8?auth_key=3000001790328816-0-0-27c5ba8235727197a6467f5c456034ef
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
-https://papacito.cfd/m3u/now49499404/live.m3u8
+https://live05.meung.app/live/78905744_tsc.m3u8
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
-https://live05.meung.app/live/78905744_tsc.m3u8
+https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001790325825-0-0-9423eade0b60fbfb96ca43541e16f965
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -58,7 +58,7 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uw
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kr46ndje4l/out/v1/9833c1deedb64791b99615a4aefefb66/cenc.mpd
 
 #EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790276619-0-0-00f166d3d34d3106b47ef5355b629272
+https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001790326134-0-0-25f5456992656c69585e66e9f7496edf
 
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
