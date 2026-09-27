@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-27T18:06:51.016Z",
+  "generated": "2026-09-27T21:53:44.043Z",
   "total": 52,
-  "successful": 21,
-  "failed": 31,
+  "successful": 20,
+  "failed": 32,
   "streams": [
     {
       "name": "Live 1",
@@ -62,7 +62,7 @@
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790448855-0-0-e992c5f0acdec553f8acd6ec43abaa1e",
+      "m3u8": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -102,15 +102,6 @@
       "m3u8": null,
       "kid": "56816fa6c2b3fa65a5de766d52f08b7f",
       "key": "07c1b41782e4321883a06b73629200a0"
-    },
-    {
-      "name": "Portugal 2",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001790524824-0-0-c22aabcdd8b4d28dd08918cbc61cfebe",
-      "kid": null,
-      "key": null,
-      "mpd": null
     },
     {
       "name": "Serie A (69)",
@@ -218,6 +209,12 @@
       "site": "durbintv",
       "status": "no_player",
       "url": "https://durbintv.com/livetv/watch/watch-live-germany-2/72"
+    },
+    {
+      "name": "Portugal 2",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70"
     },
     {
       "name": "LaLiga",
