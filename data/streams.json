@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T06:26:34.852Z",
+  "generated": "2026-09-28T15:04:55.401Z",
   "total": 52,
   "successful": 20,
   "failed": 32,
@@ -44,7 +44,7 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=ec13f041681b0d570493dedda3f51d9c&wsABSTime=1790490225",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001790589677-0-0-924d79b93dab6db898a544d11aba495c",
       "kid": null,
       "key": null,
       "mpd": null
@@ -53,7 +53,7 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001790589544-0-0-2faf5d3a7c6492c29f1cb3c8222eca97",
       "kid": null,
       "key": null,
       "mpd": null
