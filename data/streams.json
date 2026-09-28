@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T15:04:55.401Z",
+  "generated": "2026-09-28T21:40:00.383Z",
   "total": 52,
   "successful": 20,
   "failed": 32,
@@ -44,7 +44,7 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001790589677-0-0-924d79b93dab6db898a544d11aba495c",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001790618151-0-0-c73439d65ae6a8eb8026d7589d167c40",
       "kid": null,
       "key": null,
       "mpd": null
@@ -53,7 +53,7 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001790589544-0-0-2faf5d3a7c6492c29f1cb3c8222eca97",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -62,7 +62,7 @@
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001790618151-0-0-c73439d65ae6a8eb8026d7589d167c40",
       "kid": null,
       "key": null,
       "mpd": null
