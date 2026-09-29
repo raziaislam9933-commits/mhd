@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-29T15:29:06.455Z",
+  "generated": "2026-09-29T20:30:45.187Z",
   "total": 52,
-  "successful": 21,
-  "failed": 31,
+  "successful": 20,
+  "failed": 32,
   "streams": [
     {
       "name": "Live 1",
@@ -41,19 +41,10 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://live05.meung.app/live/78905744.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://live05.meung.app/live/78905744.m3u8",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -62,7 +53,7 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001790673904-0-0-0efbc0ca4568bdc509b0af14178e243f",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790705703-0-0-17c49744a90a0167c4a4622c3107d11c",
       "kid": null,
       "key": null,
       "mpd": null
@@ -71,7 +62,7 @@
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://live05.meung.app/live/78905744.m3u8",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001790705551-0-0-f1857962aadbb825051bfb1320dfb6ef",
       "kid": null,
       "key": null,
       "mpd": null
@@ -195,6 +186,12 @@
     }
   ],
   "errors": [
+    {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
     {
       "name": "IPL 2026 (80)",
       "site": "durbintv",
