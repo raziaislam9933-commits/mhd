@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-29T08:03:29.494Z",
+  "generated": "2026-09-29T15:29:06.455Z",
   "total": 52,
-  "successful": 20,
-  "failed": 32,
+  "successful": 21,
+  "failed": 31,
   "streams": [
     {
       "name": "Live 1",
@@ -41,10 +41,19 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
+      "m3u8": "https://live05.meung.app/live/78905744.m3u8",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001790618151-0-0-c73439d65ae6a8eb8026d7589d167c40",
+      "m3u8": "https://live05.meung.app/live/78905744.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -53,7 +62,7 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001790673904-0-0-0efbc0ca4568bdc509b0af14178e243f",
       "kid": null,
       "key": null,
       "mpd": null
@@ -62,7 +71,7 @@
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001790618151-0-0-c73439d65ae6a8eb8026d7589d167c40",
+      "m3u8": "https://live05.meung.app/live/78905744.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -186,12 +195,6 @@
     }
   ],
   "errors": [
-    {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
-    },
     {
       "name": "IPL 2026 (80)",
       "site": "durbintv",
