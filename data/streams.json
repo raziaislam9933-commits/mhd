@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T18:53:44.901Z",
+  "generated": "2026-09-30T22:51:17.388Z",
   "total": 52,
   "successful": 20,
   "failed": 32,
@@ -53,7 +53,7 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790705703-0-0-17c49744a90a0167c4a4622c3107d11c",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001790799839-0-0-a65b6e997315b2e3aa9797452ffb5d75",
       "kid": null,
       "key": null,
       "mpd": null
