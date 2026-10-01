@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-01T08:31:26.023Z",
+  "generated": "2026-10-01T16:07:12.242Z",
   "total": 52,
-  "successful": 19,
-  "failed": 33,
+  "successful": 22,
+  "failed": 30,
   "streams": [
     {
       "name": "Live 1",
@@ -41,10 +41,37 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790866759-0-0-b2bab67d5e3848ea1f6fe21c8d06f677",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790866564-0-0-db522ed777481a6b2797abfa55447b2d",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790866564-0-0-db522ed777481a6b2797abfa55447b2d",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
+      "name": "IPL 2026 (81)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790866634-0-0-85bf885ae088cc6f78526a33d88b3b0a",
       "kid": null,
       "key": null,
       "mpd": null
@@ -53,7 +80,7 @@
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001790705551-0-0-f1857962aadbb825051bfb1320dfb6ef",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790866759-0-0-b2bab67d5e3848ea1f6fe21c8d06f677",
       "kid": null,
       "key": null,
       "mpd": null
@@ -177,24 +204,6 @@
     }
   ],
   "errors": [
-    {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
-    },
-    {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
-    },
-    {
-      "name": "IPL 2026 (81)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
-    },
     {
       "name": "Germany",
       "site": "durbintv",
