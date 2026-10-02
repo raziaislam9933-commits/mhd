@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T15:30:48.923Z",
+  "generated": "2026-10-02T20:27:41.155Z",
   "total": 52,
   "successful": 22,
   "failed": 30,
@@ -41,19 +41,10 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790866759-0-0-b2bab67d5e3848ea1f6fe21c8d06f677",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790866564-0-0-db522ed777481a6b2797abfa55447b2d",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -62,7 +53,7 @@
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790866564-0-0-db522ed777481a6b2797abfa55447b2d",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -71,7 +62,7 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790866634-0-0-85bf885ae088cc6f78526a33d88b3b0a",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790964750-0-0-2bd15ea32f60529a61b13a679922211b",
       "kid": null,
       "key": null,
       "mpd": null
@@ -80,7 +71,7 @@
       "name": "Watch India",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790866759-0-0-b2bab67d5e3848ea1f6fe21c8d06f677",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790965637-0-0-8c1f7fe4098637a52fd87ecec8fb67ab",
       "kid": null,
       "key": null,
       "mpd": null
@@ -120,6 +111,15 @@
       "m3u8": null,
       "kid": "56816fa6c2b3fa65a5de766d52f08b7f",
       "key": "07c1b41782e4321883a06b73629200a0"
+    },
+    {
+      "name": "Portugal 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+      "kid": null,
+      "key": null,
+      "mpd": null
     },
     {
       "name": "Serie A (69)",
@@ -205,6 +205,12 @@
   ],
   "errors": [
     {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
+    {
       "name": "Germany",
       "site": "durbintv",
       "status": "no_player",
@@ -215,12 +221,6 @@
       "site": "durbintv",
       "status": "no_player",
       "url": "https://durbintv.com/livetv/watch/watch-live-germany-2/72"
-    },
-    {
-      "name": "Portugal 2",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70"
     },
     {
       "name": "LaLiga",

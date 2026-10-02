@@ -24,20 +24,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"290e09c837da78d5cd961978d390515c","key":"b748836c71e6a4ca68ef5b5652db6247"}]}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790866759-0-0-b2bab67d5e3848ea1f6fe21c8d06f677
-
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790866564-0-0-db522ed777481a6b2797abfa55447b2d
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790866564-0-0-db522ed777481a6b2797abfa55447b2d
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790866634-0-0-85bf885ae088cc6f78526a33d88b3b0a
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790964750-0-0-2bd15ea32f60529a61b13a679922211b
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790866759-0-0-b2bab67d5e3848ea1f6fe21c8d06f677
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790965637-0-0-8c1f7fe4098637a52fd87ecec8fb67ab
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -62,6 +59,9 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uw
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"56816fa6c2b3fa65a5de766d52f08b7f","key":"07c1b41782e4321883a06b73629200a0"}]}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kr46ndje4l/out/v1/9833c1deedb64791b99615a4aefefb66/cenc.mpd
+
+#EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
