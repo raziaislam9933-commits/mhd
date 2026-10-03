@@ -28,7 +28,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790965637-0-0-8c1f7fe4098637a52fd87ecec8fb67ab
+https://live2.domaincdn.cc/livecdn/channel-20.m3u8?auth_key=3000001791036224-0-0-2a22ea4cd2c9f002d4d4939bcf38857d
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
