@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-02T20:27:41.155Z",
+  "generated": "2026-10-03T00:14:30.086Z",
   "total": 52,
-  "successful": 22,
-  "failed": 30,
+  "successful": 20,
+  "failed": 32,
   "streams": [
     {
       "name": "Live 1",
@@ -45,24 +45,6 @@
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
       "m3u8": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
-      "name": "IPL 2026 (81)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790964750-0-0-2bd15ea32f60529a61b13a679922211b",
       "kid": null,
       "key": null,
       "mpd": null
@@ -209,6 +191,18 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
+    {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
+    },
+    {
+      "name": "IPL 2026 (81)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
     },
     {
       "name": "Germany",
