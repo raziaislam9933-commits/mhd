@@ -28,7 +28,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001791029029-0-0-59a91a632c1895a02cdef1373f38465a
+https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001791062677-0-0-411cc4d4f6f80cfbccd2c850c4cb3b91
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -53,9 +53,6 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uw
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"56816fa6c2b3fa65a5de766d52f08b7f","key":"07c1b41782e4321883a06b73629200a0"}]}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kr46ndje4l/out/v1/9833c1deedb64791b99615a4aefefb66/cenc.mpd
-
-#EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
-https://live2.domaincdn.cc/livecdn/channel-13.m3u8?auth_key=3000001791056056-0-0-fcddbd8c8a4b8afeaab1c5d69e4c675e
 
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
