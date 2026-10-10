@@ -23,6 +23,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
+#EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
