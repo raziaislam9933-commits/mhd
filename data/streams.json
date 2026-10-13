@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-13T15:40:26.149Z",
+  "generated": "2026-10-13T21:02:07.220Z",
   "total": 52,
-  "successful": 19,
-  "failed": 33,
+  "successful": 20,
+  "failed": 32,
   "streams": [
     {
       "name": "Live 1",
@@ -41,19 +41,19 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "name": "PSL Match (79)",
+      "name": "PSL Match (83)",
       "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=87aff4eae721095681736e7656d13af9&wsABSTime=1791776177",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
     },
     {
-      "name": "PSL Match (83)",
+      "name": "IPL 2026 (80)",
       "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -93,6 +93,15 @@
       "m3u8": null,
       "kid": "56816fa6c2b3fa65a5de766d52f08b7f",
       "key": "07c1b41782e4321883a06b73629200a0"
+    },
+    {
+      "name": "Portugal 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70",
+      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+      "kid": null,
+      "key": null,
+      "mpd": null
     },
     {
       "name": "Serie A (69)",
@@ -178,10 +187,10 @@
   ],
   "errors": [
     {
-      "name": "IPL 2026 (80)",
+      "name": "PSL Match (79)",
       "site": "durbintv",
       "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
     },
     {
       "name": "IPL 2026 (81)",
@@ -206,12 +215,6 @@
       "site": "durbintv",
       "status": "no_player",
       "url": "https://durbintv.com/livetv/watch/watch-live-germany-2/72"
-    },
-    {
-      "name": "Portugal 2",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70"
     },
     {
       "name": "LaLiga",
