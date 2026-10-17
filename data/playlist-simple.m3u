@@ -36,6 +36,12 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out
 #EXTGRP:durbintv
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
 
+#EXTINF:-1 tvg-name="Watch India 4" group-title="durbintv",Watch India 4
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=fe770849826bfccb73dade4c7a3be583&wsABSTime=1792285795
+
+#EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=d0e28ae61b505a1d61543cd3275c5524&wsABSTime=1792286023
+
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
