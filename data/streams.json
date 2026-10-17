@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T16:11:02.429Z",
+  "generated": "2026-10-17T19:04:41.504Z",
   "total": 52,
   "successful": 19,
   "failed": 33,
@@ -80,7 +80,7 @@
       "name": "Watch India 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india-4/74",
-      "m3u8": "https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=fe770849826bfccb73dade4c7a3be583&wsABSTime=1792285795",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792253850-0-0-f94bae386e00f804395a227c7200fb66",
       "kid": null,
       "key": null,
       "mpd": null
@@ -89,7 +89,7 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "m3u8": "https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=d0e28ae61b505a1d61543cd3275c5524&wsABSTime=1792286023",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792253850-0-0-f94bae386e00f804395a227c7200fb66",
       "kid": null,
       "key": null,
       "mpd": null
