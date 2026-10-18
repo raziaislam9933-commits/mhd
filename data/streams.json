@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T10:35:47.945Z",
+  "generated": "2026-10-18T14:20:35.646Z",
   "total": 52,
   "successful": 19,
   "failed": 33,
@@ -44,7 +44,7 @@
       "name": "PSL Match (79)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=af0fafe2deeed51656bb645e1af83e9b&wsABSTime=1792281354",
+      "m3u8": "https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=a07cfca42603433f69e1b5769f7c2ade&wsABSTime=1792372867",
       "kid": null,
       "key": null,
       "mpd": null
