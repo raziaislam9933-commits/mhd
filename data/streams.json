@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T14:48:04.054Z",
+  "generated": "2026-10-20T19:01:13.679Z",
   "total": 52,
   "successful": 19,
   "failed": 33,
@@ -44,7 +44,7 @@
       "name": "PSL Match (79)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=a07cfca42603433f69e1b5769f7c2ade&wsABSTime=1792372867",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792519861-0-0-8a7322f64dd0b5ad9ef38d2b135c86de",
       "kid": null,
       "key": null,
       "mpd": null
@@ -89,7 +89,7 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792253850-0-0-f94bae386e00f804395a227c7200fb66",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792519984-0-0-095b9074b12b4149d9286b259772e332",
       "kid": null,
       "key": null,
       "mpd": null
@@ -282,8 +282,7 @@
     {
       "name": "TNT Sports 2",
       "site": "mhdtvp",
-      "status": "error",
-      "error": "read ECONNRESET",
+      "status": "decrypt_failed",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-2-live-free/28"
     },
     {

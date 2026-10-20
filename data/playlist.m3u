@@ -25,7 +25,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
-https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=a07cfca42603433f69e1b5769f7c2ade&wsABSTime=1792372867
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792519861-0-0-8a7322f64dd0b5ad9ef38d2b135c86de
 
 #EXTINF:-1 tvg-name="PSL Match 83" group-title="durbintv",PSL Match (83)
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
@@ -46,7 +46,7 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out
 https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792253850-0-0-f94bae386e00f804395a227c7200fb66
 
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
-https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792253850-0-0-f94bae386e00f804395a227c7200fb66
+https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792519984-0-0-095b9074b12b4149d9286b259772e332
 
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
