@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-20T19:01:13.679Z",
+  "generated": "2026-10-20T23:00:24.007Z",
   "total": 52,
-  "successful": 19,
-  "failed": 33,
+  "successful": 18,
+  "failed": 34,
   "streams": [
     {
       "name": "Live 1",
@@ -53,7 +53,7 @@
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
-      "m3u8": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792524039-0-0-407fe1e0dcda83500e060ac98987261d",
       "kid": null,
       "key": null,
       "mpd": null
@@ -75,15 +75,6 @@
       "m3u8": null,
       "kid": "192b1115da041585c77200128549efa1",
       "key": "634e10efe4abbb14be400a3ccbac0258"
-    },
-    {
-      "name": "Watch India 4",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-india-4/74",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792253850-0-0-f94bae386e00f804395a227c7200fb66",
-      "kid": null,
-      "key": null,
-      "mpd": null
     },
     {
       "name": "Portugal",
@@ -194,6 +185,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/watch-india/77"
+    },
+    {
+      "name": "Watch India 4",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-india-4/74"
     },
     {
       "name": "Germany",
