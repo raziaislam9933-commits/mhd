@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-21T14:55:15.784Z",
+  "generated": "2026-10-21T19:09:20.189Z",
   "total": 52,
-  "successful": 18,
-  "failed": 34,
+  "successful": 17,
+  "failed": 35,
   "streams": [
     {
       "name": "Live 1",
@@ -41,15 +41,6 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792519861-0-0-8a7322f64dd0b5ad9ef38d2b135c86de",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
@@ -80,7 +71,7 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792519984-0-0-095b9074b12b4149d9286b259772e332",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792608279-0-0-80efb21db1ea8ece904fea383490c89d",
       "kid": null,
       "key": null,
       "mpd": null
@@ -168,6 +159,12 @@
     }
   ],
   "errors": [
+    {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
     {
       "name": "IPL 2026 (80)",
       "site": "durbintv",
