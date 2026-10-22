@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T03:50:33.722Z",
+  "generated": "2026-10-22T09:14:37.216Z",
   "total": 52,
   "successful": 17,
   "failed": 35,
@@ -71,7 +71,7 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "m3u8": "https://live1.quickscoreboardz.com/live/channel14/playlist.m3u8?wsSecret=c0277cc32e41d0adf08cf72197d7c981&wsABSTime=1792651743",
+      "m3u8": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
