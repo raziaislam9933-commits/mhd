@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T18:54:47.363Z",
+  "generated": "2026-10-23T21:55:09.298Z",
   "total": 52,
   "successful": 17,
   "failed": 35,
@@ -282,7 +282,8 @@
     {
       "name": "TNT Sports 3",
       "site": "mhdtvp",
-      "status": "decrypt_failed",
+      "status": "error",
+      "error": "read ECONNRESET",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-3-live-free/29"
     },
     {
@@ -366,8 +367,7 @@
     {
       "name": "Fancode 2",
       "site": "mhdtvp",
-      "status": "error",
-      "error": "timeout",
+      "status": "decrypt_failed",
       "url": "https://mhdtvp.com/sports/watch/fancode-2/23"
     }
   ]
