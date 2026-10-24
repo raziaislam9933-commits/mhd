@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-24T10:31:53.554Z",
+  "generated": "2026-10-24T14:19:48.026Z",
   "total": 52,
-  "successful": 17,
-  "failed": 35,
+  "successful": 19,
+  "failed": 33,
   "streams": [
     {
       "name": "Live 1",
@@ -41,10 +41,28 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792850639-0-0-42b93db01ac952d62b95294c699efb7d",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83",
       "m3u8": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001792524039-0-0-407fe1e0dcda83500e060ac98987261d",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
+      "m3u8": "https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=684db09046866de31b7a0e91ebf73084&wsABSTime=1792893573",
       "kid": null,
       "key": null,
       "mpd": null
@@ -159,18 +177,6 @@
     }
   ],
   "errors": [
-    {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
-    },
-    {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
-    },
     {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
