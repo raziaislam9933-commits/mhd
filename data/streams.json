@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T21:55:09.298Z",
+  "generated": "2026-10-24T00:21:52.021Z",
   "total": 52,
   "successful": 17,
   "failed": 35,
@@ -282,8 +282,7 @@
     {
       "name": "TNT Sports 3",
       "site": "mhdtvp",
-      "status": "error",
-      "error": "read ECONNRESET",
+      "status": "decrypt_failed",
       "url": "https://mhdtvp.com/livetv/watch/tnt-sports-3-live-free/29"
     },
     {
