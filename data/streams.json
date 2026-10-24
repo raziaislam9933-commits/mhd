@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T05:30:40.763Z",
+  "generated": "2026-10-24T10:31:53.554Z",
   "total": 52,
   "successful": 17,
   "failed": 35,
@@ -71,7 +71,7 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "m3u8": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
+      "m3u8": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
