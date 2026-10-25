@@ -28,7 +28,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=bdef5d3cc6c297bc2a70a1939e935209&wsABSTime=1792903805
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=5fe97ecd59ae1a6f3692dce8311f4c42&wsABSTime=1792980384
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
