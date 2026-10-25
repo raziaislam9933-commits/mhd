@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T18:47:05.547Z",
+  "generated": "2026-10-25T21:31:41.053Z",
   "total": 52,
   "successful": 18,
   "failed": 34,
@@ -44,7 +44,7 @@
       "name": "PSL Match (79)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792943444-0-0-57cb3e8d2018a5ecc6d09aef3430198d",
+      "m3u8": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -62,10 +62,10 @@
       "name": "Watch India 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india-2/76",
-      "mpd": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd ",
-      "m3u8": null,
-      "kid": "192b1115da041585c77200128549efa1",
-      "key": "634e10efe4abbb14be400a3ccbac0258"
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792957198-0-0-ef6900adc268cc8c0897cb8a136808b4",
+      "kid": null,
+      "key": null,
+      "mpd": null
     },
     {
       "name": "Watch India 3",
