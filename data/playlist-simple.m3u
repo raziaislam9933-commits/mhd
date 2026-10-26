@@ -24,7 +24,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=5fe97ecd59ae1a6f3692dce8311f4c42&wsABSTime=1792980384
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793039436-0-0-e1e686c0c676fd7211e5afb0ac54cb2e
+
+#EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793039162-0-0-3d452394148e10e759d45c0096add3a8
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792957198-0-0-ef6900adc268cc8c0897cb8a136808b4
@@ -35,7 +38,7 @@ https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792957198-0-0-
 https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
 
 #EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+https://admin2.formaturamaxi.com.br/equipe.m3u8
 
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0

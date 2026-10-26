@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-26T17:09:23.640Z",
+  "generated": "2026-10-26T22:25:16.471Z",
   "total": 52,
-  "successful": 18,
-  "failed": 34,
+  "successful": 19,
+  "failed": 33,
   "streams": [
     {
       "name": "Live 1",
@@ -53,7 +53,16 @@
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "m3u8": "https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=5fe97ecd59ae1a6f3692dce8311f4c42&wsABSTime=1792980384",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793039436-0-0-e1e686c0c676fd7211e5afb0ac54cb2e",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
+      "name": "Watch India",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-india/77",
+      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793039162-0-0-3d452394148e10e759d45c0096add3a8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -80,7 +89,7 @@
       "name": "Portugal",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71",
-      "m3u8": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
+      "m3u8": "https://admin2.formaturamaxi.com.br/equipe.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -179,12 +188,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
-    },
-    {
-      "name": "Watch India",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-india/77"
     },
     {
       "name": "Watch India 4",
