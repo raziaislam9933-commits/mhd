@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-28T18:03:00.970Z",
+  "generated": "2026-10-28T22:58:27.207Z",
   "total": 52,
-  "successful": 19,
-  "failed": 33,
+  "successful": 16,
+  "failed": 36,
   "streams": [
     {
       "name": "Live 1",
@@ -39,33 +39,6 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793039436-0-0-e1e686c0c676fd7211e5afb0ac54cb2e",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
-      "name": "Watch India",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793039162-0-0-3d452394148e10e759d45c0096add3a8",
-      "kid": null,
-      "key": null,
-      "mpd": null
     },
     {
       "name": "Watch India 2",
@@ -178,16 +151,34 @@
   ],
   "errors": [
     {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
+    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
     },
     {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
+    },
+    {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
+    },
+    {
+      "name": "Watch India",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-india/77"
     },
     {
       "name": "Watch India 4",
