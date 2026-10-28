@@ -27,14 +27,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 
-#EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793039436-0-0-e1e686c0c676fd7211e5afb0ac54cb2e
-
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793039162-0-0-3d452394148e10e759d45c0096add3a8
-
-#EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792957198-0-0-ef6900adc268cc8c0897cb8a136808b4
 
 #EXTINF:-1 tvg-name="Watch India 3" group-title="durbintv",Watch India 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -56,12 +50,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"d1a163914db8ffad2c3e94f979896a0d","key":"9728800a3959aafdd5b0bcfbf3768811"}]}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-name="Bundesliga" group-title="durbintv",Bundesliga
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kid":"0b42be2664d7e811d04f3e504e0924c5","key":"ae24090123b8c72ac5404dc152847cb8"}]}
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-name="Bundesliga 2" group-title="durbintv",Bundesliga 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
