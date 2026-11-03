@@ -23,16 +23,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
-#EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792957198-0-0-ef6900adc268cc8c0897cb8a136808b4
-
 #EXTINF:-1 tvg-name="Watch India 3" group-title="durbintv",Watch India 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTGRP:durbintv
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
-
-#EXTINF:-1 tvg-name="Portugal" group-title="durbintv",Portugal
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
 
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
