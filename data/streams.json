@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T23:22:44.849Z",
+  "generated": "2026-11-05T05:45:04.732Z",
   "total": 52,
   "successful": 15,
   "failed": 37,
@@ -53,7 +53,7 @@
       "name": "Watch India 3",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india-3/75",
-      "m3u8": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+      "m3u8": "https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793849106~exp=1793877966~acl=/bpk-tv/202/default/*~eti=ec6f90c3bb4e2adc840061f03b9e10fc~sid=27774d63525ecb4a~imax=2~hmac=5f85510854d2be9c155c395e0011573f36d7dbb697aa44cc3ccf956a18025bd9/bpk-tv/202/default/index.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
