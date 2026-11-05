@@ -33,6 +33,9 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-name="Watch India" group-title="durbintv",Watch India
 https://live05.miekgo.app/live/33860426.m3u8
 
+#EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1793890435-0-0-cfa8e67b7f53e252d7d0f5887fccec2a
+
 #EXTINF:-1 tvg-name="Watch India 3" group-title="durbintv",Watch India 3
 https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793849106~exp=1793877966~acl=/bpk-tv/202/default/*~eti=ec6f90c3bb4e2adc840061f03b9e10fc~sid=27774d63525ecb4a~imax=2~hmac=5f85510854d2be9c155c395e0011573f36d7dbb697aa44cc3ccf956a18025bd9/bpk-tv/202/default/index.m3u8
 
