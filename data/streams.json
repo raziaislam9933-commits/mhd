@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07T16:09:32.330Z",
+  "generated": "2026-11-07T20:42:28.688Z",
   "total": 52,
-  "successful": 15,
-  "failed": 37,
+  "successful": 14,
+  "failed": 38,
   "streams": [
     {
       "name": "Live 1",
@@ -44,16 +44,7 @@
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
-      "m3u8": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
-      "name": "Watch India",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://live05.miekgo.app/live/33860426.m3u8",
+      "m3u8": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -158,6 +149,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
+    },
+    {
+      "name": "Watch India",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-india/77"
     },
     {
       "name": "Watch India 2",
