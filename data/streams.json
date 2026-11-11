@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-11T10:29:08.157Z",
+  "generated": "2026-11-11T18:26:46.430Z",
   "total": 52,
-  "successful": 14,
-  "failed": 38,
+  "successful": 16,
+  "failed": 36,
   "streams": [
     {
       "name": "Live 1",
@@ -41,10 +41,28 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
+      "m3u8": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
       "name": "IPL 2026 (81)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81",
       "m3u8": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
+      "name": "Watch India 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-india-2/76",
+      "m3u8": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -145,22 +163,10 @@
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
     },
     {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
-    },
-    {
       "name": "Watch India",
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/watch-india/77"
-    },
-    {
-      "name": "Watch India 2",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-india-2/76"
     },
     {
       "name": "Watch India 3",
