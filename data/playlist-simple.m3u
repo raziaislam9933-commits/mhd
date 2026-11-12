@@ -29,6 +29,9 @@ https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8
 
+#EXTINF:-1 tvg-name="Watch India 4" group-title="durbintv",Watch India 4
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
