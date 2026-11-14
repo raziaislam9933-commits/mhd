@@ -36,9 +36,6 @@ https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
 https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794670071-0-0-0296e8eaacc2f22c425a6a4a002b754b
 
-#EXTINF:-1 tvg-name="Watch India 3" group-title="durbintv",Watch India 3
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-
 #EXTINF:-1 tvg-name="Watch India 4" group-title="durbintv",Watch India 4
 https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794670422-0-0-1ed44e05cd4ba26b1120aefd31c6442a
 

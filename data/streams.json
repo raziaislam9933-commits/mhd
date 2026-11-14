@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-14T16:26:00.373Z",
+  "generated": "2026-11-14T21:09:35.996Z",
   "total": 52,
-  "successful": 19,
-  "failed": 33,
+  "successful": 18,
+  "failed": 34,
   "streams": [
     {
       "name": "Live 1",
@@ -72,15 +72,6 @@
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india-2/76",
       "m3u8": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794670071-0-0-0296e8eaacc2f22c425a6a4a002b754b",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
-      "name": "Watch India 3",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-india-3/75",
-      "m3u8": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -188,6 +179,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/watch-india/77"
+    },
+    {
+      "name": "Watch India 3",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-india-3/75"
     },
     {
       "name": "Germany",
