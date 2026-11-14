@@ -20,17 +20,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTGRP:durbintv
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
+#EXTINF:-1 tvg-name="PSL Match 79" group-title="durbintv",PSL Match (79)
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794670144-0-0-79a1adc7171b1c7a11e7dae27fb4abd1
+
 #EXTINF:-1 tvg-name="IPL 2026 80" group-title="durbintv",IPL 2026 (80)
-https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794670144-0-0-79a1adc7171b1c7a11e7dae27fb4abd1
 
 #EXTINF:-1 tvg-name="IPL 2026 81" group-title="durbintv",IPL 2026 (81)
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 
 #EXTINF:-1 tvg-name="Watch India 2" group-title="durbintv",Watch India 2
-https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794670071-0-0-0296e8eaacc2f22c425a6a4a002b754b
+
+#EXTINF:-1 tvg-name="Watch India 3" group-title="durbintv",Watch India 3
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-name="Watch India 4" group-title="durbintv",Watch India 4
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794670422-0-0-1ed44e05cd4ba26b1120aefd31c6442a
 
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0

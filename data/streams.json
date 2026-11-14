@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-14T09:54:38.923Z",
+  "generated": "2026-11-14T16:26:00.373Z",
   "total": 52,
-  "successful": 17,
-  "failed": 35,
+  "successful": 19,
+  "failed": 33,
   "streams": [
     {
       "name": "Live 1",
@@ -41,10 +41,19 @@
       "key": "b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
+      "m3u8": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794670144-0-0-79a1adc7171b1c7a11e7dae27fb4abd1",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
       "name": "IPL 2026 (80)",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "m3u8": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8",
+      "m3u8": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794670144-0-0-79a1adc7171b1c7a11e7dae27fb4abd1",
       "kid": null,
       "key": null,
       "mpd": null
@@ -62,7 +71,16 @@
       "name": "Watch India 2",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india-2/76",
-      "m3u8": "https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8",
+      "m3u8": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794670071-0-0-0296e8eaacc2f22c425a6a4a002b754b",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
+      "name": "Watch India 3",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-india-3/75",
+      "m3u8": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -71,7 +89,7 @@
       "name": "Watch India 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india-4/74",
-      "m3u8": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+      "m3u8": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794670422-0-0-1ed44e05cd4ba26b1120aefd31c6442a",
       "kid": null,
       "key": null,
       "mpd": null
@@ -160,12 +178,6 @@
   ],
   "errors": [
     {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
-    },
-    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "status": "login_required",
@@ -176,12 +188,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/watch-india/77"
-    },
-    {
-      "name": "Watch India 3",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-india-3/75"
     },
     {
       "name": "Germany",
