@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-15T01:33:24.090Z",
+  "generated": "2026-11-15T08:55:55.765Z",
   "total": 52,
-  "successful": 18,
-  "failed": 34,
+  "successful": 16,
+  "failed": 36,
   "streams": [
     {
       "name": "Live 1",
@@ -39,24 +39,6 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "name": "PSL Match (79)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/today-psl-match/79",
-      "m3u8": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794670144-0-0-79a1adc7171b1c7a11e7dae27fb4abd1",
-      "kid": null,
-      "key": null,
-      "mpd": null
-    },
-    {
-      "name": "IPL 2026 (80)",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/ipl-2026/80",
-      "m3u8": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794670144-0-0-79a1adc7171b1c7a11e7dae27fb4abd1",
-      "kid": null,
-      "key": null,
-      "mpd": null
     },
     {
       "name": "IPL 2026 (81)",
@@ -169,10 +151,22 @@
   ],
   "errors": [
     {
+      "name": "PSL Match (79)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/today-psl-match/79"
+    },
+    {
       "name": "PSL Match (83)",
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/today-psl-match/83"
+    },
+    {
+      "name": "IPL 2026 (80)",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/ipl-2026/80"
     },
     {
       "name": "Watch India",
