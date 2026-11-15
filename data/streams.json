@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-15T16:10:33.996Z",
+  "generated": "2026-11-15T21:30:09.716Z",
   "total": 52,
-  "successful": 16,
-  "failed": 36,
+  "successful": 17,
+  "failed": 35,
   "streams": [
     {
       "name": "Live 1",
@@ -50,10 +50,10 @@
       "mpd": null
     },
     {
-      "name": "Watch India 2",
+      "name": "Watch India 3",
       "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-india-2/76",
-      "m3u8": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794670071-0-0-0296e8eaacc2f22c425a6a4a002b754b",
+      "url": "https://durbintv.com/livetv/watch/watch-india-3/75",
+      "m3u8": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -62,7 +62,16 @@
       "name": "Watch India 4",
       "site": "durbintv",
       "url": "https://durbintv.com/livetv/watch/watch-india-4/74",
-      "m3u8": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794670422-0-0-1ed44e05cd4ba26b1120aefd31c6442a",
+      "m3u8": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+      "kid": null,
+      "key": null,
+      "mpd": null
+    },
+    {
+      "name": "Portugal 2",
+      "site": "durbintv",
+      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70",
+      "m3u8": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
       "kid": null,
       "key": null,
       "mpd": null
@@ -175,10 +184,10 @@
       "url": "https://durbintv.com/livetv/watch/watch-india/77"
     },
     {
-      "name": "Watch India 3",
+      "name": "Watch India 2",
       "site": "durbintv",
       "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-india-3/75"
+      "url": "https://durbintv.com/livetv/watch/watch-india-2/76"
     },
     {
       "name": "Germany",
@@ -197,12 +206,6 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/watch-live-portugal/71"
-    },
-    {
-      "name": "Portugal 2",
-      "site": "durbintv",
-      "status": "login_required",
-      "url": "https://durbintv.com/livetv/watch/watch-live-portugal-2/70"
     },
     {
       "name": "LaLiga",
