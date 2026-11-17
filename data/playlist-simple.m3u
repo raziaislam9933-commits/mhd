@@ -29,9 +29,6 @@ https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea
 #EXTINF:-1 tvg-name="Watch India 4" group-title="durbintv",Watch India 4
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 
-#EXTINF:-1 tvg-name="Portugal 2" group-title="durbintv",Portugal 2
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTGRP:durbintv
