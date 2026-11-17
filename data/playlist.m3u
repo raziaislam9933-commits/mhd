@@ -28,10 +28,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 
 #EXTINF:-1 tvg-name="Watch India 3" group-title="durbintv",Watch India 3
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-
-#EXTINF:-1 tvg-name="Watch India 4" group-title="durbintv",Watch India 4
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+https://live05.yefpwmc.app/live/75915087.m3u8?_t=1794923964018
 
 #EXTINF:-1 tvg-name="Serie A 69" group-title="durbintv",Serie A (69)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
