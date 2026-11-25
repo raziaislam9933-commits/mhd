@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-24T17:10:39.769Z",
+  "generated": "2026-11-25T01:59:46.064Z",
   "total": 52,
-  "successful": 14,
-  "failed": 38,
+  "successful": 13,
+  "failed": 39,
   "streams": [
     {
       "name": "Live 1",
@@ -39,15 +39,6 @@
       "m3u8": null,
       "kid": "290e09c837da78d5cd961978d390515c",
       "key": "b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "name": "Watch India",
-      "site": "durbintv",
-      "url": "https://durbintv.com/livetv/watch/watch-india/77",
-      "m3u8": "https://www.rtmpcdn.com/live/bb53c010-aa9e-4eaf-8c8d-d93f39f33707.m3u8",
-      "kid": null,
-      "key": null,
-      "mpd": null
     },
     {
       "name": "Serie A (69)",
@@ -155,6 +146,12 @@
       "site": "durbintv",
       "status": "login_required",
       "url": "https://durbintv.com/livetv/watch/ipl-2026/81"
+    },
+    {
+      "name": "Watch India",
+      "site": "durbintv",
+      "status": "login_required",
+      "url": "https://durbintv.com/livetv/watch/watch-india/77"
     },
     {
       "name": "Watch India 2",
